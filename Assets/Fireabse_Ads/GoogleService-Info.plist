@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>898719718717-000kq8t653s8sm317j86trgd0fv83nr9.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.898719718717-000kq8t653s8sm317j86trgd0fv83nr9</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC9lOkKROKnScjGUW-iK5ZLIkZiUSVttj8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>898719718717</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.hoitstudio.Styx</string>
+	<key>PROJECT_ID</key>
+	<string>styx-1fcb2</string>
+	<key>STORAGE_BUCKET</key>
+	<string>styx-1fcb2.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:898719718717:ios:80359203a05da6541cb954</string>
+	<key>DATABASE_URL</key>
+	<string>https://styx-1fcb2-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

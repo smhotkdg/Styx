@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - star
+  - npc
+  - player
+  - QuestObject
+  - ground
+  - Projectile
+  - BoxExit
+  - FactoryManagerEndPos
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - background
+  - object
+  - player
+  - flashlight
+  - flashlightObject
+  - water
+  - 
+  - boxLayer
+  - boxLayerGoal
+  - numberRouletteGame
+  - subCamera
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 922579683
+    locked: 0
+  - name: object
+    uniqueID: 2486351755
+    locked: 0
+  - name: npc
+    uniqueID: 941659015
+    locked: 0
+  - name: player
+    uniqueID: 3812175603
+    locked: 0
+  - name: water
+    uniqueID: 388913777
+    locked: 0
+  - name: GUI
+    uniqueID: 3122745021
+    locked: 0
+  - name: Game
+    uniqueID: 3505171481
+    locked: 0

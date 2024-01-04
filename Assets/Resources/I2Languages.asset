@@ -1,0 +1,4296 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f0b0c553be8edd4682e9180fdd13e37, type: 3}
+  m_Name: I2Languages
+  m_EditorClassIdentifier: 
+  mSource:
+    UserAgreesToHaveItOnTheScene: 0
+    UserAgreesToHaveItInsideThePluginsFolder: 0
+    GoogleLiveSyncIsUptoDate: 1
+    mTerms:
+    - Term: Action
+      TermType: 0
+      Description: 
+      Languages:
+      - Acting Power
+      - "\uD589\uB3D9\uB825"
+      - "\u884C\u52D5\u529B"
+      - Potere di azione
+      - "Poder de acci\xF3n"
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: ActionCount
+      TermType: 0
+      Description: 
+      Languages:
+      - +100 Acting Power
+      - "+100 \uD589\uB3D9\uB825"
+      - "+100 \u884C\u52D5\u529B"
+      - Potere di azione +100
+      - "Poder de acci\xF3n +100"
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Action_UI
+      TermType: 0
+      Description: 
+      Languages:
+      - Acting
+      - "\uD589\uB3D9\uB825"
+      - "\u884C\u52D5\u529B"
+      - Azione
+      - "Acci\xF3n"
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Ads
+      TermType: 0
+      Description: 
+      Languages:
+      - ADS
+      - "\uAD11\uACE0"
+      - "\u5E83\u544A"
+      - ANNUNCI
+      - Anuncios
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: All_story_progression
+      TermType: 0
+      Description: 
+      Languages:
+      - Remove all Ads
+      - "\uBAA8\uB4E0 \uAD11\uACE0 \uC81C\uAC70"
+      - "\u3059\u3079\u3066\u306E\u5E83\u544A\u9664\u53BB"
+      - 'Rimuovi tutti gli annunci '
+      - Eliminar todos los anuncios
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: App_Name
+      TermType: 0
+      Description: 
+      Languages:
+      - The Sea of Death
+      - "\uC8FD\uC74C\uC758 \uBC14\uB2E4"
+      - "\u4EA1\u8005\u30CE\u8239"
+      - The Sea of Death
+      - El Mar de la Muerte
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: BGM
+      TermType: 0
+      Description: 
+      Languages:
+      - BGM
+      - "\uBC30\uACBD\uC74C"
+      - "\u80CC\u666F\u97F3"
+      - BGM
+      - "M\xFAsica"
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Bag
+      TermType: 0
+      Description: 
+      Languages:
+      - Bag
+      - "\uAC00\uBC29"
+      - "\u30AB\u30D0\u30F3"
+      - Sacca
+      - Bolsa
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Book_1_1
+      TermType: 0
+      Description: 
+      Languages:
+      - 'They say memory is like a religion.
+
+        It''s something you want to
+        rely on.
+
+        We lost our path within ourselves and kept walking.
+
+        Just
+        like a sleepwalker.'
+      - "\uAE30\uC5B5\uC740 \uC885\uAD50\uB7AC\uC9C0.\n\uC790\uAFB8\uB9CC \uAE30\uB300\uACE0
+        \uC2F6\uC73C\uB2C8\uAE4C,\n\uC6B0\uB9AC\uB294 \uC790\uC2E0\uC758 \uBAB8 \uC548\uC5D0\uC11C
+        \uAE38\uC744 \uC783\uC5C8\uACE0,\n\uAC77\uACE0 \uAC78\uC5C8\uB2E4. \uBABD\uC720\uBCD1
+        \uD658\uC790\uCC98\uB7FC."
+      - "\u8A18\u61B6\u3068\u5B97\u6559\u306F\u540C\u3058\u3089\u3057\u3044\u3002\n\u4F55\u5EA6\u3082\u983C\u308A\u305F\u304F\u306A\u308B\u304B\u3089\u3002\n\u79C1\u305F\u3061\u306F\u81EA\u8EAB\u306E\u4F53\u306E\u4E2D\u3067\u9053\u306B\u8FF7\u3044\u3001\n\u3042\u308B\u304D\u7D9A\u3051\u3066\u3044\u305F\u3002\u307E\u308B\u3067\u5922\u904A\u75C5\u306E\u3088\u3046\u306B\u3002"
+      - "Si dice che la memoria sia come una religione.\n\xC8 qualcosa su cui vuoi
+        fare affidamento.\nAbbiamo perso la nostra strada dentro di noi e abbiamo
+        continuato a camminare.\nProprio come un sonnambulo."
+      - "Dicen que los recuerdos son como una religi\xF3n.\nAlgo a lo que aferrarte.\nNos
+        hemos salido del camino y no nos hemos dado cuenta.\nComo si fu\xE9ramos
+        son\xE1mbulos."
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: BoxHint
+      TermType: 0
+      Description: 
+      Languages:
+      - The kid who worked here before put the boxes in the opposite place to where
+        they should have gone.
+      - "\uC774\uC804\uC5D0 \uC77C\uD558\uB358 \uCE5C\uAD6C\uAC00 \uBB3C\uAC74\uC744
+        \uBC18\uB300\uB85C \uC815\uB9AC\uD588\uB2E4\uACE0 \uD55C\uB2E4.\n\uC67C\uCABD
+        \uBB3C\uAC74\uC744 \uC624\uB978\uCABD\uC73C\uB85C,\n\uC624\uB978\uCABD \uBB3C\uAC74\uC744
+        \uBAA8\uB450 \uC67C\uCABD\uC73C\uB85C \uC62E\uACA8\uC57C \uD55C\uB2E4."
+      - "\u4EE5\u524D\u50CD\u3044\u3066\u3044\u305F\u4EBA\u304C\u7269\u3092\u53CD\u5BFE\u306B\u4E26\u3079\u305F\u3089\u3057\u3044\u3002\n\u5DE6\u306B\u3042\u308B\u7269\u3092\u53F3\u306B\n\u53F3\u306E\u7269\u306F\u5DE6\u306B\u904B\u3070\u306A\u3051\u308C\u3070\u306A\u3089\u306A\u3044\u3002"
+      - Il ragazzo che lavorava qui prima ha messo le scatole nel posto opposto a
+        dove sarebbero dovute essere.
+      - "El chaval\xEDn que trabaja aqu\xED mezcl\xF3 las cajas y las puso al rev\xE9s
+        de como deben ir."
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: CanNotEvent
+      TermType: 0
+      Description: 
+      Languages:
+      - Not available during the event.
+      - "\uC774\uBCA4\uD2B8 \uC911\uC5D0\uB294 \uC0AC\uC6A9\uD560 \uC218 \uC5C6\uC2B5\uB2C8\uB2E4."
+      - "\u30A4\u30D9\u30F3\u30C8\u4E2D\u306B\u306F\u4F7F\u3048\u307E\u305B\u3093\u3002"
+      - Non disponibile durante l'evento.
+      - No disponible durante el evento.
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Close
+      TermType: 0
+      Description: 
+      Languages:
+      - Close
+      - "\uB2EB\uAE30"
+      - "\u9589\u3058\u308B"
+      - Chiudi
+      - Cerrar
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Confirm
+      TermType: 0
+      Description: 
+      Languages:
+      - Check
+      - "\uD655\uC778"
+      - "\u78BA\u8A8D"
+      - Dai un'occhiata
+      - Comprobar
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Cost
+      TermType: 0
+      Description: 
+      Languages:
+      - $4.99
+      - "\u20A95,900"
+      - "\xA5590"
+      - '$4.99 '
+      - '$4.99 '
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Craft
+      TermType: 0
+      Description: 
+      Languages:
+      - Crafting complete!
+      - "\uC81C\uC791 \uC644\uB8CC"
+      - "\u88FD\u4F5C\u5B8C\u4E86"
+      - Forgiatura completata!
+      - "\xA1Creaci\xF3n completada!"
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Creator
+      TermType: 0
+      Description: 
+      Languages:
+      - Creator
+      - "\uCC3D\uC870\uC8FC"
+      - "\u5275\u9020\u4E3B"
+      - Creatore
+      - Creador
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Delete
+      TermType: 0
+      Description: 
+      Languages:
+      - Delete
+      - "\uC0AD\uC81C"
+      - "\u524A\u9664"
+      - Elimina
+      - Eliminar
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: DeleteHistory
+      TermType: 0
+      Description: 
+      Languages:
+      - Delete Recording
+      - "\uAE30\uB85D \uC0AD\uC81C"
+      - "\u8A18\u9332\u524A\u9664"
+      - Elimina registrazione
+      - "Eliminar grabaci\xF3n"
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: DragBook
+      TermType: 0
+      Description: 
+      Languages:
+      - Drag to flip the book
+      - "\uB4DC\uB798\uADF8 \uD558\uC5EC \uB118\uAE30\uAE30"
+      - "\u30C9\u30E9\u30C3\u30B0\u3057\u3066\u30B9\u30EF\u30A4\u30D7"
+      - Trascina per capovolgere il libro
+      - Arrastra para pasar.
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Drone
+      TermType: 0
+      Description: 
+      Languages:
+      - Drone
+      - "\uB4DC\uB860"
+      - "\u30C9\u30ED\u30FC\u30F3"
+      - Drone
+      - Zumbido
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: "\u30C9\u30ED\u30FC\u30F3"
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: DroneCheck
+      TermType: 0
+      Description: 
+      Languages:
+      - Are you a Sky Town citizen?
+      - "\uC2A4\uCE74\uC774 \uD0C0\uC6B4 \uC2DC\uBBFC\uC774 \uB9DE\uC2B5\uB2C8\uAE4C?"
+      - "\u30B9\u30AB\u30A4\u30BF\u30A6\u30F3\u306E\u5E02\u6C11\u3067\u3059\u304B\uFF1F"
+      - Sei un cittadino di Sky Town?
+      - "\xBFEres un ciudadano de Ciudad C\xE9lica?"
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: DroneComplete
+      TermType: 0
+      Description: 
+      Languages:
+      - Successfully Connected To The Drone
+      - "\uB4DC\uB860\uACFC \uC131\uACF5\uC801\uC73C\uB85C \uC5F0\uACB0 \uB418\uC5C8\uC2B5\uB2C8\uB2E4"
+      - "\u30C9\u30ED\u30FC\u30F3\u3068\u306E\u9023\u7D50\u306B\u6210\u529F\u3057\u307E\u3057\u305F\u3002"
+      - Collegato al drone correttamente
+      - "Conectado con \xE9xito al dron"
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: DroneConnect
+      TermType: 0
+      Description: 
+      Languages:
+      - Drone Connection Successful
+      - "\uB4DC\uB860 \uC5F0\uACB0 \uC131\uACF5"
+      - "\u30C9\u30ED\u30FC\u30F3\u9023\u7D50\u6210\u529F"
+      - Connessione al drone riuscita
+      - "Conexi\xF3n al dron con \xE9xito"
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: DrugMake
+      TermType: 0
+      Description: 
+      Languages:
+      - Mix Poison
+      - "\uB3C5\uC57D \uD0C0\uAE30"
+      - "\u6BD2\u85AC\u3092\u5165\u308C\u308B"
+      - Mescola il veleno
+      - Mezclar veneno
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Emergencyareaactivation
+      TermType: 0
+      Description: 
+      Languages:
+      - Activate emergency zone
+      - "\uBE44\uC0C1\uAD6C\uC5ED \uD65C\uC131\uD654"
+      - "\u975E\u5E38\u533A\u57DF\u6D3B\u6027\u5316"
+      - Attiva la zona di emergenza
+      - Activar el estado de emergencia
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: EmptyBag
+      TermType: 0
+      Description: 
+      Languages:
+      - Nothing in the bag.
+      - "\uC18C\uC9C0\uD55C \uBB3C\uAC74\uC774 \uC5C6\uC2B5\uB2C8\uB2E4."
+      - "\u6240\u6301\u54C1\u304C\u3042\u308A\u307E\u305B\u3093\u3002"
+      - Niente nella sacca.
+      - "Bolsa vac\xEDa."
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: EndGame
+      TermType: 0
+      Description: 
+      Languages:
+      - Are You Sure You Want To Quit The Game?
+      - "\uAC8C\uC784\uC744 \uC885\uB8CC \uD558\uC2DC\uACA0\uC2B5\uB2C8\uAE4C?"
+      - "\u30B2\u30FC\u30E0\u3092\u7D42\u4E86\u3057\u307E\u3059\u304B\uFF1F"
+      - Sei sicuro di voler uscire dal gioco?
+      - "\xBFQuieres salir del juego?"
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: EndingCard
+      TermType: 0
+      Description: 
+      Languages:
+      - Ending Card
+      - "\uC5D4\uB529 \uCE74\uB4DC"
+      - "\u30A8\u30F3\u30C7\u30A3\u30F3\u30B0\u30AB\u30FC\u30C9"
+      - Carta finale
+      - Carta de final
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Ending_1
+      TermType: 0
+      Description: 
+      Languages:
+      - '[The ship continued to sail on the ocean, but land was nowhere to be found.
+        So the people starved to death.]'
+      - "[ \uADF8\uB4E4\uC740 \uADF8\uB807\uAC8C \uACC4\uC18D\uD574\uC11C \uD56D\uD574\uB97C
+        \uD588\uC9C0\uB9CC \uACB0\uAD6D \uC0C8\uB85C\uC6B4 \uC721\uC9C0\uB97C \uCC3E\uC9C0
+        \uBABB\uD558\uACE0 \uADF8\uB300\uB85C \uAD76\uC5B4\uC8FD\uC5C8\uB2E4. ]"
+      - "[\u5F7C\u3089\u305D\u3046\u3084\u3063\u3066\u822A\u6D77\u3092\u7D9A\u3051\u305F\u304C\u3001\u7D50\u5C40\u65B0\u3057\u3044\u9678\u5730\u306F\u898B\u3064\u304B\u3089\u305A\u3001\u9913\u6B7B\u3057\u3066\u3057\u307E\u3063\u305F\u3002]"
+      - "[La nave continu\xF2 a navigare sull'oceano, ma la terraferma non si trovava
+        da nessuna parte. Cos\xEC le persone morirono di fame.]"
+      - "[El barco continu\xF3 navegando. Sin tierra a la vista, los pasajeros se
+        murieron de hambre.]"
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Ending_2
+      TermType: 0
+      Description: 
+      Languages:
+      - '[The submarine exploded and everyone died.]'
+      - "[ \uC7A0\uC218\uD568\uC740 \uD3ED\uD30C\uB418\uC5B4 \uADF8\uB4E4\uC740 \uBAA8\uB450
+        \uC8FD\uAC8C \uB418\uC5C8\uB2E4. ]"
+      - "[\u6F5C\u6C34\u8266\u306F\u7206\u767A\u3055\u308C\u3001\u5F7C\u3089\u306F\u5168\u54E1\u6B7B\u3093\u3067\u3057\u307E\u3063\u305F\u3002]"
+      - '[Il sottomarino esplose e tutti morirono.]'
+      - "[El submarino explot\xF3 y murieron todos.]"
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Ending_3
+      TermType: 0
+      Description: 
+      Languages:
+      - '[The priest used the religion to take over the ark. This religion created
+        its own vested interests. They then exploited the citizens and killed them.]'
+      - "[ \uBC29\uC8FC\uB294 \uAD50\uC8FC\uC5D0 \uC758\uD574 \uC885\uAD50\uAC00
+        \uC7A5\uC545\uD558\uAC8C \uB418\uC5C8\uB2E4.\n\uC885\uAD50\uB294 \uADF8\uB4E4\uB9CC\uC758
+        \uAE30\uB4DD\uAD8C\uC744 \uAD6C\uCD95\uD558\uC5EC \uC2A4\uCE74\uC774 \uD0C0\uC6B4
+        \uC2DC\uBBFC\uB4E4\uC744 \uCC29\uCDE8\uD558\uACE0 \uC0B4\uD574\uD558\uC600\uB2E4.
+        ]"
+      - "[\u65B9\u821F\u306F\u6559\u7956\u306B\u3088\u3063\u3066\u5B97\u6559\u306B\u638C\u63E1\u3055\u308C\u305F\u3002\n\u5B97\u6559\u306F\u81EA\u3089\u306E\u6A29\u529B\u306B\u3053\u3060\u308F\u3063\u3066\u3057\u307E\u3044\u3001\u30B9\u30AB\u30A4\u30BF\u30A6\u30F3\u306E\u5E02\u6C11\u3092\u643E\u53D6\u3057\u3001\u6BBA\u5BB3\u3057\u305F\u3002]"
+      - "[Il sacerdote us\xF2 la religione per prendere il controllo sull'arca. Questa
+        religione cre\xF2 i propri interessi acquisiti, sfruttando e uccidendo i
+        cittadini.]"
+      - "[El sacerdote us\xF3 la religi\xF3n para hacerse con el arca. Como se bas\xF3
+        en unos principios corruptos, explot\xF3 a la ciudadan\xEDa y los mat\xF3.]"
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Ending_4
+      TermType: 0
+      Description: 
+      Languages:
+      - '[Afterwards, the revolutionary army took over the ark. The hardware store
+        owner became the leader of the ark and endeavored to eliminate corruption.
+        However, it was not an easy task.]'
+      - "[ \uBC29\uC8FC\uB294 \uD601\uBA85\uAD70\uC5D0\uAC8C \uC7A5\uC545\uB418\uC5C8\uACE0
+        \n\uCCA0\uBB3C\uC810 \uC8FC\uC778\uC740 \uBC29\uC8FC\uC758 \uC9C0\uB3C4\uC790\uAC00
+        \uB418\uC5C8\uC73C\uBA70 \n\uBC29\uC8FC\uC758 \uC369\uC740 \uBD80\uBD84\uC744
+        \uB3C4\uB824\uB0B4\uAE30 \uC704\uD574 \uB178\uB825\uD558\uC600\uB2E4.\n\uD558\uC9C0\uB9CC
+        \uADF8 \uACFC\uC815\uC740 \uACB0\uCF54 \uC27D\uC9C0 \uC54A\uC558\uB2E4. ]"
+      - "\n[\u65B9\u821F\u306F\u9769\u547D\u8ECD\u306B\u5360\u9818\u3055\u308C\u3001\n\u5DE5\u5177\u5C4B\u306E\u4E3B\u4EBA\u306F\u65B9\u821F\u306E\u6307\u5C0E\u8005\u3068\u306A\u308A\u3001\n\u65B9\u821F\u306E\u6539\u9769\u306B\u52AA\u3081\u305F\u3002\n\u3057\u304B\u3057\u3001\u305D\u306E\u904E\u7A0B\u306F\u6C7A\u3057\u3066\u7C21\u5358\u3067\u306F\u306A\u304B\u3063\u305F\u3002]"
+      - "[In seguito, l'esercito rivoluzionario prese possesso dell'arca. Il proprietario
+        del negozio di ferramenta divenne il capo dell'arca e si impegn\xF2 a eliminare
+        la corruzione. Tuttavia, non fu un compito facile.]"
+      - "[El frente revolucionario se hizo con el arca. El due\xF1o de la tienda
+        de electr\xF3nica se convirti\xF3 en el l\xEDder y se comprometi\xF3 a eliminar
+        la corrupci\xF3n. Por desgracia, no fue una tarea sencilla.]"
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Ending_5
+      TermType: 0
+      Description: 
+      Languages:
+      - '[I helped a hardware store owner and revolutionary forces to make the ark
+        a peaceful world.
+
+        As time passed, the ark became stable, and on
+        one side of my mind, my longing for my hometown grew. I made up my mind to
+        go back to my hometown.]'
+      - "[ \uBC29\uC8FC\uAC00 \uD3C9\uD654\uB85C\uC6B4 \uC138\uC0C1\uC774 \uB418\uB3C4\uB85D
+        \uCCA0\uBB3C\uC810 \uC8FC\uC778\uACFC \uD601\uBA85\uAD70\uB4E4\uC744 \uB3C4\uC640\uC8FC\uC5C8\uB2E4.\n\uC2DC\uAC04\uC774
+        \uC9C0\uB098\uBA70 \uBC29\uC8FC\uAC00 \uC548\uC815\uC774 \uB418\uC5B4\uAC08\uC218\uB85D
+        \uB9C8\uC74C \uD55C\uD3B8\uC5D0\uB294 \uACE0\uD5A5\uC5D0 \uB300\uD55C \uADF8\uB9AC\uC6C0\uC774
+        \uC810\uC810 \uCEE4\uC838\uAC14\uACE0\n\uAF2D \uACE0\uD5A5\uC73C\uB85C \uB3CC\uC544\uAC00\uB9AC\uB77C
+        \uB2E4\uC9D0\uD588\uB2E4. ]"
+      - "[\u65B9\u821F\u304C\u5E73\u548C\u306A\u4E16\u754C\u306A\u308B\u305F\u3081\u306B\u5DE5\u5177\u5C4B\u306E\u4E3B\u4EBA\u3068\u9769\u547D\u8ECD\u305F\u3061\u306B\u5354\u529B\u3057\u305F\u3002\n\u6642\u304C\u7D4C\u3061\u3001\u65B9\u821F\u304C\u5C11\u3057\u305A\u3064\u843D\u3061\u7740\u304D\u3092\u307F\u305B\u3066\u304F\u308B\u307B\u3069\u3001\u5FC3\u306E\u7247\u9685\u304B\u3089\u6545\u90F7\u3078\u306E\u601D\u3044\u304C\u5927\u304D\u304F\u306A\u308A\u3001\n\u5FC5\u305A\u6545\u90F7\u306B\u5E30\u308B\u3053\u3068\u3092\u8A93\u3063\u305F\u3002]"
+      - "[Ho aiutato il proprietario di un negozio di ferramenta e le forze rivoluzionarie
+        a rendere l'arca un posto pacifico.\nCol passare del tempo, mentre l'arca
+        diventava sempre pi\xF9 stabile, in una parte della mia mente crebbe il desiderio
+        per la mia citt\xE0 natale. Decisi quindi di tornare nella mia citt\xE0 natale.]"
+      - "[He ayudado al due\xF1o de la tienda de electr\xF3nica y a su frente revolucionario
+        a tomar el mando del arca para instaurar la paz.\nCon el paso del tiempo
+        y el arca estable, sent\xED deseos de volver a mi hogar. Decid\xED que era
+        la mejor opci\xF3n y me march\xE9.]"
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Ending_6
+      TermType: 0
+      Description: 
+      Languages:
+      - '[He helped the revolutionary armies establish a new order in the ark until
+        the day he can return to his hometown. Due to his efforts, the ark became
+        peaceful once more and everyone obtained equal rights. He hopes to return
+        home safe and sound...]'
+      - "[ \uACE0\uD5A5\uC744 \uCC3E\uC744 \uB54C\uAE4C\uC9C0 \uD601\uBA85\uAD70\uC744
+        \uB3C4\uC640 \uBC29\uC8FC\uC758 \uC0C8\uB85C\uC6B4 \uBC29\uC2DD\uC744 \uB3C4\uC785\uD558\uC5EC\n\uBC29\uC8FC\uB294
+        \uD3C9\uD654\uB85C\uC6CC\uC84C\uACE0 \uBAA8\uB4E0 \uD3C9\uB4F1\uD558\uAC8C
+        \uAD8C\uB9AC\uB97C \uB204\uB9B4 \uC218 \uC788\uAC8C \uBCC0\uD558\uC600\uB2E4.\n\uADF8\uB9AC\uACE0
+        \uBB34\uC0AC\uD788 \uACE0\uD5A5\uC73C\uB85C \uB3CC\uC544\uAC08 \uC218 \uC788\uAE30\uB97C..
+        ]"
+      - "[\u6545\u90F7\u3092\u63A2\u3059\u307E\u3067\u9769\u547D\u8ECD\u306B\u5354\u529B\u3057\u3001\u65B9\u821F\u306E\u65B0\u3057\u3044\u30B7\u30B9\u30C6\u30E0\u3092\u5C0E\u5165\u3059\u308B\u3053\u3068\u3067\n\u65B9\u821F\u306F\u5E73\u548C\u306B\u306A\u308A\u3001\u5168\u3066\u306E\u5E02\u6C11\u304C\u5E73\u7B49\u306B\u6A29\u5229\u3092\u6301\u3064\u3088\u3046\u306B\u306A\u3063\u305F\u3002\n\u5F8C\u306F\u7121\u4E8B\u306B\u6545\u90F7\u306B\u5E30\u308A\u307E\u3059\u3088\u3046\u306B\u2026]"
+      - "[Ha aiutato gli eserciti rivoluzionari a stabilire un nuovo ordine nell'arca
+        fino al giorno in cui potr\xE0 tornare nella sua citt\xE0 natale. Grazie
+        ai suoi sforzi, l'arca torn\xF2 ad essere un posto pacifico e tutti ottennero
+        uguali diritti. Spera di tornare a casa sano e salvo...]"
+      - "[Ayud\xF3 al frente revolucionario a establecer un nuevo orden en el arca
+        hasta poder volver a su hogar. Gracias a sus esfuerzos, el arca fue un lugar
+        pac\xEDfico e igualitario. Espera volver a su hogar sano y salvo alg\xFAn
+        d\xEDa...]"
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Ending_Specail
+      TermType: 0
+      Description: 
+      Languages:
+      - '[THE STAR]
+
+
+        [All the people on the ark work together to move towards
+        a hopeful future.]'
+      - "[THE STAR]\n\n[\uBC29\uC8FC\uC758 \uBAA8\uB4E0 \uC0AC\uB78C\uB4E4\uC774
+        \uC11C\uB85C \uD798\uC744 \uD569\uCCD0 \uD76C\uB9DD\uC801\uC778 \uBBF8\uB798\uB97C
+        \uD5A5\uD574 \uB098\uC544\uAC04\uB2E4.]"
+      - "[THE STAR]\n\n[\u65B9\u821F\u306E\u5168\u3066\u306E\u4EBA\u3005\u304C\u529B\u3092\u5408\u308F\u305B\u3066\u5E0C\u671B\u306E\u672A\u6765\u306B\u5411\u304B\u3063\u3066\u9032\u3093\u3067\u3044\u304F\u3002]"
+      - '[LA STELLA]
+
+
+        [Tutte le persone sull''arca collaborano per incamminarsi
+        verso un futuro pieno di speranza.]'
+      - '[LA ESTRELLA]
+
+
+        [Todo el arca trabaja codo con codo para conseguir
+        un futuro mejor.]'
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Ending_Specail_Card
+      TermType: 0
+      Description: 
+      Languages:
+      - '[THE STAR]
+
+
+        Believe that life is worth living
+
+        and your
+        belief will help it come to fruition.'
+      - "[THE STAR]\n\n\uC0B6\uC774 \uAC00\uCE58\uAC00 \uC788\uB2E4\uACE0 \uBBFF\uC5B4\uB77C.\n\uADF8\uB7EC\uBA74
+        \uADF8 \uBBFF\uC74C\uC740 \uD604\uC2E4\uC774 \uB420 \uAC83\uC774\uB2E4."
+      - "[THE STAR]\n\n\u4FA1\u5024\u306E\u3042\u308B\u4EBA\u751F\u3068\u4FE1\u3058\u306A\u3055\u3044\u3002\n\u305D\u3046\u3059\u308C\u3070\u73FE\u5B9F\u306B\u306A\u308B\u3002"
+      - "[LA STELLA]\n\nCredi che la vita sia degna di essere vissuta\ne tua convinzione
+        la aiuter\xE0 a realizzarsi."
+      - "[LA ESTRELLA]\n\nConf\xEDa en que la vida est\xE1 para vivirla\ny haz tus
+        sue\xF1os realidad."
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Enter
+      TermType: 0
+      Description: 
+      Languages:
+      - Enter
+      - "\uC785\uB825"
+      - "\u5165\u529B"
+      - Inserisci
+      - Introducir
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: EnterCode
+      TermType: 0
+      Description: 
+      Languages:
+      - Enter Code
+      - "\uCF54\uB4DC \uC785\uB825"
+      - "\u30B3\u30FC\u30C9\u5165\u529B"
+      - Inserisci il codice
+      - "Introducir c\xF3digo"
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Event
+      TermType: 0
+      Description: 
+      Languages:
+      - Event
+      - "\uC774\uBCA4\uD2B8"
+      - "\u30A4\u30D9\u30F3\u30C8"
+      - Evento
+      - Evento
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Execution
+      TermType: 0
+      Description: 
+      Languages:
+      - Execution
+      - "\uC9D1\uD589"
+      - "\u57F7\u884C"
+      - Esecuzione
+      - "Ejecuci\xF3n"
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Farm
+      TermType: 0
+      Description: 
+      Languages:
+      - Farm
+      - "\uB18D\uC7A5"
+      - "\u8FB2\u5834"
+      - Fattoria
+      - Granja
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Find_Search
+      TermType: 0
+      Description: 
+      Languages:
+      - Search
+      - "\uC218\uC0C9"
+      - "\u635C\u7D22"
+      - Cerca
+      - Buscar
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Fire_event_1
+      TermType: 0
+      Description: 
+      Languages:
+      - What's wrong?
+      - "\uBB34\uC2A8 \uC77C\uC774\uC57C!"
+      - "\u3069\u3046\u3057\u305F\uFF01\uFF1F"
+      - "Cosa c'\xE8 che non va?"
+      - "\xBFQu\xE9 ocurre?"
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Fire_event_2
+      TermType: 0
+      Description: 
+      Languages:
+      - The warehouse caught on fire!
+      - "\uCC3D\uACE0\uC5D0 \uBD88\uC774 \uB0AC\uC5B4!"
+      - "\u5009\u5EAB\u306B\u706B\u4E8B\u304C\uFF01"
+      - Il magazzino ha preso fuoco!
+      - "\xA1El almac\xE9n est\xE1 en llamas!"
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Fire_event_3
+      TermType: 0
+      Description: 
+      Languages:
+      - FIRE!!
+      - "\uBD88\uC774\uC57C!!"
+      - "\u706B\u4E8B\u3060\uFF01\uFF01"
+      - AL FUOCO!!
+      - "\xA1Fuego!"
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Fx
+      TermType: 0
+      Description: 
+      Languages:
+      - FX
+      - "\uD6A8\uACFC\uC74C"
+      - "\u52B9\u679C\u97F3"
+      - EFFETTO SONORO
+      - Efectos
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: GetDrink
+      TermType: 0
+      Description: 
+      Languages:
+      - Obtain Beverage
+      - "\uC74C\uB8CC\uC218 \uD68D\uB4DD"
+      - "\u30C9\u30EA\u30F3\u30AF\u7372\u5F97"
+      - Ricevi una bevanda
+      - Obtener bebida
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: GetSeaweed
+      TermType: 0
+      Description: 
+      Languages:
+      - Collect Seaweed
+      - "\uD574\uCD08\uB958 \uCC44\uC9D1"
+      - "\u6D77\u85FB\u63A1\u96C6"
+      - Raccogli le alghe
+      - Recoger alga
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: GetSleepingPill
+      TermType: 0
+      Description: 
+      Languages:
+      - Obtain Sleeping Pill
+      - "\uC218\uBA74\uC81C \uD68D\uB4DD"
+      - "\u7761\u7720\u5264\u7372\u5F97"
+      - Ricevi il sonnifero
+      - "Obtener somn\xEDfero"
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Get_Touch
+      TermType: 0
+      Description: 
+      Languages:
+      - Tap to collect...
+      - "\uD130\uCE58\uD558\uC5EC \uCC44\uC9D1...."
+      - "\u30BF\u30C3\u30C1\u3057\u3066\u63A1\u96C6\u2026"
+      - Tocca per raccogliere...
+      - Toca para recoger.
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Getfruit
+      TermType: 0
+      Description: 
+      Languages:
+      - Harvest Fruits
+      - "\uACFC\uC77C \uC218\uD655"
+      - "\u679C\u7269\u53CE\u7A6B"
+      - Raccogli i frutti
+      - Recolectar frutas
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Go_bun
+      TermType: 0
+      Description: 
+      Languages:
+      - Move to the fountain...
+      - "\uBD84\uC218\uB300\uB85C \uC774\uB3D9...."
+      - "\u5674\u6C34\u53F0\u306B\u79FB\u52D5\u2026"
+      - Vai alla fontana...
+      - Ir a la fuente...
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: GrandFatherBook_1
+      TermType: 0
+      Description: 
+      Languages:
+      - 'I don''t think I''ll be able to stay here much longer.
+
+        Something
+        needs to change.
+
+        It won''t be easy, but it''s all for the human
+        race. '
+      - "\uC774\uB300\uB85C \uAC00\uB2E4\uAC04 \uC624\uB798 \uBC84\uD2F0\uC9C0 \uBABB\uD560
+        \uAC83 \uAC19\uB2E4.\n\uB300\uB300\uC801\uC778 \uBCC0\uD654\uAC00 \uD544\uC694\uD558\uB2E4.\n\uC27D\uC9C0
+        \uC54A\uACA0\uC9C0\uB9CC \uC778\uB958\uB97C \uC704\uD574\uC11C \uD574\uC57C\uB9CC
+        \uD55C\uB2E4."
+      - "\u3053\u306E\u307E\u307E\u3067\u306F\u8010\u3048\u304D\u308C\u306A\u3055\u305D\u3046\u3002\n\u5927\u304D\u306A\u5909\u5316\u304C\u5FC5\u8981\u3060\u3002\n\u7C21\u5358\u3067\u306F\u306A\u3044\u3060\u308D\u3046\u3002\u3057\u304B\u3057\u4EBA\u985E\u306E\u305F\u3081\u306B\u3084\u3089\u306A\u304D\u3083\u3044\u3051\u306A\u3044\u3002"
+      - "Non credo che potr\xF2 restare qui ancora a lungo.\nQualcosa deve cambiare.\nNon
+        sar\xE0 facile, ma deve essere fatto per il bene dell'umanit\xE0. "
+      - "No creo que me pueda quedar mucho m\xE1s tiempo.\nAlgo tiene que cambiar.\nNo
+        ser\xE1 f\xE1cil, pero es por el bien com\xFAn. "
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: GrandFatherBook_2
+      TermType: 0
+      Description: 
+      Languages:
+      - 'People are so selfish.
+
+        They always just look out for number one.
+
+        Wish
+        they could be more generous...'
+      - "\uC0AC\uB78C\uB4E4\uC774 \uB2E4 \uB108\uBB34 \uC774\uAE30\uC801\uC774\uB2E4.\n\uC790\uC2E0\uC758
+        \uC774\uC775\uB9CC \uCC59\uAE30\uB824\uACE0 \uD55C\uB2E4.\n\uC870\uAE08\uC529
+        \uC591\uBCF4\uD558\uBA74 \uC88B\uC73C\uB828\uB9CC..."
+      - "\u7686\u3001\u4EBA\u306E\u3053\u3068\u3057\u304B\u8003\u3048\u3066\u3044\u306A\u3044\u3002\n\u81EA\u8EAB\u306E\u640D\u5F97\u3057\u304B\u8003\u3048\u306A\u3044\u3093\u3060\u3002\n\u5C11\u3057\u305A\u3064\u8B72\u308A\u5408\u3048\u3070\u3044\u3044\u306E\u306B\u2026"
+      - "Le persone sono cos\xEC egoiste.\nCercano solo di prendersi cura dei propri
+        interessi..\nVorrei che potessero essere pi\xF9 generose..."
+      - "La gente es ego\xEDsta.\nSolo buscan ser los mejores.\nMe gustar\xEDa que
+        fuesen m\xE1s generosos..."
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: GrandFatherBook_3
+      TermType: 0
+      Description: 
+      Languages:
+      - 'I made a mistake and my family broke up.
+
+        It''s all my fault.
+
+        It''s
+        sad... I''ve lost the will to live...'
+      - "\uB0B4 \uC798\uBABB\uC73C\uB85C \uAC00\uC871\uB4E4\uC774 \uBFD4\uBFD4\uC774
+        \uD769\uC5B4\uC84C\uB2E4.\n\uB0B4 \uC798\uBABB\uC774\uB2E4.. \uB108\uBB34
+        \uC2AC\uD504\uB2E4...\n\uC0B4\uC544\uAC08 \uC790\uC2E0\uC774 \uC5C6\uB2E4..."
+      - "\u81EA\u5206\u306E\u305B\u3044\u3067\u5BB6\u65CF\u5168\u54E1\u30D0\u30E9\u30D0\u30E9\u3060\u3002\n\u81EA\u5206\u306E\u305B\u3044\u3060\u2026\u60B2\u3057\u3044\u2026\n\u751F\u304D\u3066\u3044\u3051\u308B\u81EA\u4FE1\u304C\u306A\u3044\u2026"
+      - "Ho commesso un errore e la mia famiglia \xE8 stata distrutta.\n\xC8 stata
+        tutta colpa mia.\n\xC8 triste... Ho perso la voglia di vivere..."
+      - "Comet\xED un error y mi familia lo pag\xF3.\nEs mi culpa.\nNo quiero seguir
+        viviendo..."
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: GrandFatherBook_4
+      TermType: 0
+      Description: 
+      Languages:
+      - "I just work here every day.\nI didn't expect to lead such an arduous life\u2026\nI
+        feel guilty."
+      - "\uC774\uACF3\uC5D0\uC11C\uB294 \uD558\uB8E8 \uC885\uC77C \uC77C\uB9CC\uD55C\uB2E4.\n\uC774\uB807\uAC8C
+        \uD798\uB4E4\uAC8C \uC0B4\uACE0 \uC788\uC744\uC904 \uBAB0\uB790\uB2E4....\n\uC8C4\uCC45\uAC10\uC774
+        \uB4E0\uB2E4."
+      - "\u3053\u3053\u3067\u306F\u7D42\u65E5\u50CD\u3044\u3066\u3070\u304B\u308A\u3060\u3002\n\u3053\u3093\u306A\u306B\u3082\u8F9B\u3044\u4EBA\u751F\u3060\u3068\u306F\u601D\u3063\u3066\u3044\u306A\u304B\u3063\u305F\u3002\n\u7F6A\u60AA\u611F\u3092\u611F\u3058\u308B\u3002"
+      - "Lavoro qui tutti i giorni.\nNon mi aspettavo di condurre una vita cos\xEC
+        faticosa...\nMi sento in colpa."
+      - "Trabajo todos los d\xEDas.\nPensaba que mi vida ser\xEDa m\xE1s sencilla...\nMe
+        invade la culpa."
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: GrandFatherBook_5
+      TermType: 0
+      Description: 
+      Languages:
+      - 'I miss my family dearly.
+
+        Life''s tough, but I need to keep going
+        if I want to meet them again one day.'
+      - "\uAC00\uC871\uB4E4\uC774 \uB108\uBB34 \uBCF4\uACE0 \uC2F6\uB2E4.\n\uC8FD\uC744
+        \uB9CC\uD07C \uD798\uB4E4\uC9C0\uB9CC \uC5B8\uC820\uAC00 \uB9CC\uB0A0 \uC218
+        \uC788\uB2E4\uB294\n\uD76C\uB9DD\uC744 \uAC16\uACE0 \uBC84\uD2F4\uB2E4."
+      - "\u5BB6\u65CF\u306B\u4F1A\u3044\u305F\u3044\u3002\n\u6B7B\u306C\u307B\u3069\u8F9B\u3044\u3051\u3069\u3001\u3044\u3064\u304B\u4F1A\u3048\u308B\u3068\u3044\u3046\n\u5E0C\u671B\u3060\u3051\u3067\u8010\u3048\u3066\u3044\u308B\u3002"
+      - "Mi manca molto la mia famiglia.\nLa vita \xE8 dura, ma devo andare avanti
+        se voglio incontrarli di nuovo un giorno."
+      - "Echo mucho de menos a mi familia.\nLa vida es dura, pero no puedo rendirme
+        o no les ver\xE9 nunca m\xE1s."
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: GrandFatherBook_6
+      TermType: 0
+      Description: 
+      Languages:
+      - 'A lot of time has passed and I''ve adjusted to my job here.
+
+        I wonder
+        if my family''s okay...'
+      - "\uB108\uBB34 \uC624\uB79C \uC2DC\uAC04\uC774 \uD758\uB800\uB2E4.\n\uC774\uC820
+        \uC801\uC751\uC774 \uB418\uC5B4 \uC774\uACF3 \uC77C\uB3C4 \uADF8\uB2E4\uC9C0
+        \uD798\uB4E4\uC9C0 \uC54A\uB2E4.\n\uC6B0\uB9AC \uAC00\uC871\uB4E4\uC740 \uBB34\uC0AC\uD560\uAE4C...."
+      - "\u3042\u307E\u308A\u306B\u3082\u9577\u3044\u6B73\u6708\u304C\u7D4C\u3063\u3066\u3057\u307E\u3063\u305F\u3002\n\u3053\u3053\u306B\u6163\u308C\u3066\u3057\u307E\u3044\u3001\u4ED5\u4E8B\u3082\u3042\u307E\u308A\u8F9B\u304F\u306A\u3044\u3002\n\u5BB6\u65CF\u306F\u7121\u4E8B\u3060\u308D\u3046\u304B\u2026"
+      - "\xC8 trascorso molto tempo e mi sono adattato al mio lavoro qui.\nChiss\xE0
+        se la mia famiglia sta bene..."
+      - "Ha pasado mucho tiempo y ya me he hecho al trabajo.\nEspero que mi familia
+        est\xE9 bien..."
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: GrandFatherBook_7
+      TermType: 0
+      Description: 
+      Languages:
+      - 'It''s been a while since I''ve written in my journal.
+
+        I gave up
+        on my hopes of meeting my family long ago.
+
+        I just hope they are
+        safe and sound...'
+      - "\uC624\uB79C\uB9CC\uC5D0 \uC77C\uAE30\uB97C \uC4F4\uB2E4.\n\uAC00\uC871\uACFC
+        \uB9CC\uB0A0 \uC218 \uC788\uB2E4\uB294 \uD76C\uB9DD\uC740 \uBC84\uB9B0 \uC9C0
+        \uC624\uB798\uB2E4.\n\uBD80\uB514 \uC798 \uC0B4\uACE0 \uC788\uAE30\uB9CC\uC744
+        \uBC14\uB784 \uBFD0\uC774\uB2E4.."
+      - "\u4E45\u3005\u306B\u65E5\u8A18\u3092\u3064\u3051\u308B\u3002\n\u5BB6\u65CF\u306B\u4F1A\u3048\u308B\u3068\u3044\u3046\u5E0C\u671B\u306F\u3068\u3063\u304F\u6614\u306B\u6368\u3066\u3066\u3044\u308B\u3002\n\u5143\u6C17\u3067\u3042\u308B\u3053\u3068\u3092\u7948\u308B\u3060\u3051\u3060\u3002"
+      - "\xC8 trascorso un po' di tempo dall'ultima volta che ho scritto sul mio
+        diario.\nHo rinunciato alle mie speranze di incontrare la mia famiglia molto
+        tempo fa.\nSpero solo che siano sani e salvi..."
+      - "Hace mucho que no escribo en el diario.\nPerd\xED las esperanzas de verles
+        hace mucho tiempo.\nEspero que est\xE9n bien..."
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: GrandFatherBook_8
+      TermType: 0
+      Description: 
+      Languages:
+      - 'A young lad was assigned to my accommodation.
+
+        He seems to have
+        lost his memories.
+
+        I should help him get better.'
+      - "\uC80A\uC740 \uCE5C\uAD6C\uAC00 \uB0B4 \uC219\uC18C\uB85C \uBC30\uC815\uBC1B\uC558\uB2E4.\n\uBB34\uC2A8
+        \uC77C\uC744 \uB2F9\uD55C \uAC74\uC9C0 \uAE30\uC5B5\uC744 \uC783\uC5B4\uBC84\uB9B0
+        \uAC83 \uAC19\uB2E4.\n\uBE68\uB9AC \uAC74\uAC15\uD574\uC9C8 \uC218 \uC788\uB3C4\uB85D
+        \uB3C4\uC640\uC918\uC57C\uACA0\uB2E4."
+      - "\u82E5\u3044\u7537\u306E\u5B50\u304C\u308F\u3057\u306E\u5BEE\u306B\u5165\u3063\u3066\u304D\u305F\u3002\n\u4F55\u304C\u3042\u3063\u305F\u3093\u3060\u308D\u3046\u3002\u8A18\u61B6\u3092\u5931\u3063\u3066\u3044\u308B\u3089\u3057\u3044\u3002\n\u65E9\u304F\u5143\u6C17\u306B\u306A\u308B\u3088\u3046\u306B\u624B\u4F1D\u308F\u306A\u304D\u3083\u3002"
+      - "Un ragazzo \xE8 stato assegnato al mio alloggio.\nSembra aver perso i suoi
+        ricordi.\nDovrei aiutarlo a stare meglio."
+      - "Hab\xEDa un chiquito en mi dormitorio.\nParece que ha perdido la memoria.\nLe
+        ayudar\xE9 a que mejore."
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: HeadMasterBook_1_0
+      TermType: 0
+      Description: 
+      Languages:
+      - 'Some members in the reconnaissance group rose in revolt and caused damage.
+
+        The
+        TF team was created to take care of them.'
+      - "\uC815\uCC30\uB2E8 \uBA87\uBA87\uC758 \uC778\uC6D0\uB4E4\uC774 \uBC18\uB780\uC744
+        \uC77C\uC73C\uCF1C \uD53C\uD574 \uBC1C\uC0DD.\nTF\uD300\uC744 \uAFB8\uB824
+        \uB300\uC751."
+      - "\u5075\u5BDF\u968A\u306E\u6570\u4EBA\u304C\u53CD\u4E71\u3092\u8D77\u3053\u3057\u3066\u30C0\u30E1\u30FC\u30B8\u767A\u751F\u3002\nTF\u30C1\u30FC\u30E0\u7D50\u6210\u3067\u5BFE\u5FDC\u3002"
+      - "Alcuni membri del gruppo di ricognizione si sono ribellati e hanno causato
+        danni.\nIl team TF \xE8 stato creato per occuparsi di loro."
+      - "Algunos del grupo de reconocimiento iniciaron una revoluci\xF3n que provoco
+        mucho mal.\nEl grupo operativo se cre\xF3 por y para ellos."
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: HeadMasterBook_1_1
+      TermType: 0
+      Description: 
+      Languages:
+      - 'The TF team arrested the leader.
+
+        The rebel forces were annihilated,
+        but some managed to get away.'
+      - "TF\uD300\uC774 \uC8FC\uB3D9\uC790\uB97C \uCCB4\uD3EC.\n\uBC18\uB780\uAD70\uC740
+        \uAD34\uBA78\uD588\uC9C0\uB9CC \uBA87\uBA87\uC740 \uB193\uCE68."
+      - "Tf\u30C1\u30FC\u30E0\u304C\u30EA\u30FC\u30C0\u30FC\u3092\u902E\u6355\u3002\n\u53CD\u4E71\u8ECD\u306F\u58CA\u6EC5\u3002\u305F\u3060\u3057\u6570\u4EBA\u306F\u9003\u8D70\u4E2D\u3002"
+      - 'Il team TF ha arrestato il leader.
+
+        Le forze ribelli sono state
+        annientate, ma alcuni sono riusciti a scappare.'
+      - "El grupo operativo arrest\xF3 al l\xEDder.\nPero no todas las fuerzas rebeldes
+        se aniquilaron; algunos sobrevivieron."
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: HeadMasterBook_1_2
+      TermType: 0
+      Description: 
+      Languages:
+      - 'Analysis on how the rebel forces were able to take over Sky Town:
+
+        1.
+        Security status
+
+        2. Public opinion and popular sentiment of the ark
+
+        3.
+        Suspicious insider'
+      - "\uBC18\uB780\uAD70\uC774 \uB108\uBB34 \uC27D\uAC8C \uC2A4\uCE74\uC774 \uD0C0\uC6B4\uC744
+        \uC7A5\uC545\uD55C \uAC83\uC5D0 \uB300\uD55C \uBD84\uC11D.\n1. \uCE58\uC548
+        \uC0C1\uD0DC.\n2. \uBC29\uC8FC\uC758 \uC5EC\uB860\uACFC \uBBFC\uC2EC.\n3.
+        \uB0B4\uBD80\uC790 \uC758\uC2EC."
+      - "\u53CD\u4E71\u8ECD\u306B\u3088\u308B\u30B9\u30AB\u30A4\u30BF\u30A6\u30F3\u5360\u9818\u306B\u95A2\u3059\u308B\u5206\u6790\n\uFF11\uFF0E\u6CBB\u5B89\u72B6\u614B\n\uFF12\uFF0E\u65B9\u821F\u306E\u4E16\u8AD6\u3068\u6C11\u5FC3\n\uFF13\uFF0E\u5185\u90E8\u8005\u3078\u306E\u7591\u3044"
+      - 'Analisi su come le forze ribelli sono riuscite a conquistare Sky Town:
+
+        1.
+        Stato di sicurezza
+
+        2. Opinione pubblica e sentimento popolare dell''arca
+
+        3.
+        Sospetto infiltrato'
+      - "An\xE1lisis de c\xF3mo las fuerzas rebeldes se hicieron con Ciudad C\xE9lica:\n1.
+        Posici\xF3n de seguridad.\n2. Opini\xF3n p\xFAblica y sentimiento popular
+        del arca.\n3. Persona infiltrada desconocida."
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: HeadMasterBook_1_3
+      TermType: 0
+      Description: 
+      Languages:
+      - Senior figures have been accused of being involved in the rebellion.
+      - "\uCD08\uACE0\uC704\uAE09 \uC778\uC0AC\uC758 \uBC18\uB780 \uAC00\uB2F4 \uC758\uD639
+        \uBC1C\uACAC."
+      - "\u6700\u9AD8\u4F4D\u4EBA\u4E8B\u306B\u3088\u308B\u53CD\u4E71\u5354\u529B\u306E\u7591\u3044\u767A\u898B\u3002"
+      - Personaggi di spicco sono stati accusati di essere coinvolti nella ribellione.
+      - "Hay figuras veteranas acusadas de ser parte de la revoluci\xF3n."
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: HeadMasterBook_1_4
+      TermType: 0
+      Description: 
+      Languages:
+      - 'High-class insiders were removed from their positions.
+
+        They were
+        sent to a forced labor camp.
+
+        Their families were also demoted.'
+      - "\uCD08\uACE0\uC704\uAE09 \uB0B4\uBD80\uC790\uC758 \uC9C1\uC704\uC758 \uBC15\uD0C8.\n\uAC15\uC81C\uB178\uC5ED\uC18C\uB85C
+        \uBC30\uCE58.\n\uAC00\uC871\uB4E4\uB3C4 \uACC4\uAE09 \uAC15\uB4F1."
+      - "\u6700\u9AD8\u4F4D\u5185\u90E8\u8005\u306E\u5F79\u8077\u5265\u596A\u3002\n\u5F37\u5236\u52B4\u50CD\u6240\u914D\u7F6E\u3002\n\u5BB6\u65CF\u3082\u968E\u7D1A\u964D\u683C"
+      - 'Gli insider di classe alta sono stati rimossi dalle loro posizioni.
+
+        Sono
+        stati spediti in un campo di lavori forzati.
+
+        Anche le loro famiglie
+        sono state retrocesse.'
+      - "Se quit\xF3 a los infiltrados de clase alta de sus puestos.\nSe enviaron
+        al campo de trabajos forzados.\nTambi\xE9n se degrad\xF3 a sus familias."
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: HeadMasterBook_2_0
+      TermType: 0
+      Description: 
+      Languages:
+      - A religion was created to manage the citizens of Lamp Town.
+      - "\uB7A8\uD504 \uD0C0\uC6B4\uC758 \uC0AC\uB78C\uB4E4\uC744 \uAD00\uB9AC\uD558\uAE30
+        \uC704\uD574 \uC885\uAD50\uB97C \uD0C4\uC0DD \uC2DC\uCF30\uB2E4."
+      - "\u30E9\u30F3\u30D7\u30BF\u30A6\u30F3\u306E\u4EBA\u3005\u3092\u7BA1\u7406\u3059\u308B\u305F\u3081\u306B\u5B97\u6559\u3092\u8A95\u751F\u3055\u305B\u305F\u3002"
+      - "\xC8 stata fondata una religione per gestire i cittadini di Lamp Town."
+      - "Se cre\xF3 una religi\xF3n para controlar a los ciudadanos de Ciudad Farol."
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: HeadMasterBook_2_1
+      TermType: 0
+      Description: 
+      Languages:
+      - People in Lamp Town started to complain less.
+      - "\uB7A8\uD504 \uD0C0\uC6B4 \uC0AC\uB78C\uB4E4\uC758 \uBD88\uB9CC\uC774 \uB9CE\uC774
+        \uC904\uC5B4\uB4E4\uAE30 \uC2DC\uC791\uD588\uB2E4."
+      - "\u30E9\u30F3\u30D7\u30BF\u30A6\u30F3\u306E\u4EBA\u3005\u306E\u4E0D\u6E80\u304C\u8457\u3057\u304F\u6E1B\u3063\u3066\u304D\u305F\u3002"
+      - La gente a Lamp Town ha iniziato a lamentarsi di meno.
+      - "La gente de Ciudad Farol se empez\xF3 a quejar menos."
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: HeadMasterBook_2_2
+      TermType: 0
+      Description: 
+      Languages:
+      - 'It will be possible for the religion in Lamp Town to have complete control
+        over the town after one generation. '
+      - "\uD55C\uC138\uB300\uAC00 \uC9C0\uB098\uACE0 \uB098\uBA74 \uB7A8\uD504\uD0C0\uC6B4\uC740
+        \uC885\uAD50\uB85C \uC644\uC804\uD788 \uD1B5\uC81C\uAC00 \uAC00\uB2A5 \uD560\uAC83\uC774\uB2E4."
+      - "\u4ECA\u306E\u4E16\u4EE3\u304C\u7D42\u308F\u308B\u9803\u306B\u306F\u30E9\u30F3\u30D7\u30BF\u30A6\u30F3\u306F\u5B97\u6559\u3092\u6301\u3063\u3066\u5B8C\u5168\u7D71\u5236\u53EF\u80FD\u306E\u898B\u8FBC\u307F\u3002"
+      - "Questa religione potr\xE0 prendere il controllo completo sulla citt\xE0
+        di Lamp Town dopo una generazione."
+      - "Es posible que la religi\xF3n de Ciudad Farol se haya hecho con la ciudad
+        tras una generaci\xF3n. "
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: HeadMasterBook_2_3
+      TermType: 0
+      Description: 
+      Languages:
+      - Lamp Town became easier to control.
+      - "\uB7A8\uD504 \uD0C0\uC6B4\uC758 \uD1B5\uC81C\uAC00 \uC26C\uC6CC\uC84C\uB2E4."
+      - "\u30E9\u30F3\u30D7\u30BF\u30A6\u30F3\u306E\u7D71\u5236\u304C\u7C21\u5358\u306B\u306A\u3063\u305F\u3002"
+      - "Lamp Town \xE8 diventata pi\xF9 facile da controllare."
+      - "Ciudad Farol se control\xF3 f\xE1cilmente."
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: HeadMasterBook_2_4
+      TermType: 0
+      Description: 
+      Languages:
+      - I've spotted an unusual movement of the religion.
+      - "\uC885\uAD50\uC758 \uC218\uC0C1\uD55C \uC6C0\uC9C1\uC784\uC774 \uBCF4\uC778\uB2E4."
+      - "\u5B97\u6559\u306E\u602A\u3057\u3044\u52D5\u304D\u304C\u898B\u3048\u3066\u3044\u308B\u3002"
+      - Ho notato un movimento religioso sospetto.
+      - "He avistado un movimiento inusual de la religi\xF3n."
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: HeadMasterBook_2_5
+      TermType: 0
+      Description: 
+      Languages:
+      - I've seen religious fanatics in Lamp Town from time to time.
+      - "\uB7A8\uD504\uD0C0\uC6B4\uC758 \uC0AC\uB78C\uB4E4\uC774 \uAD11\uC801\uC73C\uB85C
+        \uC885\uAD50\uB97C \uBBFF\uB294 \uBAA8\uC2B5\uC774 \uC885\uC885 \uBCF4\uC778\uB2E4."
+      - "\u30E9\u30F3\u30D7\u30BF\u30A6\u30F3\u306E\u4EBA\u3005\u304C\u5B97\u6559\u306B\u30CF\u30DE\u3063\u3066\u3044\u308B\u69D8\u5B50\u304C\u5EA6\u3005\u898B\u3048\u308B\u3002"
+      - Di tanto in tanto ho visto fanatici religiosi a Lamp Town.
+      - "He visto a algunos fan\xE1ticos por Ciudad Farol."
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: HeadMasterBook_3_0
+      TermType: 0
+      Description: 
+      Languages:
+      - A Seaweed Harvesting Site has been created.
+      - "\uD574\uC870\uB958 \uC218\uD655\uC7A5 \uC124\uCE58."
+      - "\u6D77\u85FB\u53CE\u7A6B\u5834\u8A2D\u7F6E\u3002"
+      - "\xC8 stato creato un sito per la raccolta delle alghe."
+      - Se ha construido una granja de algas.
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: HeadMasterBook_3_1
+      TermType: 0
+      Description: 
+      Languages:
+      - The seaweed harvesting site scheduled work shifts for the citizens in the
+        ark.
+      - "\uD574\uC870\uB958 \uC218\uD655\uC7A5\uC5D0\uB294 \uBC29\uC8FC\uC758 \uC2DC\uBBFC\uB4E4\uC774
+        \uAD50\uB300\uB85C \uADFC\uBB34\uB97C \uB4E4\uC5B4\uAC00\uAC8C \uADDC\uCE59\uC744
+        \uC815\uD568."
+      - "\u6D77\u85FB\u53CE\u7A6B\u5834\u306F\u65B9\u821F\u306E\u5E02\u6C11\u304C\u4EA4\u4EE3\u3067\u52E4\u52D9\u3059\u308B\u3053\u3068\u3092\u898F\u5247\u3068\u3057\u3066\u5B9A\u3081\u308B\u3002"
+      - Il sito di raccolta delle alghe ha programmato turni di lavoro per i cittadini
+        nell'arca.
+      - "Los ciudadanos del arca hacen turnos para trabajar all\xED."
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: HeadMasterBook_3_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Seaweed harvesting work requires high labor intensity, so the workers' shifts
+        have been reduced.
+      - "\uD574\uC870\uB958 \uC218\uD655\uC7A5\uC758 \uB178\uB3D9 \uAC15\uB3C4\uAC00
+        \uAC15\uD558\uC5EC \uAD50\uB300 \uADFC\uBB34 \uC77C\uC218\uB97C \uC904\uC784."
+      - "\u6D77\u85FB\u53CE\u7A6B\u5834\u306E\u52B4\u50CD\u5F37\u5EA6\u306E\u53B3\u3057\u3055\u306E\u305F\u3081\u3001\u4EA4\u4EE3\u52E4\u52D9\u65E5\u6570\u3092\u6E1B\u3089\u3059\u3002"
+      - "Il lavoro di raccolta delle alghe richiede un'elevata intensit\xE0 di manodopera,
+        quindi i turni dei lavoratori sono stati ridotti."
+      - "Se necesita una gran fuerza de trabajo, as\xED que se han reducido los turnos."
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: HeadMasterBook_3_3
+      TermType: 0
+      Description: 
+      Languages:
+      - Some citizens are refusing to work for the seaweed harvesting site.
+      - "\uD574\uC870\uB958 \uC218\uD655\uC7A5\uC758 \uADFC\uBB34\uB97C \uAC70\uBD80\uD558\uB294
+        \uC2DC\uBBFC\uB4E4\uC774 \uBC1C\uC0DD."
+      - "\u6D77\u85FB\u53CE\u7A6B\u5834\u306E\u52E4\u52D9\u3092\u62D2\u5426\u3059\u308B\u5E02\u6C11\u767A\u751F"
+      - Alcuni cittadini si stanno rifiutando di lavorare per il sito di raccolta
+        delle alghe.
+      - Algunos ciudadanos se han negado a trabajar en la granja de algas.
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: HeadMasterBook_3_4
+      TermType: 0
+      Description: 
+      Languages:
+      - 'Seaweed harvesting site closed.
+
+        Not enough manpower.'
+      - "\uD574\uC870\uB958 \uC218\uD655\uC7A5 \uD734\uC5C5.\n\uC778\uB825 \uBD80\uC871."
+      - "\u6D77\u85FB\u53CE\u7A6B\u5834\u505C\u6B62\n\u4EBA\u624B\u4E0D\u8DB3"
+      - 'Sito di raccolta delle alghe chiuso.
+
+        Manodopera non sufficiente.'
+      - 'La granja de algas ha cerrado.
+
+        No hay suficiente mano de obra.'
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: HeadMasterBook_3_5
+      TermType: 0
+      Description: 
+      Languages:
+      - Seaweed Harvesting Site became a forced labor camp.
+      - "\uD574\uC870\uB958 \uC218\uD655\uC7A5 \uAC15\uC81C \uB178\uC5ED\uC18C\uB85C
+        \uBCC0\uACBD."
+      - "\u6D77\u85FB\u53CE\u7A6B\u5834\u3092\u5F37\u5236\u52B4\u50CD\u6240\u306B\u5909\u66F4"
+      - "Il sito di raccolta delle alghe \xE8 diventato un campo di lavori forzati."
+      - La granja de algas se ha convertido en un campo de trabajos forzados.
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: IappInfo
+      TermType: 0
+      Description: 
+      Languages:
+      - '* Remove all Ads
+
+        * Proceed through all stories
+
+        * Start
+        a new story from the time frame you desire'
+      - "* \uBAA8\uB4E0 \uAD11\uACE0 \uC81C\uAC70\n* \uBAA8\uB4E0 \uC2A4\uD1A0\uB9AC
+        \uC9C4\uD589\n* \uC6D0\uD558\uB294 \uC2DC\uC810\uC5D0\uC11C \uC0C8\uB85C\uC6B4
+        \uC2A4\uD1A0\uB9AC \uC9C4\uD589"
+      - "* \u3059\u3079\u3066\u306E\u5E83\u544A\u9664\u53BB\n* \u5168\u30B9\u30C8\u30FC\u30EA\u30FC\u30D7\u30EC\u30A4\n*
+        \u5E0C\u671B\u306E\u6642\u70B9\u304B\u3089\u65B0\u3057\u3044\u30B9\u30C8\u30FC\u30EA\u30FC\u30D7\u30EC\u30A4"
+      - '* Rimuovi tutti gli annunci
+
+        * Avanza in tutte le storie
+
+        *
+        Inizia una nuova storia in qualsiasi momento'
+      - "* Eliminar todos los anuncios\n* Proceder a trav\xE9s de todas las historias\n*
+        Comience una nueva historia desde el per\xEDodo de tiempo que desee"
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Journey
+      TermType: 0
+      Description: 
+      Languages:
+      - Journey
+      - "\uC5EC\uC815"
+      - "\u65C5"
+      - Viaggio
+      - Viaje
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Juice
+      TermType: 0
+      Description: 
+      Languages:
+      - Beverage
+      - "\uC74C\uB8CC"
+      - "\u30C9\u30EA\u30F3\u30AF"
+      - Bevanda
+      - Bebida
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: JuiceHint
+      TermType: 0
+      Description: 
+      Languages:
+      - How to make
+      - "\uC81C\uC870\uBC95"
+      - "\u88FD\u9020\u65B9\u6CD5"
+      - Come preparare
+      - Instrucciones
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Kill
+      TermType: 0
+      Description: 
+      Languages:
+      - Shoot
+      - "\uC0AC\uC0B4"
+      - "\u5C04\u6BBA"
+      - Spara
+      - Disparar
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Loading
+      TermType: 0
+      Description: 
+      Languages:
+      - Loading...
+      - "\uB85C\uB529 \uC911..."
+      - "\u30ED\u30FC\u30C7\u30A3\u30F3\u30B0\u4E2D\u2026"
+      - Caricamento in corso...
+      - Cargando...
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: MachineRoom
+      TermType: 0
+      Description: 
+      Languages:
+      - Machinery Room
+      - "\uAE30\uACC4\uC2E4"
+      - "\u6A5F\u68B0\u5BA4"
+      - Sala macchine
+      - "Sala de m\xE1quinas"
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Make_Drone
+      TermType: 0
+      Description: 
+      Languages:
+      - Build Drone
+      - "\uB4DC\uB860 \uC81C\uC791"
+      - "\u30C9\u30ED\u30FC\u30F3\u88FD\u4F5C"
+      - Costruisci drone
+      - Construir dron
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Manufactured
+      TermType: 0
+      Description: 
+      Languages:
+      - Mixing complete
+      - "\uC81C\uC870 \uC644\uB8CC"
+      - "\u88FD\u9020\u5B8C\u4E86"
+      - Miscelazione completata
+      - Mezcla completada
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Map
+      TermType: 0
+      Description: 
+      Languages:
+      - Map
+      - "\uC9C0\uB3C4"
+      - "\u5730\u56F3"
+      - Mappa
+      - Mapa
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: MemoryCard
+      TermType: 0
+      Description: 
+      Languages:
+      - Collection
+      - "\uC218\uC9D1"
+      - "\u30B3\u30EC\u30AF\u30B7\u30E7\u30F3"
+      - Collezione
+      - "Recopilaci\xF3n"
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: MemoryCardClose
+      TermType: 0
+      Description: 
+      Languages:
+      - You got a Memory Card!
+      - "\uAE30\uC5B5 \uCE74\uB4DC \uD68D\uB4DD !"
+      - "\u8A18\u61B6\u30AB\u30FC\u30C9\u7372\u5F97\uFF01\n\u30BF\u30C3\u30D7\u3057\u3066\u9589\u3058\u308B\u2026"
+      - Hai ottenuto una scheda di memoria!
+      - "\xA1Has conseguido un recuerdo!"
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Menu
+      TermType: 0
+      Description: 
+      Languages:
+      - Menu
+      - "\uBA54\uB274"
+      - "\u30E1\u30CB\u30E5\u30FC"
+      - "Men\xF9"
+      - "Men\xFA"
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: MoveBox
+      TermType: 0
+      Description: 
+      Languages:
+      - MoveBox
+      - "\uC0C1\uC790 \uC774\uB3D9"
+      - "\u7BB1\u3092\u79FB\u52D5"
+      - Sposta la scatola
+      - Mover caja
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Move_Next
+      TermType: 0
+      Description: 
+      Languages:
+      - move to next area
+      - "\uB2E4\uC74C \uC9C0\uC5ED\uC73C\uB85C \uC774\uB3D9"
+      - "\u6B21\u306E\u30A8\u30EA\u30A2\u3078\u79FB\u52D5"
+      - passare all'area successiva
+      - "pasar a la siguiente \xE1rea"
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: NameFlate
+      TermType: 0
+      Description: 
+      Languages:
+      - "\nK. Noah\n\nCreator of the ark, \nthe savior of the human race"
+      - " K.Noah\n\n\uC778\uB958\uB97C \uAD6C\uD55C\n\uBC29\uC8FC\uC758 \uCC3D\uC870\uC8FC"
+      - " K.Noah\n\n\u4EBA\u985E\u3092\u6551\u3063\u305F\n\u65B9\u821F\u306E\u5275\u9020\u4E3B"
+      - "\nK. No\xE8\n\nCreatore dell'arca,\nil salvatore del genere umano"
+      - "\nK. Noah\n\nCreador del arca, \nsalvador de la raza humana."
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: NaverMake
+      TermType: 0
+      Description: 
+      Languages:
+      - Dangerous! Never make it!
+      - "\uC704\uD5D8 \uC808\uB300 \uC81C\uC870\uD558\uC9C0 \uB9D0\uAC83"
+      - "\u5371\u967A \u7D76\u5BFE\u306B\u88FD\u9020\u3057\u306A\u3044\u3053\u3068"
+      - "\xC9 pericoloso! Non farlo mai!"
+      - "\xA1Peligroso! \xA1Prohibido!"
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: NeedCoin
+      TermType: 0
+      Description: 
+      Languages:
+      - Not enough.
+      - "\uBD80\uC871\uD569\uB2C8\uB2E4."
+      - "\u4E0D\u8DB3\u3057\u3066\u3044\u307E\u3059\u3002"
+      - non sufficienti.
+      - no es suficiente
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: NoAds
+      TermType: 0
+      Description: 
+      Languages:
+      - Not enough ads.
+      - "\uAD11\uACE0\uAC00 \uBD80\uC871 \uD569\uB2C8\uB2E4."
+      - "\u5E83\u544A\u304C\u8DB3\u308A\u307E\u305B\u3093\u3002"
+      - Annunci non sufficienti.
+      - Sin anuncios.
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: NotReady
+      TermType: 0
+      Description: 
+      Languages:
+      - I'm not ready yet.
+      - "\uC544\uC9C1 \uC900\uBE44\uAC00 \uC548\uB410\uC5B4,"
+      - "\u307E\u3060\u6E96\u5099\u304C\u3067\u304D\u3066\u3044\u306A\u3044\u3002"
+      - Non sono ancora pronto.
+      - No estoy listo.
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: PartyEvent_1
+      TermType: 0
+      Description: 
+      Languages:
+      - This isn't right...
+      - "\uC774\uB7EC\uBA74 \uC548\uB418\uB294\uAC70\uC796\uC544"
+      - "\u3053\u308C\u306F\u307E\u305A\u3044\u3002"
+      - "Questo non \xE8 giusto..."
+      - "Esto no est\xE1 bien..."
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: PartyEvent_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Someone's dead
+      - "\uC0AC\uB78C\uC774 \uC8FD\uC5C8\uC796\uC544 "
+      - "\u4EBA\u304C\u6B7B\u3093\u3060 "
+      - "Qualcuno \xE8 morto"
+      - Alguien ha muerto.
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: PartyEvent_3
+      TermType: 0
+      Description: 
+      Languages:
+      - Oh, what now?!
+      - "\uBB50\uC57C \uAC11\uC790\uAE30!"
+      - "\u306A\u3093\u3060\u6025\u306B\uFF01"
+      - Oh, e adesso?!
+      - "\xBFY ahora qu\xE9?"
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: PartyEvent_4
+      TermType: 0
+      Description: 
+      Languages:
+      - '*Groan*'
+      - "\uC73D...\uC73C\uC73D..."
+      - "\u3046\u3063\u2026\u3046\u3046\u3063\u2026"
+      - '*Ehm... Ehm...*'
+      - Aarrg...
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: PartyRoom
+      TermType: 0
+      Description: 
+      Languages:
+      - Party Venue
+      - "\uD30C\uD2F0\uC7A5"
+      - "\u30D1\u30FC\u30C6\u30A3\u30FC\u4F1A\u5834"
+      - Sala per feste
+      - "Sal\xF3n"
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Party_event_2
+      TermType: 0
+      Description: 
+      Languages:
+      - He's a bad drunk
+      - "\uC220\uC8FC\uC815\uC774 \uC2EC\uD558\uB124"
+      - "\u9152\u7656\u304C\u3072\u3069\u3044"
+      - "\xC8 un pessimo ubriacone"
+      - No sabe beber.
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Party_event_3
+      TermType: 0
+      Description: 
+      Languages:
+      - You shouldn't have drunk so much
+      - "\uC220\uC880 \uC801\uB2F9\uD788 \uBA39\uC9C0"
+      - "\u3044\u304F\u3089\u306A\u3093\u3067\u3082\u98F2\u307F\u3059\u304E\u3060"
+      - "Non avresti dovuto bere cos\xEC tanto"
+      - "No deber\xEDas haber bebido tanto."
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Party_event_4
+      TermType: 0
+      Description: 
+      Languages:
+      - Ah...hmm...
+      - "\uC544..\uD760..."
+      - "\u3042\u2026\u3046\u3093\u2026"
+      - Ah... ehm...
+      - Aaah...
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Picture
+      TermType: 0
+      Description: 
+      Languages:
+      - Picture
+      - "\uADF8\uB9BC"
+      - "\u7D75"
+      - Immagine
+      - Imagen
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Pull_the_trigger
+      TermType: 0
+      Description: 
+      Languages:
+      - Pull the trigger.
+      - "\uBC29\uC544\uC1E0\uB97C \uB2F9\uAE34\uB2E4."
+      - "\u5F15\u304D\u91D1\u3092\u5F15\u304F"
+      - Premi il grilletto.
+      - Aprieta el gatillo.
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: QuestUpdate
+      TermType: 0
+      Description: 
+      Languages:
+      - Quest Update!
+      - "\uD018\uC2A4\uD2B8 \uC5C5\uB370\uC774\uD2B8 !"
+      - "\u30AF\u30A8\u30B9\u30C8\u30A2\u30C3\u30D7\u30C7\u30FC\u30C8\uFF01"
+      - Aggiornamento della missione!
+      - "\xA1Misi\xF3n actualizada!"
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Quest_Chess
+      TermType: 0
+      Description: 
+      Languages:
+      - Knight
+      - "\uCCB4\uC2A4 \uB9D0"
+      - "\u30C1\u30A7\u30B9\u306E\u99D2"
+      - Cavallo
+      - Caballo
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Quest_Coin
+      TermType: 0
+      Description: 
+      Languages:
+      - Coin
+      - "\uCF54\uC778"
+      - "\u30B3\u30A4\u30F3"
+      - Moneta
+      - Moneda
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Quest_Computer
+      TermType: 0
+      Description: 
+      Languages:
+      - Computer
+      - "\uCEF4\uD4E8\uD130"
+      - "\u30B3\u30F3\u30D4\u30E5\u30FC\u30BF\u30FC"
+      - Computer
+      - Ordenador
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Quest_DeliveryMan
+      TermType: 0
+      Description: 
+      Languages:
+      - Transfer
+      - "\uC774\uC1A1"
+      - "\u79FB\u9001"
+      - Trasferimento
+      - Transferir
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Quest_Doctor
+      TermType: 0
+      Description: 
+      Languages:
+      - Doctor
+      - "\uC758\uC0AC"
+      - "\u533B\u8005"
+      - Medico
+      - "M\xE9dico"
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Quest_Door_lock
+      TermType: 0
+      Description: 
+      Languages:
+      - Block
+      - "\uCC28\uB2E8"
+      - "\u906E\u65AD"
+      - Blocca
+      - Bloquear
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Quest_GetCard
+      TermType: 0
+      Description: 
+      Languages:
+      - Obtain Card
+      - "\uCE74\uB4DC\uD68D\uB4DD"
+      - "\u30AB\u30FC\u30C9\u7372\u5F97"
+      - Ottieni la scheda
+      - Obtener carta
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Quest_LamptownManager
+      TermType: 0
+      Description: 
+      Languages:
+      - Manager
+      - "\uAD00\uB9AC\uC790"
+      - "\u7BA1\u7406\u8005"
+      - Responsabile
+      - Supervisor
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Quest_Machine
+      TermType: 0
+      Description: 
+      Languages:
+      - Control Machine
+      - "\uAE30\uACC4\uC81C\uC5B4"
+      - "\u6A5F\u68B0\u5236\u5FA1"
+      - Controllo della macchina
+      - Sala de control
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Quest_Machine_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Control Machine
+      - "\uAE30\uACC4 \uC81C\uC5B4"
+      - "\u6A5F\u68B0\u5236\u5FA1"
+      - Controllo della macchina
+      - Sala de control
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Quest_Oldman
+      TermType: 0
+      Description: 
+      Languages:
+      - Grandfather
+      - "\uD560\uC544\uBC84\uC9C0"
+      - "\u304A\u3058\u3044\u3055\u3093"
+      - Nonno
+      - Abuelo
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Quest_SleepingPill
+      TermType: 0
+      Description: 
+      Languages:
+      - Sleeping Pill
+      - "\uC218\uBA74\uC81C"
+      - "\u7761\u7720\u5264"
+      - Sonnifero
+      - "Somn\xEDfero"
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Quest_code
+      TermType: 0
+      Description: 
+      Languages:
+      - code
+      - "\uCF54\uB4DC"
+      - "\u30B3\u30FC\u30C9"
+      - Codice
+      - "c\xF3digo"
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Quest_copperwire
+      TermType: 0
+      Description: 
+      Languages:
+      - Copper Wire
+      - "\uAD6C\uB9AC \uC120"
+      - "\u9285\u7DDA"
+      - Filo di rame
+      - Cable de cobre
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Quest_deadman
+      TermType: 0
+      Description: 
+      Languages:
+      - Move Dead Body
+      - "\uC2DC\uCCB4\uC6B4\uBC18"
+      - "\u6B7B\u4F53\u904B\u642C"
+      - Sposta il cadavere
+      - "Mover cad\xE1ver"
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Quest_drugf
+      TermType: 0
+      Description: 
+      Languages:
+      - Poison
+      - "\uB3C5\uC57D"
+      - "\u6BD2\u85AC"
+      - Veleno
+      - Veneno
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Quest_escape
+      TermType: 0
+      Description: 
+      Languages:
+      - Escape
+      - "\uD0C8\uCD9C"
+      - "\u8131\u51FA"
+      - Scappa
+      - Escapar
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Quest_fire
+      TermType: 0
+      Description: 
+      Languages:
+      - Set Fire
+      - "\uBC29\uD654"
+      - "\u653E\u706B"
+      - Appicca un incendio
+      - Incendiar
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Quest_fix
+      TermType: 0
+      Description: 
+      Languages:
+      - Repair
+      - "\uC218\uB9AC"
+      - "\u4FEE\u7406"
+      - Ripara
+      - Reparar
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Quest_full-timefarmer
+      TermType: 0
+      Description: 
+      Languages:
+      - Official Farmer
+      - "\uC815\uC2DD\uB18D\uBD80"
+      - "\u6B63\u5F0F\u8FB2\u6C11"
+      - Contadino ufficiale
+      - Oficial granjero
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Quest_hide
+      TermType: 0
+      Description: 
+      Languages:
+      - Hide
+      - "\uC228\uAE30\uAE30"
+      - "\u96A0\u3059"
+      - Nascondi
+      - Ocultar
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Quest_move
+      TermType: 0
+      Description: 
+      Languages:
+      - Move
+      - "\uC774\uB3D9"
+      - "\u79FB\u52D5"
+      - Sposta
+      - Mover
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Quest_orchard
+      TermType: 0
+      Description: 
+      Languages:
+      - Orchard
+      - "\uACFC\uC218\uC6D0"
+      - "\u679C\u6A39\u5712"
+      - Frutteto
+      - Vergel
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Quest_password
+      TermType: 0
+      Description: 
+      Languages:
+      - password
+      - "\uBE44\uBC00\uBC88\uD638"
+      - "\u6697\u8A3C\u756A\u53F7"
+      - Password
+      - "contrase\xF1a"
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Quest_pill
+      TermType: 0
+      Description: 
+      Languages:
+      - Pill
+      - "\uC54C\uC57D"
+      - "\u9320\u5264"
+      - Pillola
+      - Pastilla
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Quest_remove
+      TermType: 0
+      Description: 
+      Languages:
+      - Delete Recording
+      - "\uAE30\uB85D\uC0AD\uC81C"
+      - "\u8A18\u9332\u524A\u9664"
+      - Elimina registrazione
+      - "Eliminar grabaci\xF3n"
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Quest_select
+      TermType: 0
+      Description: 
+      Languages:
+      - Select
+      - "\uC120\uD0DD"
+      - "\u9078\u629E"
+      - Seleziona
+      - Seleccionar
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Quest_steeldoor
+      TermType: 0
+      Description: 
+      Languages:
+      - Steel Door
+      - "\uAC15\uCCA0\uBB38"
+      - "\u92FC\u9244\u306E\u6249"
+      - Porta d'acciaio
+      - "Port\xF3n de acero"
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Quit
+      TermType: 0
+      Description: 
+      Languages:
+      - Quit
+      - "\uC885\uB8CC"
+      - "\u7D42\u4E86"
+      - Esci
+      - Salir
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Quset_Accesscard
+      TermType: 0
+      Description: 
+      Languages:
+      - Access Card
+      - "\uCD9C\uC785\uCE74\uB4DC"
+      - "\u30A2\u30AF\u30BB\u30B9\u30AB\u30FC\u30C9"
+      - Scheda di accesso
+      - Tarjeta de acceso
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Quset_PupOwner
+      TermType: 0
+      Description: 
+      Languages:
+      - Pup Owner
+      - "\uD38D\uC8FC\uC778"
+      - "\u30D1\u30D6\u30DE\u30B9\u30BF\u30FC"
+      - Proprietario del pub
+      - "Due\xF1o del pub"
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Recovery_complete
+      TermType: 0
+      Description: 
+      Languages:
+      - Restore complete!
+      - "\uBCF5\uAD6C \uC644\uB8CC!"
+      - "\u5FA9\u65E7\u5B8C\u4E86\uFF01"
+      - Ripristino completo!
+      - "\xA1Completado!"
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Remove_Some
+      TermType: 0
+      Description: 
+      Languages:
+      - Kill.
+      - "\uC81C\uAC70\uD55C\uB2E4."
+      - "\u9664\u53BB\u3059\u308B"
+      - Uccidi.
+      - Matar.
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Review
+      TermType: 0
+      Description: 
+      Languages:
+      - Review
+      - "\uB9AC\uBDF0"
+      - "\u30EC\u30D3\u30E5\u30FC"
+      - Rivedi
+      - Ver
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Review_complete
+      TermType: 0
+      Description: 
+      Languages:
+      - Write
+      - "\uC791\uC131\uD558\uAE30"
+      - "\u4F5C\u6210\u3059\u308B"
+      - Scrivi
+      - Escribir
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Reward
+      TermType: 0
+      Description: 
+      Languages:
+      - Reward
+      - "\uBCF4\uC0C1"
+      - "\u5831\u916C"
+      - Ricompensa
+      - Premio
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Save_Some
+      TermType: 0
+      Description: 
+      Languages:
+      - Let go.
+      - "\uC0B4\uB824\uC900\uB2E4."
+      - "\u751F\u304B\u305B\u308B"
+      - Lascia andare.
+      - Dejar.
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Saved
+      TermType: 0
+      Description: 
+      Languages:
+      - Saved.
+      - "\uC800\uC7A5 \uC644\uB8CC"
+      - "\u4FDD\u5B58\u5B8C\u4E86"
+      - Salvato.
+      - Salvado.
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Search
+      TermType: 0
+      Description: 
+      Languages:
+      - Explore
+      - "\uD0D0\uC0C9"
+      - "\u63A2\u7D22"
+      - Esplora
+      - Explorar.
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Seaweed_Expansion
+      TermType: 0
+      Description: 
+      Languages:
+      - Seaweed Harvesting Site
+      - "\uD574\uC870\uB958 \uC218\uD655\uC7A5"
+      - "\u6D77\u85FB\u53CE\u7A6B\u5834"
+      - Sito di raccolta delle alghe
+      - Granja de algas
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: SelectStory
+      TermType: 0
+      Description: 
+      Languages:
+      - Select a time frame to start the story.
+      - "\uC774\uC57C\uAE30 \uC2DC\uC791\uC810\uC744 \uC120\uD0DD \uD558\uC138\uC694."
+      - "\u7269\u8A9E\u306E\u958B\u59CB\u70B9\u3092\u9078\u3093\u3067\u304F\u3060\u3055\u3044\u3002"
+      - Seleziona un intervallo di tempo per iniziare la storia.
+      - Elige un tiempo en el que comenzar la historia.
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Shoot
+      TermType: 0
+      Description: 
+      Languages:
+      - Fire
+      - "\uBC1C\uC0AC"
+      - "\u767A\u5C04"
+      - Fuoco
+      - Fuego
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Shop
+      TermType: 0
+      Description: 
+      Languages:
+      - Complete your story.
+      - "\uB2F9\uC2E0\uC758 \uC774\uC57C\uAE30\uB97C \uC644\uC131\uD558\uC138\uC694."
+      - "\u3042\u306A\u305F\u306E\u30B9\u30C8\u30FC\u30EA\u30FC\u3092\u4ED5\u4E0A\u3052\u3066\u304F\u3060\u3055\u3044\u3002"
+      - Completa la tua storia.
+      - Completa tu historia.
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Shop_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Shop
+      - "\uC0C1\uC810\uC73C\uB85C"
+      - "\u30B7\u30E7\u30C3\u30D7"
+      - Negozio
+      - Comercio
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Show
+      TermType: 0
+      Description: 
+      Languages:
+      - Viewing Events
+      - "\uC774\uBCA4\uD2B8 \uBCF4\uAE30"
+      - "\u30A4\u30D9\u30F3\u30C8\u3092\u898B\u308B"
+      - Visualizzazione degli eventi
+      - Ver eventos.
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Sit
+      TermType: 0
+      Description: 
+      Languages:
+      - Crouch
+      - "\uC549\uAE30"
+      - "\u5EA7\u308B"
+      - Accovacciati
+      - Agacharse
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: SkyTown
+      TermType: 0
+      Description: 
+      Languages:
+      - SkyTown
+      - "\uC2A4\uCE74\uC774 \uD0C0\uC6B4"
+      - "\u30B9\u30AB\u30A4\u30BF\u30A6\u30F3"
+      - Sky Town
+      - "Ciudad C\xE9lica"
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: SleepManager
+      TermType: 0
+      Description: 
+      Languages:
+      - Put Manager to sleep
+      - "\uAD00\uB9AC\uC790 \uC7AC\uC6B0\uAE30"
+      - "\u7BA1\u7406\u8005\u3092\u7720\u3089\u305B\u308B"
+      - Addormenta il responsabile
+      - Dormir al supervisor
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: SleepingQeust
+      TermType: 0
+      Description: 
+      Languages:
+      - Put to sleep
+      - "\uC7A0\uC7AC\uC6B0\uAE30"
+      - "\u7720\u3089\u305B\u308B"
+      - Addormenta
+      - Dormir
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Sowing
+      TermType: 0
+      Description: 
+      Languages:
+      - Sow Seeds
+      - "\uC528 \uBFCC\uB9AC\uAE30"
+      - "\u7A2E\u3092\u6492\u304F"
+      - Semina
+      - Sembrar semillas
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Start_Machine
+      TermType: 0
+      Description: 
+      Languages:
+      - Operate Machine
+      - "\uAE30\uACC4 \uC791\uB3D9"
+      - "\u6A5F\u68B0\u4F5C\u52D5"
+      - Aziona la macchina
+      - "Operar m\xE1quina"
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: StopKilling
+      TermType: 0
+      Description: 
+      Languages:
+      - No more killing...
+      - "\uC0B4\uC778\uC740 \uC774\uC81C \uADF8\uB9CC...."
+      - "\u6BBA\u4EBA\u306F\u3082\u3046\u3084\u3081\u308D\u2026"
+      - Basta uccidere...
+      - "No m\xE1s muertes..."
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: TabClose
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Test
+      TermType: 0
+      Description: 
+      Languages:
+      - Test
+      - "\uD14C\uC2A4\uD2B8"
+      - "\u30C6\u30B9\u30C8"
+      - Test
+      - Probar
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Time_Hint
+      TermType: 0
+      Description: 
+      Languages:
+      - timeEveryone has the same amount of <color=red>time</color>.
+      - "<color=red>\uC2DC\uAC04</color>\uC740 \uB204\uAD6C\uC5D0\uAC8C\uB098 \uD3C9\uB4F1\uD558\uB2E4."
+      - "<color=red>\u6642\u9593</color>\u306F\u8AB0\u306B\u3067\u3082\u5E73\u7B49\u3067\u3042\u308B\u3002"
+      - "Tutti hanno la stessa quantit\xE0 di <color=red>tempo</color>."
+      - Todos tienen el mismo <color=red>tiempo</color>.
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Title_styx
+      TermType: 0
+      Description: 
+      Languages:
+      - 'The Sea of Death
+
+        <size=15>A Black Ship</size>'
+      - "\uC8FD\uC74C\uC758 \uBC14\uB2E4\n<size=15>\uAC80\uC740 \uBC30</size>"
+      - "\u4EA1\u8005\u30CE\u8239\n<size=15>\u5931\u3063\u305F\u8A18\u61B6\u304B\u3089\u8131\u51FA</size>"
+      - 'The Sea of Death
+
+        <size=15>A black ship</size>'
+      - "El Mar de la Muerte\n<size=15>Un barco sombr\xEDo</size>"
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Unlimited
+      TermType: 0
+      Description: 
+      Languages:
+      - '* Unlimited'
+      - "* \uBB34\uC81C\uD55C"
+      - "* \u7121\u5236\u9650"
+      - '* Illimitato'
+      - '* Ilimitado'
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Watering
+      TermType: 0
+      Description: 
+      Languages:
+      - Water
+      - "\uBB3C \uC8FC\uAE30"
+      - "\u6C34\u3084\u308A"
+      - Acqua
+      - Agua
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: actionCount_noting
+      TermType: 0
+      Description: 
+      Languages:
+      - Action power is not automatically recharged.
+      - "\uD589\uB3D9\uB825\uC740 \uC790\uB3D9\uC73C\uB85C \uCDA9\uC804\uB418\uC9C0
+        \uC54A\uC2B5\uB2C8\uB2E4."
+      - ' '
+      - Il potere di azione non si ricarica automaticamente.
+      - "El poder de acci\xF3n no se recarga manualmente."
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: anchor_office
+      TermType: 0
+      Description: 
+      Languages:
+      - Anchor Management Office
+      - "\uB2FB \uAD00\uB9AC\uC2E4"
+      - "\u9328\u7BA1\u7406\u5BA4"
+      - Ufficio amministrativo dell'ancora
+      - Sala del ancla
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: book1_4
+      TermType: 0
+      Description: 
+      Languages:
+      - Don't give up halfway. Don't hesitate. Let's keep going until you achieve
+        success!
+      - "\uB3C4\uC911\uC5D0 \uD3EC\uAE30\uD558\uC9C0 \uB9D0\uB77C. \uB9DD\uC124\uC774\uC9C0
+        \uB9D0\uB77C. \uCD5C\uD6C4\uC758 \uC131\uACF5\uC744 \uAC70\uB458 \uB54C\uAE4C\uC9C0
+        \uBC00\uACE0 \uB098\uAC00\uC790"
+      - "\u8AE6\u3081\u308B\u306A\u3002\u6238\u60D1\u3046\u306A\u3002\u6700\u5F8C\u306B\u6210\u529F\u3092\u53CE\u3081\u308B\u307E\u3067\u9032\u3093\u3067\u3044\u3053\u3046\u3002"
+      - "Non mollare a met\xE0. Non esitare. Continuiamo finch\xE9 non raggiungi
+        il successo!"
+      - "No abandones a la mitad. No dudes. \xA1Sigue hasta que lo consigas!"
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: book_1_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Look at what remains after pain! When pain passes, happiness will permeate
+        in.
+      - "\uACE0\uD1B5\uC774 \uB0A8\uAE30\uACE0 \uAC04 \uB4A4\uB97C \uBCF4\uB77C!
+        \uACE0\uB09C\uC774 \uC9C0\uB098\uBA74 \uBC18\uB4DC\uC2DC \uAE30\uC068\uC774
+        \uC2A4\uBA70\uB4E0\uB2E4."
+      - "\u82E6\u3057\u307F\u304C\u6B8B\u3057\u305F\u8DE1\u3092\u898B\u308D\uFF01\u82E6\u96E3\u304C\u904E\u304E\u53BB\u308C\u3070\u5FC5\u305A\u559C\u3073\u304C\u8A2A\u308C\u308B\u3002"
+      - "Guarda cosa rimane dopo il dolore! Quando il dolore passa, la felicit\xE0
+        permane."
+      - "\xA1Mira las marcas del dolor! Cuando pase, se apreciar\xE1 mucho m\xE1s
+        la felicidad."
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: book_1_3
+      TermType: 0
+      Description: 
+      Languages:
+      - 'Focus on God regardless of his nature. Don''t give up on your natural gift.
+        You''ll succeed if you follow your instincts. '
+      - "\uC2E0\uC758 \uBCF8\uC131\uC774 \uC5B4\uB5A4\uAC83\uC774\uB4E0 \uADF8\uC5D0
+        \uCDA9\uC2E4\uD558\uB77C . \uC790\uC2E0\uC774 \uAC00\uC9C4 \uC7AC\uB2A5\uC758
+        \uB048\uC744 \uB193\uC544 \uBC84\uB9AC\uC9C0 \uB9C8\uB77C. \uBCF8\uC131\uC774
+        \uC774\uB044\uB294 \uB300\uB85C \uB530\uB974\uBA74 \uC131\uACF5\uD560\uAC83\uC774\uB2E4."
+      - "\u795E\u306E\u672C\u6027\u304C\u306A\u3093\u3067\u3042\u308C\u5F93\u3048\u3002\u81EA\u8EAB\u306E\u624D\u80FD\u3092\u8AE6\u3081\u308B\u306A\u3002\u672C\u6027\u304C\u5C0E\u304F\u307E\u307E\u5F93\u3048\u3070\u6210\u3057\u9042\u3052\u3089\u308C\u308B\u3060\u308D\u3046\u3002"
+      - Concentrati su Dio indipendentemente dalla sua natura. Non rinunciare al
+        tuo dono naturale. Avrai successo se segui il tuo istinto.
+      - "Piensa en Dios siempre. No cedas el regalo de la naturaleza. Conf\xEDa en
+        tus instintos y lo lograr\xE1s. "
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: book_1_4
+      TermType: 0
+      Description: 
+      Languages:
+      - Don't give up halfway. Don't hesitate. Keep going until you achieve success!
+      - "\uB3C4\uC911\uC5D0 \uD3EC\uAE30\uD558\uC9C0 \uB9D0\uB77C. \uB9DD\uC124\uC774\uC9C0
+        \uB9D0\uB77C. \uCD5C\uD6C4\uC758 \uC131\uACF5\uC744 \uAC70\uB458 \uB54C\uAE4C\uC9C0
+        \uBC00\uACE0 \uB098\uAC00\uC790"
+      - "\u8AE6\u3081\u308B\u306A\u3002\u6238\u60D1\u3046\u306A\u3002\u6700\u5F8C\u306B\u6210\u529F\u3092\u53CE\u3081\u308B\u307E\u3067\u9032\u3093\u3067\u3044\u3053\u3046\u3002"
+      - "Non mollare a met\xE0. Non esitare. Continua finch\xE9 non raggiungi il
+        successo!"
+      - "No abandones a la mitad. No dudes. \xA1Sigue hasta que lo consigas!"
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: book_1_5
+      TermType: 0
+      Description: 
+      Languages:
+      - If we have the welfare of the giraffes at heart, we must not overlook the
+        sufferings of the shorter necks who are starved out.
+      - "\uB9C8\uC74C\uB300\uB85C \uC88B\uC740 \uB098\uBB47\uC78E\uC744 \uACE8\uB77C
+        \uB72F\uC5B4\uBA39\uB294\n\uBAA9\uC774 \uAE34 \uAE30\uB9B0\uC758 \uD589\uBCF5\uC744
+        \uC0DD\uAC01\uD560 \uB54C, \n\uBAA9\uC774 \uC9E7\uC544 \uAD76\uC5B4 \uC8FD\uC740
+        \uAE30\uB9B0\uC758 \uACE0\uD1B5\uC744 \uC78A\uC5B4\uC11C\uB294 \uC548\uB41C\uB2E4."
+      - "\u597D\u304D\u306A\u3060\u3051\u6728\u306E\u8449\u3092\u9078\u3093\u3067\u98DF\u3059\u308B\n\u9996\u306E\u9577\u3044\u30AD\u30EA\u30F3\u306E\u5E78\u305B\u3092\u601D\u3044\u6D6E\u304B\u3079\u308B\u6642\u3001\n\u77ED\u3044\u9996\u306E\u305B\u3044\u3067\u98E2\u3048\u6B7B\u3057\u305F\u30AD\u30EA\u30F3\u306E\u82E6\u3057\u307F\u3092\u5FD8\u308C\u3066\u306F\u306A\u3089\u306A\u3044\u3002"
+      - "Se abbiamo a cuore il benessere delle giraffe dal collo lungo, non dobbiamo
+        trascurare le sofferenze di quelle che hanno un collo pi\xF9 corto che muoiono
+        di fame."
+      - Si se piensa en las jirafas y su cuello largo, no se debe olvidar el dolor
+        de aquellas con el cuello corto.
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: book_1_6
+      TermType: 0
+      Description: 
+      Languages:
+      - If our society can't help the poor, the wealthy minority can't either.
+      - "\uB9CC\uC77C \uC0AC\uD68C\uAC00 \uB9CE\uC740 \uAC00\uB09C\uD55C \uC0AC\uB78C\uC744
+        \uB3C4\uC6B8 \uC218 \uC5C6\uB2E4\uBA74 \n\uBD80\uC720\uD55C \uC18C\uC218\uC758
+        \uC0AC\uB78C\uB3C4 \uAD6C\uD574 \uC904 \uC218 \uC5C6\uB2E4."
+      - "\u793E\u4F1A\u304C\u305F\u304F\u3055\u3093\u306E\u8CA7\u3057\u3044\u4EBA\u3005\u3092\u6551\u3048\u306A\u3044\u306A\u3089\n\u5BCC\u88D5\u306A\u5C11\u6570\u306E\u4EBA\u3005\u3082\u6551\u3046\u3053\u3068\u306F\u3067\u304D\u306A\u3044\u3002"
+      - "Se la nostra societ\xE0 non pu\xF2 aiutare i poveri, nemmeno la minoranza
+        ricca pu\xF2 farlo."
+      - Si nuestra sociedad no puede ayudar a los pobres, tampoco los ricos se merecen
+        ayuda.
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: book_1_7
+      TermType: 0
+      Description: 
+      Languages:
+      - Money is like manure, it's only good if you spread it around.
+      - "\uAE08\uC804\uC740 \uBE44\uB8CC\uC640 \uAC19\uC740 \uAC83\uC73C\uB85C \uBFCC\uB9AC\uC9C0
+        \uC54A\uC73C\uBA74 \uC4F8\uBAA8\uAC00 \uC5C6\uB2E4."
+      - "\u91D1\u92AD\u306F\u80A5\u6599\u306E\u3088\u3046\u306A\u3082\u306E\u3002\u6492\u304B\u306A\u3051\u308C\u3070\u610F\u5473\u304C\u306A\u3044\u3002"
+      - "Il denaro \xE8 come il letame, fa bene solo se lo spargi."
+      - "Es dinero solo es \xFAtil si no repartes."
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: book_1_8
+      TermType: 0
+      Description: 
+      Languages:
+      - 'What you can learn from numbers: Not everything is important. '
+      - "\uC22B\uC790\uAC00 \uC54C\uB824\uC8FC\uB294 \uC9C0\uD61C\n\uBAA8\uB4E0 \uAC83\uC774
+        \uC911\uC694\uD55C \uAC83\uC740 \uC544\uB2C8\uB2E4."
+      - "\u6570\u5B57\u304B\u3089\u6559\u308F\u308B\u77E5\u6075\u3002\n\u4F55\u3082\u304C\u3082\u304C\u5927\u4E8B\u306A\u308F\u3051\u3067\u306F\u306A\u3044\u3002"
+      - "Cosa puoi imparare dai numeri: non tutto \xE8 importante."
+      - "Lo que se aprende de los n\xFAmeros es que no todo es importante. "
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: buy
+      TermType: 0
+      Description: 
+      Languages:
+      - Purchase
+      - "\uAD6C\uB9E4"
+      - "\u8CFC\u5165\u5B8C\u4E86"
+      - Acquisto
+      - "\xA1Compra"
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: buyComplete
+      TermType: 0
+      Description: 
+      Languages:
+      - Purchase complete!
+      - "\uAD6C\uB9E4 \uC644\uB8CC!"
+      - "\u8CFC\u5165\u5B8C\u4E86\uFF01"
+      - Acquisto completato!
+      - "\xA1Compra completada!"
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: cancel
+      TermType: 0
+      Description: 
+      Languages:
+      - Cancel
+      - "\uCDE8\uC18C"
+      - "\u30AD\u30E3\u30F3\u30BB\u30EB"
+      - Annulla
+      - Cancelar
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: cctv1_1
+      TermType: 0
+      Description: 
+      Languages:
+      - s
+      - "\uBE44"
+      - s
+      - s
+      - s
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: cctv1_10
+      TermType: 0
+      Description: 
+      Languages:
+      - e
+      - "\uC721"
+      - e
+      - e
+      - e
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: cctv1_11
+      TermType: 0
+      Description: 
+      Languages:
+      - d
+      - "\uC0B4"
+      - d
+      - d
+      - d
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: cctv1_12
+      TermType: 0
+      Description: 
+      Languages:
+      - n
+      - "\uC2A4"
+      - n
+      - n
+      - n
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: cctv1_2
+      TermType: 0
+      Description: 
+      Languages:
+      - e
+      - "\uAC15"
+      - e
+      - e
+      - e
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: cctv1_3
+      TermType: 0
+      Description: 
+      Languages:
+      - c
+      - "\uCD1D"
+      - c
+      - c
+      - c
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: cctv1_4
+      TermType: 0
+      Description: 
+      Languages:
+      - r
+      - "\uBC00"
+      - r
+      - r
+      - r
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: cctv1_5
+      TermType: 0
+      Description: 
+      Languages:
+      - a
+      - "\uC6B0"
+      - a
+      - a
+      - a
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: cctv1_6
+      TermType: 0
+      Description: 
+      Languages:
+      - o
+      - "\uB9D0"
+      - o
+      - o
+      - o
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: cctv1_7
+      TermType: 0
+      Description: 
+      Languages:
+      - m
+      - "\uC2DC"
+      - m
+      - m
+      - m
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: cctv1_8
+      TermType: 0
+      Description: 
+      Languages:
+      - t
+      - "\uC885"
+      - t
+      - t
+      - t
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: cctv1_9
+      TermType: 0
+      Description: 
+      Languages:
+      - k
+      - "\uAE30"
+      - k
+      - k
+      - k
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: cctv2_1
+      TermType: 0
+      Description: 
+      Languages:
+      - a
+      - "\uB0A0"
+      - a
+      - a
+      - a
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: cctv2_10
+      TermType: 0
+      Description: 
+      Languages:
+      - j
+      - "\uCD1D"
+      - j
+      - j
+      - j
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: cctv2_11
+      TermType: 0
+      Description: 
+      Languages:
+      - y
+      - "\uB098"
+      - y
+      - y
+      - y
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: cctv2_12
+      TermType: 0
+      Description: 
+      Languages:
+      - q
+      - "\uC790"
+      - q
+      - q
+      - q
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: cctv2_2
+      TermType: 0
+      Description: 
+      Languages:
+      - w
+      - "\uADF8"
+      - w
+      - w
+      - b
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: cctv2_3
+      TermType: 0
+      Description: 
+      Languages:
+      - h
+      - "\uB9BC"
+      - h
+      - h
+      - h
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: cctv2_4
+      TermType: 0
+      Description: 
+      Languages:
+      - d
+      - "\uBCC4"
+      - d
+      - d
+      - d
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: cctv2_5
+      TermType: 0
+      Description: 
+      Languages:
+      - s
+      - "\uB2EC"
+      - s
+      - s
+      - s
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: cctv2_6
+      TermType: 0
+      Description: 
+      Languages:
+      - o
+      - "\uB9D0"
+      - o
+      - o
+      - o
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: cctv2_7
+      TermType: 0
+      Description: 
+      Languages:
+      - u
+      - "\uC2DC"
+      - u
+      - u
+      - u
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: cctv2_8
+      TermType: 0
+      Description: 
+      Languages:
+      - v
+      - "\uC190"
+      - v
+      - v
+      - v
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: cctv2_9
+      TermType: 0
+      Description: 
+      Languages:
+      - e
+      - "\uC885"
+      - e
+      - e
+      - e
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: cctvGame_1
+      TermType: 0
+      Description: 
+      Languages:
+      - If I have it, I don't share it. If I share it, I don't have it. What is it?
+      - "\uB0B4\uAC00 \uADF8\uAC83\uC744 \uAC00\uC9C0\uACE0 \uC788\uB2E4\uBA74 \uB098\uB294
+        \uADF8\uAC83\uC744 \uACF5\uC720\uD558\uC9C0 \uC54A\uC2B5\uB2C8\uB2E4. \uB0B4\uAC00
+        \uADF8\uAC83\uC744 \uACF5\uC720\uD558\uBA74 \uB098\uB294 \uADF8\uAC83\uC744
+        \uAC00\uC9C0\uACE0 \uC788\uC9C0 \uC54A\uC2B5\uB2C8\uB2E4. \uB09C \uBB58\uAE4C"
+      - "\u79C1\u304C\u305D\u308C\u3092\u6301\u3063\u3066\u3044\u308C\u3070\u79C1\u306F\u305D\u308C\u3092\u5171\u6709\u3057\u307E\u305B\u3093\u3002\n\u79C1\u304C\u305D\u308C\u3092\u5171\u6709\u3059\u308C\u3070\u79C1\u304C\u305D\u308C\u3092\u6301\u3063\u3066\u3044\u307E\u305B\u3093\u3002\u79C1\u306F\u306A\u3093\u3067\u3057\u3087\u3046\u3002"
+      - Se ce l'ho, non lo condivido. Se lo condivido, non ce l'ho. Di cosa si tratta?
+      - "Si lo tengo, no lo comparto. Si lo comparto, no lo tengo. \xBFQu\xE9 es?"
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: cctvGame_2
+      TermType: 0
+      Description: 
+      Languages:
+      - I follow you around sometimes. And I copy what you do. You can't touch nor
+        catch me. What am I?
+      - "\uB09C \uC885\uC885 \uB108\uB97C \uB530\uB77C \uB2E4\uB2C8\uC9C0. \uADF8\uB9AC\uACE0
+        \uB108\uC758 \uBAA8\uB4E0 \uD589\uB3D9\uC744 \uCE74\uD53C\uD574.\n\uB108\uB294
+        \uB098\uB97C \uB9CC\uC9C8\uC218\uB3C4 \uC7A1\uC744 \uC218\uB3C4 \uC5C6\uC5B4.
+        \uB09C \uBB58\uAE4C."
+      - "\u79C1\u306F\u6642\u3005\u541B\u306B\u3064\u3044\u3066\u3044\u304F\u3002\u305D\u3057\u3066\u3001\u541B\u306E\u884C\u52D5\u3092\u3059\u3079\u3066\u30B3\u30D4\u30FC\u3059\u308B\u3002\n\u541B\u306F\u79C1\u306B\u89E6\u308C\u308B\u3053\u3068\u3082\u3001\u63B4\u3080\u3053\u3068\u3082\u3067\u304D\u306A\u3044\u3002\u79C1\u306F\u306A\u3093\u3067\u3057\u3087\u3046\u3002"
+      - "A volte ti seguo mentre sei in giro. E copio le tue azioni. Non puoi toccarmi
+        n\xE9 prendermi. Cosa sono?"
+      - "Te persigo y copio tus movimientos. No puedes tocarme ni cogerme. \xBFQu\xE9
+        soy?"
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: cctv_1_Hint
+      TermType: 0
+      Description: 
+      Languages:
+      - "s\u25A1c\u25A1e\u25A1"
+      - "\uBE44\u25A1"
+      - "s\u25A1c\u25A1e\u25A1"
+      - "s\u25A1c\u25A1e\u25A1"
+      - "s\u25A1c\u25A1e\u25A1"
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: cctv_2_hint
+      TermType: 0
+      Description: 
+      Languages:
+      - "s\u25A1\u25A1d\u25A1w"
+      - "\uADF8\u25A1\u25A1"
+      - "s\u25A1\u25A1d\u25A1w"
+      - "s\u25A1\u25A1d\u25A1w"
+      - "s\u25A1\u25A1d\u25A1w"
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: cctv_hint_1
+      TermType: 0
+      Description: 
+      Languages:
+      - secret
+      - "\uBE44\uBC00"
+      - secret
+      - secret
+      - secret
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: cctv_hint_2
+      TermType: 0
+      Description: 
+      Languages:
+      - shadow
+      - "\uADF8\uB9BC\uC790"
+      - shadow
+      - shadow
+      - shadow
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: cold
+      TermType: 0
+      Description: 
+      Languages:
+      - Cold
+      - "\uAC10\uAE30"
+      - "\u98A8\u90AA"
+      - Freddo
+      - "Fr\xEDo"
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: conversation
+      TermType: 0
+      Description: 
+      Languages:
+      - Talk
+      - "\uB300\uD654\uD558\uAE30"
+      - "\u8A71\u3059"
+      - Parla
+      - Hablar
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: cost_1
+      TermType: 0
+      Description: 
+      Languages:
+      - '$0.99 '
+      - "\u20A91,200"
+      - "\xA5120"
+      - '$0.99 '
+      - '$0.99 '
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: cost_2
+      TermType: 0
+      Description: 
+      Languages:
+      - '$1.99 '
+      - "\u20A92,500"
+      - "\xA5250"
+      - '$1.99 '
+      - '$1.99 '
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: cost_3
+      TermType: 0
+      Description: 
+      Languages:
+      - '$2.99 '
+      - "\u20A93,900"
+      - "\xA5370"
+      - '$2.99 '
+      - '$2.99 '
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: endingImage
+      TermType: 0
+      Description: 
+      Languages:
+      - Ending
+      - "\uC5D4\uB529"
+      - "\u30A8\u30F3\u30C7\u30A3\u30F3\u30B0"
+      - Fine
+      - Final
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: escape
+      TermType: 0
+      Description: 
+      Languages:
+      - Escape
+      - "\uD0C8\uCD9C"
+      - "\u8131\u51FA"
+      - Fuga
+      - Escapar
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: explosion
+      TermType: 0
+      Description: 
+      Languages:
+      - Explode
+      - "\uD3ED\uBC1C"
+      - "\u7206\u767A"
+      - Esplosione
+      - Explotar
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: factory
+      TermType: 0
+      Description: 
+      Languages:
+      - Factory
+      - "\uACF5\uC7A5"
+      - "\u5DE5\u5834"
+      - Fabbrica
+      - "F\xE1brica"
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: family
+      TermType: 0
+      Description: 
+      Languages:
+      - Family
+      - "\uAC00\uC871"
+      - "\u5BB6\u65CF"
+      - Famiglia
+      - Familia
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: farmers routine
+      TermType: 0
+      Description: 
+      Languages:
+      - Harvest Fruit
+      - "\uB18D\uBD80\uC758 \uC77C\uACFC"
+      - "\u8FB2\u6C11\u306E\u65E5\u8AB2"
+      - Raccolta della frutta
+      - Recolectar fruta
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: headache
+      TermType: 0
+      Description: 
+      Languages:
+      - Headache
+      - "\uB450\uD1B5"
+      - "\u982D\u75DB"
+      - Mal di testa
+      - Dolor de cabeza
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: hunger
+      TermType: 0
+      Description: 
+      Languages:
+      - Starvation
+      - "\uAD76\uC8FC\uB9BC"
+      - "\u98E2\u3048"
+      - Carestia
+      - "Inanici\xF3n"
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: iCant
+      TermType: 0
+      Description: 
+      Languages:
+      - I can't do this.
+      - "\uC544\uB2C8 \uB09C \uBABB\uD558\uACA0\uC5B4."
+      - "\u3044\u3084\u3001\u7121\u7406\u3060\u3002"
+      - Non posso farlo.
+      - No puedo hacerlo.
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: lamptown
+      TermType: 0
+      Description: 
+      Languages:
+      - Lamp Town
+      - "\uB7A8\uD504\uD0C0\uC6B4"
+      - "\u30E9\u30F3\u30D7\u30BF\u30A6\u30F3"
+      - Lamp Town
+      - Ciudad Farol
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: lift
+      TermType: 0
+      Description: 
+      Languages:
+      - Elevator
+      - "\uC2B9\uAC15\uAE30"
+      - "\u30A8\u30EC\u30D9\u30FC\u30BF\u30FC"
+      - Ascensore
+      - Ascensor
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: m_event_1
+      TermType: 0
+      Description: 
+      Languages:
+      - You guys are our hope and future.
+      - "\uC5EC\uB7EC\uBD84\uC774 \uC6B0\uB9AC\uC758 \uD76C\uB9DD\uC774\uACE0 \uBBF8\uB798\uC785\uB2C8\uB2E4."
+      - "\u7686\u69D8\u304C\u6211\u3005\u306E\u5E0C\u671B\u3067\u3042\u308A\u3001\u672A\u6765\u3067\u3042\u308A\u307E\u3059\u3002"
+      - Voi ragazzi siete la nostra speranza e il nostro futuro.
+      - Sois nuestra esperanza y futuro.
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: m_event_10
+      TermType: 0
+      Description: 
+      Languages:
+      - Thank you! You can count on me!
+      - "\uAC10\uC0AC\uD569\uB2C8\uB2E4! \uC5F4\uC2EC\uD788 \uD560\uAC8C\uC694!"
+      - "\u3042\u308A\u304C\u3068\u3046\u3054\u3056\u3044\u307E\u3059\uFF01\u9811\u5F35\u308A\u307E\u3059\uFF01"
+      - Grazie! Puoi contare su di me!
+      - "\xA1Gracias! No te arrepentir\xE1s."
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: m_event_11
+      TermType: 0
+      Description: 
+      Languages:
+      - 'It''s not like he''s doomed.
+
+        He''s been on so many trips already.
+
+        What''s
+        the big deal...'
+      - "\uC8FD\uC73C\uB7EC \uAC00\uB294 \uAC83\uB3C4 \uC544\uB2C8\uACE0\n\uC9C0\uAE08\uAE4C\uC9C0
+        \uBC8C\uC368 \uBA87 \uBC88\uC774\uB098 \uB2E4\uB140\uC628 \uAC74\uB370 \uBB58"
+      - "\u6B7B\u306B\u306B\u3044\u304F\u3093\u3058\u3083\u306A\u3044\u304B\u3089\u3002\n\u4ECA\u307E\u3067\u4F55\u5EA6\u3082\u884C\u3063\u3066\u304D\u3066\u3093\u3060\u3088\u3002"
+      - "Non \xE8 come se fosse condannato.\nHa gi\xE0 compiuto cos\xEC tanti viaggi.\nQual
+        \xE8 il problema..."
+      - "No es que est\xE9 ya condenado.\nLleva muchos viajes a sus espaldas.\nNo
+        s\xE9 a qu\xE9 viene tanto revuelo..."
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: m_event_12
+      TermType: 0
+      Description: 
+      Languages:
+      - I'll take care of him. Hahaha
+      - "\uC774\uB188\uC740 \uC81C\uAC00 \uC798 \uCC59\uAE38\uAC8C\uC694 \uD558\uD558\uD558"
+      - "\u3053\u3044\u3064\u306E\u3053\u3068\u306F\u4EFB\u305B\u3066\u304F\u3060\u3055\u3044\u3002\u306F\u3063\u306F\u3063\u306F\u3063"
+      - "Mi prender\xF2 cura di lui. Eheheh"
+      - "Yo me ocupo de \xE9l, ja, ja, ja."
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: m_event_13
+      TermType: 0
+      Description: 
+      Languages:
+      - Of course he's not doomed!!
+      - "\uC8FD\uC73C\uBA74 \uC548\uB3FC!!"
+      - "\u6B7B\u3093\u3058\u3083\u30C0\u30E1\uFF01\uFF01"
+      - "Ovviamente non \xE8 condannato!!"
+      - "\xA1Claro que no est\xE1 condenado!"
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: m_event_2
+      TermType: 0
+      Description: 
+      Languages:
+      - 'Believe that we can find new land and support the revival of the human race! '
+      - "\uC0C8\uB85C\uC6B4 \uC721\uC9C0\uB294 \uBD84\uBA85\uD788 \uC788\uC744 \uAC83\uC774\uB77C
+        \uBBFF\uACE0\n\uB2E4\uC2DC \uD55C\uBC88 \uC778\uB958\uC758 \uBD80\uD765\uC744
+        \uC704\uD574 \uD798\uC368\uC8FC\uC138\uC694!"
+      - "\u65B0\u3057\u3044\u9678\u5730\u306F\u5FC5\u305A\u5B58\u5728\u3059\u308B\u3068\u4FE1\u3058\u3066\n\u3082\u3046\u4E00\u5EA6\u3001\u4EBA\u985E\u306E\u5FA9\u8208\u306E\u305F\u3081\u306B\u529B\u3092\u8CB8\u3057\u3066\u304F\u3060\u3055\u3044\uFF01"
+      - "Credi che riusciremo a trovare una nuova terra cos\xEC da aiutare la rinascita
+        della razza umana!"
+      - "\xA1Hay que creer que podemos encontrar tierra y apoyar el resurgimiento
+        de la raza humana! "
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: m_event_3
+      TermType: 0
+      Description: 
+      Languages:
+      - We will definitely take a leap forward.
+      - "\uC6B0\uB9AC\uB294 \uBD84\uBA85 \uB354 \uB3C4\uC57D\uD560 \uAC83\uC785\uB2C8\uB2E4."
+      - "\u6211\u3005\u306F\u5FC5\u305A\u3001\u518D\u3073\u8DF3\u8E8D\u3059\u308B\u3053\u3068\u3067\u3057\u3087\u3046\u3002"
+      - Faremo sicuramente un salto in avanti.
+      - Haremos un salto de fe.
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: m_event_4
+      TermType: 0
+      Description: 
+      Languages:
+      - Let's find different human beings and coexist with them!
+      - "\uAF2D \uB2E4\uB978 \uC778\uB958\uB4E4\uC744 \uCC3E\uC544 \uC11C\uB85C \uACF5\uC0DD\uD558\uBA70
+        \uC0B4\uC544\uAC11\uC2DC\uB2E4!"
+      - "\u5FC5\u305A\u4ED6\u306E\u4EBA\u985E\u3092\u898B\u3064\u3051\u3066\u5171\u306B\u751F\u304D\u3066\u3044\u304D\u307E\u3057\u3087\u3046\uFF01"
+      - Troviamo esseri umani diversi e conviviamo con loro!
+      - "\xA1Encontremos a otros humanos y coexistamos todos!"
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: m_event_5
+      TermType: 0
+      Description: 
+      Languages:
+      - I'm going to discover the New World no matter what!
+      - "\uAF2D \uC2E0\uB300\uB959\uC744 \uCC3E\uC544 \uB0BC\uAC70\uC5D0\uC694!"
+      - "\u5FC5\u305A\u65B0\u5927\u9678\u3092\u898B\u3064\u3051\u3066\u304D\u307E\u3059\u304B\u3089\uFF01"
+      - "Scoprir\xF2 il Nuovo Mondo, costi quel che costi!"
+      - "\xA1Voy a descubrir el Nuevo Mundo cueste lo que cueste!"
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: m_event_6
+      TermType: 0
+      Description: 
+      Languages:
+      - Mom, I'm heading off now.
+      - "\uC5C4\uB9C8 \uB2E4\uB140\uC62C\uAC8C\uC694"
+      - "\u304A\u6BCD\u3055\u3093\u3001\u884C\u3063\u3066\u304D\u307E\u3059\u3002"
+      - Mamma, devo andare ora.
+      - "Mam\xE1, me voy ya."
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: m_event_7
+      TermType: 0
+      Description: 
+      Languages:
+      - Have a safe journey.
+      - "\uADF8\uB798 \uC774\uBC88\uC5D0\uB3C4 \uBAB8 \uAC74\uAC15\uD788 \uB2E4\uB140\uC624\uAC70\uB77C"
+      - "\u6C17\u3092\u3064\u3051\u3066\u884C\u3063\u3066\u304F\u308B\u306E\u3088\u3002"
+      - Buon viaggio.
+      - Ten un viaje tranquilo.
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: m_event_8
+      TermType: 0
+      Description: 
+      Languages:
+      - I'm counting on you!
+      - "\uC790\uB124\uC5D0\uAC8C \uC544\uC8FC \uAE30\uB300\uAC00 \uD06C\uB124!"
+      - "\u541B\u306B\u306F\u671F\u5F85\u3057\u3066\u3044\u308B\u305E\uFF01"
+      - Conto su di te!
+      - "\xA1Cuento contigo!"
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: m_event_9
+      TermType: 0
+      Description: 
+      Languages:
+      - You have to lead the exploration team after me.
+      - "\uB098 \uB2E4\uC74C\uC740 \uC790\uB124\uAC00 \uC774 \uD0D0\uD5D8\uB2E8\uC744
+        \uC774\uB04C\uC5B4\uC57C\uB3FC"
+      - "\u6B21\u306F\u541B\u306B\u3053\u306E\u63A2\u691C\u968A\u3092\u7387\u3044\u3066\u3082\u3089\u3046\u3002"
+      - Devi guidare la squadra di esplorazione dopo di me.
+      - "Liderar\xE1s la exploraci\xF3n cuando yo no est\xE9."
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: marina
+      TermType: 0
+      Description: 
+      Languages:
+      - Dock
+      - "\uC120\uCC29\uC7A5"
+      - "\u8239\u7740\u5834"
+      - Molo
+      - Muelle
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: motherfucker
+      TermType: 0
+      Description: 
+      Languages:
+      - That bastard
+      - "\uC774 \uAC1C\uC790\uC2DD"
+      - "\u3053\u306E\u91CE\u90CE"
+      - Quel bastardo
+      - "Ser\xE1 cabr\xF3n..."
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: needInapp
+      TermType: 0
+      Description: 
+      Languages:
+      - It is available after purchasing all stories.
+      - "\uBAA8\uB4E0 \uC2A4\uD1A0\uB9AC \uAD6C\uB9E4 \uD6C4 \uC774\uC6A9 \uAC00\uB2A5\uD569\uB2C8\uB2E4."
+      - "\u5168\u3066\u306E\u30B9\u30C8\u30FC\u30EA\u30FC\u3092\u8CFC\u5165\u5F8C\u306B\u3054\u5229\u7528\u3044\u305F\u3060\u3051\u307E\u3059\u3002"
+      - "\xC8 disponibile dopo aver acquistato tutte le storie."
+      - Disponible tras comprar todas las historias.
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: one who believes in god
+      TermType: 0
+      Description: 
+      Languages:
+      - Believer
+      - "\uC2E0\uC744 \uBBFF\uB294\uC790"
+      - "\u795E\u3092\u4FE1\u3058\u308B\u8005"
+      - Credente
+      - Creyente
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: pacemaker
+      TermType: 0
+      Description: 
+      Languages:
+      - Pacemaker
+      - "\uC2EC\uBC15\uB3D9\uAE30"
+      - "\u30DA\u30FC\u30B9\u30E1\u30FC\u30AB\u30FC"
+      - Pacemaker
+      - Monitor
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: party_event_1
+      TermType: 0
+      Description: 
+      Languages:
+      - Don't sleep here
+      - "\uC65C \uC5EC\uAE30\uC11C \uC790\uACE0 \uADF8\uB798"
+      - "\u306A\u3093\u3067\u3053\u3053\u3067\u5BDD\u3066\u3093\u3060\u3088\u3002"
+      - Non dormire qui
+      - "No duermas aqu\xED."
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: penance
+      TermType: 0
+      Description: 
+      Languages:
+      - Repentance
+      - "\uCC38\uD68C"
+      - "\u61FA\u6094"
+      - Pentimento
+      - Arrepentimiento
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: piece_of_memory
+      TermType: 0
+      Description: 
+      Languages:
+      - Memory Fragment
+      - "\uAE30\uC5B5\uC758 \uC870\uAC01"
+      - "\u8A18\u61B6\u306E\u6B20\u7247"
+      - Frammento di memoria
+      - Fragmento de recuerdo
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: poisoning
+      TermType: 0
+      Description: 
+      Languages:
+      - Mix Poison
+      - "\uB3C5\uC57D \uD0C0\uAE30"
+      - "\u6BD2\u85AC\u3092\u5165\u308C\u308B"
+      - Mescola il veleno
+      - Mezclar veneno
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: purchase
+      TermType: 0
+      Description: 
+      Languages:
+      - Purchase
+      - "\uAD6C\uB9E4"
+      - "\u8CFC\u5165"
+      - Acquista
+      - Comprar
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: purchase_complete
+      TermType: 0
+      Description: 
+      Languages:
+      - Purchase complete!
+      - "\uAD6C\uB9E4 \uC644\uB8CC"
+      - "\u8CFC\u5165\u5B8C\u4E86"
+      - Acquisto completato!
+      - "\xA1Compra completada!"
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: purchase_failed
+      TermType: 0
+      Description: 
+      Languages:
+      - Purchase failed!
+      - "\uAD6C\uB9E4 \uC2E4\uD328"
+      - "\u8CFC\u5165\u5931\u6557"
+      - Acquisto non riuscito!
+      - "\xA1Compra fallida!"
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: recipe
+      TermType: 0
+      Description: 
+      Languages:
+      - Recipe
+      - "\uC81C\uC870\uBC95"
+      - "\u88FD\u9020\u65B9\u6CD5"
+      - Ricetta
+      - Receta
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: recovery_failed
+      TermType: 0
+      Description: 
+      Languages:
+      - Restore failed!
+      - "\uBCF5\uAD6C \uC2E4\uD328"
+      - "\u5FA9\u65E7\u5931\u6557"
+      - Ripristino non riuscito!
+      - "\xA1Restauraci\xF3n fallida!"
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: restore_purchase
+      TermType: 0
+      Description: 
+      Languages:
+      - Restore Purchase
+      - "\uAD6C\uB9E4 \uBCF5\uC6D0"
+      - "\u8CFC\u5165\u5FA9\u5143"
+      - Ripristina acquisto
+      - Restaurar compra
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: reveiw_info
+      TermType: 0
+      Description: 
+      Languages:
+      - 'Did you enjoy Game?
+
+        Please leave your own review. It will be a
+        great help for us. '
+      - "\uC990\uAC70\uC6B0\uC168\uB098\uC694?\n\uB9AC\uBDF0 \uD574\uC8FC\uC2DC\uBA74
+        \uD070\uD798\uC774 \uB429\uB2C8\uB2E4."
+      - "\u30B2\u30FC\u30E0\u306F\u697D\u3057\u3044\u3067\u3059\u304B\uFF1F\n\u3042\u306A\u305F\u306E\u30EC\u30D3\u30E5\u30FC\u306F\u5927\u304D\u306A\u52B1\u307F\u306B\u306A\u308A\u307E\u3059\u3002"
+      - "Ti \xE8 piaciuto il gioco?\nLasciare la tua recensione. Ci sar\xE0 di grande
+        aiuto. "
+      - "\xBFTe ha gustado el juego?\nD\xE9janos tu comentario. Nos ayuda much\xEDsimo. "
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: revenge
+      TermType: 0
+      Description: 
+      Languages:
+      - 'Take this revenge! It''s for my coworkers! '
+      - "\uB3D9\uB8CC\uB4E4\uC758 \uBCF5\uC218\uB2E4!"
+      - "\u540C\u50DA\u305F\u3061\u306E\u5FA9\u8B90\u3060\uFF01"
+      - "Subisci questa vendetta! \xC8 per i miei colleghi!"
+      - "\xA1Esto por mis compa\xF1eros! "
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: revolution
+      TermType: 0
+      Description: 
+      Languages:
+      - Revolution
+      - "\uD601\uBA85"
+      - "\u9769\u547D"
+      - Rivoluzione
+      - "Revoluci\xF3n"
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: revolutionBook_0_0
+      TermType: 0
+      Description: 
+      Languages:
+      - 'The temperature is rising and global warming is speeding up.
+
+        At
+        this rate, all the glaciers are going to melt and cause the sea level to
+        rise.
+
+        People will lose their homes.
+
+        So I''ve decided to
+        use all the money I''ve saved up to build a massive ship where everyone can
+        live.'
+      - "\uAE30\uC628 \uC0C1\uC2B9\uC73C\uB85C \uC9C0\uAD6C \uC628\uB09C\uD654\uAC00
+        \uAC00\uC18D\uD654\uB418\uACE0 \uC788\uB2E4.\n\uC774\uB807\uAC8C \uAC00\uB2E4\uAC04
+        \uBE59\uD558\uAC00 \uC804\uBD80 \uB179\uC544 \uD574\uC218\uBA74\uC774 \uC0C1\uC2B9\uD558\uC5EC\n\uC0AC\uB78C\uB4E4\uC774
+        \uC0B4\uC544\uAC08 \uACF3\uC774 \uC0AC\uB77C\uC9C8 \uAC83\uC774\uB2E4.\n\uADF8
+        \uB300\uBE44\uCC45\uC73C\uB85C \uC9C0\uAE08\uBD80\uD130 \uB0B4 \uC804 \uC7AC\uC0B0\uC744
+        \uB4E4\uC5EC \uBAA8\uB450\uAC00 \uC0B4 \uC218 \uC788\uB294\n\uAC70\uB300\uD55C
+        \uBC30 \uAC1C\uBC1C\uC5D0 \uCC29\uC218\uD55C\uB2E4."
+      - "\u6C17\u6E29\u306E\u4E0A\u6607\u306B\u3088\u308B\u5730\u7403\u6E29\u6696\u5316\u304C\u52A0\u901F\u5316\u3057\u3066\u3044\u308B\u3002\n\u3053\u306E\u307E\u307E\u3067\u306F\u6C37\u6CB3\u304C\u6EB6\u3051\u3066\u3057\u307E\u3044\u3001\u6D77\u6C34\u9762\u304C\u4E0A\u6607\u3059\u308B\u3053\u3068\u3067\n\u4EBA\u304C\u751F\u304D\u308B\u305F\u3081\u306E\u9678\u5730\u306F\u6D88\u3048\u3066\u3057\u307E\u3046\u3002\n\u305D\u306E\u5099\u3048\u3068\u3057\u3066\u3001\u4ECA\u304B\u3089\u81EA\u5206\u306E\u5168\u8CA1\u7523\u3092\u304B\u3051\u3066\n\u5168\u4EBA\u985E\u304C\u751F\u304D\u3089\u308C\u308B\u5DE8\u5927\u306A\u8239\u306E\u958B\u767A\u306B\u7740\u9152\u3059\u308B\u3002"
+      - 'La temperatura sta aumentando e il riscaldamento globale sta accelerando.
+
+        Di
+        questo passo, tutti i ghiacciai si scioglieranno e faranno salire il livello
+        del mare.
+
+        Le persone perderanno le loro case.
+
+        Quindi ho
+        deciso di usare tutti i soldi che ho risparmiato per costruire una nave enorme
+        in cui tutti possano vivere.'
+      - "La temperatura aumenta y el calentamiento global ha cogido velocidad.\nA
+        este paso, todos los glaciares se derretir\xE1n y provocar\xE1n que el nivel
+        del agua suba.\nLa gente perder\xE1 su hogar.\nHe decidido usar todo mi dinero
+        ahorrado para crear un barco gigantesco donde puedan vivir."
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: revolutionBook_0_1
+      TermType: 0
+      Description: 
+      Languages:
+      - 'A lot of people think I''m a lunatic. But I need to build a ship.
+
+        It''s
+        simply a matter of time before the ocean swallows up all the land.
+
+        I
+        chose higher ground to build it. I''ll start working on it now.'
+      - "\uB9CE\uC740 \uC0AC\uB78C\uB4E4\uC740 \uB0A0 \uBBF8\uCCE4\uB2E4\uACE0 \uC0DD\uAC01\uD55C\uB2E4.\n\uD558\uC9C0\uB9CC
+        \uADF8\uB7FC\uC5D0\uB3C4 \uB098\uB294 \uBC30\uB97C \uC900\uBE44\uD574\uC57C
+        \uD55C\uB2E4.\n\uBA40\uC9C0 \uC54A\uC740 \uBBF8\uB798\uC5D0 \uBC14\uB2E4\uB294
+        \uB545\uC744 \uC9DA\uC5B4 \uC0BC\uD0A4\uACE0 \uB9D0 \uAC83\uC774\uB2E4.\n\uBC30\uB97C
+        \uC900\uBE44\uD558\uAE30 \uC704\uD574 \uB192\uC740 \uC9C0\uB300\uB97C \uC120\uD0DD\uD588\uB2E4.\n\uC774\uC81C\uBD80\uD130
+        \uC791\uC5C5\uC744 \uC2DC\uC791\uD55C\uB2E4."
+      - "\u305F\u304F\u3055\u3093\u306E\u4EBA\u3005\u304B\u3089\u982D\u306E\u304A\u304B\u3057\u3044
+        \u3084\u3064\u3068\u601D\u308F\u308C\u3066\u3044\u308B\u3002\n\u3057\u304B\u3057\u3001\u305D\u3093\u306A\u4E2D\u3067\u3082\u8239\u306E\u958B\u767A\u3092\u9032\u3081\u306A\u3051\u308C\u3070\u306A\u3089\u306A\u3044\u3002\n\u305D\u3046\u9060\u304F\u306A\u3044\u672A\u6765\u306B\u3001\u6D77\u306F\u5168\u3066\u306E\u9678\u5730\u3092\u98F2\u307F\u8FBC\u3080\u3060\u308D\u3046\u3002\n\u8239\u3092\u4F5C\u308B\u305F\u3081\u306B\u3001\u9AD8\u3044\u5730\u5E2F\u3092\u9078\u3093\u3060\u3002\n\u4ECA\u304B\u3089\u4F5C\u696D\u3092\u958B\u59CB\u3059\u308B\u3002\n"
+      - "Molte persone pensano che io sia un pazzo. Ma ho bisogno di costruire una
+        nave.\n\xC8 semplicemente una questione di tempo prima che l'oceano inghiotta
+        tutta la terra.\nHo scelto un terreno pi\xF9 alto per costruirla. Inizier\xF2
+        a lavorarci ora."
+      - "Mucha gente cree que estoy loco. Pero necesito construirlo.\nEs cuesti\xF3n
+        de tiempo que el oc\xE9ano engulla toda la tierra.\nYo prefiero estar por
+        encima cuando eso pase. Empezar\xE9 ya mismo."
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: revolutionBook_0_2
+      TermType: 0
+      Description: 
+      Languages:
+      - 'I''m running behind schedule.
+
+        I''ve finished 80% of my ship.
+
+        The
+        sea level has risen a lot and low land is already sinking.'
+      - "\uC2DC\uAC04\uC774 \uB108\uBB34 \uC9C0\uCCB4\uB418\uACE0 \uC788\uB2E4.\n\uBC30\uB294
+        \uD604\uC7AC 80% \uAC1C\uBC1C\uB418\uC5C8\uB2E4.\n\uD574\uC218\uBA74\uC740
+        \uAD49\uC7A5\uD788 \uC0C1\uC2B9\uD588\uACE0 \uBC8C\uC368 \uC9C0\uB300\uAC00
+        \uB0AE\uC740 \uC9C0\uC5ED\uC740 \uBC14\uB2F7\uC18D\uC73C\uB85C \uC0AC\uB77C\uC9C0\uACE0
+        \uC788\uB2E4."
+      - "\u6642\u9593\u304C\u304B\u306A\u308A\u62BC\u3057\u3066\u3044\u308B\u3002\n\u8239\u306F80%\u306E\u958B\u767A\u5B8C\u4E86\u3002\n\u6D77\u6C34\u9762\u306F\u304B\u306A\u308A\u4E0A\u6607\u3057\u3066\u3044\u3066\u3001\u5730\u5E2F\u306E\u4F4E\u3044\u9678\u5730\u306F\u65E2\u306B\u6D77\u306E\u4E2D\u306B\u6D88\u3048\u3066\u3057\u307E\u3063\u305F\u3002\n"
+      - "Sono in ritardo rispetto al programma.\nHo completato l'80% della mia nave.\nIl
+        livello del mare si \xE8 alzato molto e la pianura si sta gi\xE0 inabissando."
+      - 'Voy con retraso.
+
+        He terminado el 80 % del barco.
+
+        Los niveles
+        del mar han subido tanto que han cubierto parte de la tierra.'
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: revolutionBook_0_3
+      TermType: 0
+      Description: 
+      Languages:
+      - 'There''s not enough time.
+
+        More land is disappearing.
+
+        I''m
+        surrounded by the ocean.
+
+        Is this the end...'
+      - "\uC2DC\uAC04\uC774 \uBD80\uC871\uD558\uB2E4.\n\uC721\uC9C0\uAC00 \uB354
+        \uC0AC\uB77C\uC84C\uB2E4.\n\uC774\uC81C\uB294 \uC8FC\uC704\uB97C \uB458\uB7EC\uBD10\uB3C4
+        \uBC14\uB2E4\uBC16\uC5D0 \uBCF4\uC774\uC9C0 \uC54A\uB294\uB2E4.\n\uC774\uB300\uB85C
+        \uB05D\uC778 \uAC74\uAC00."
+      - "\u6642\u9593\u304C\u8DB3\u308A\u306A\u3044\u3002\n\u3055\u3089\u306B\u9678\u5730\u304C\u6D88\u3048\u3066\u3044\u3063\u305F\u3002\n\u4ECA\u3067\u306F\u5468\u56F2\u3092\u898B\u3066\u3082\u6D77\u3057\u304B\u898B\u3048\u306A\u3044\u3002\n\u3053\u306E\u307E\u307E\u7D42\u308F\u308A\u3092\u8FCE\u3048\u308B\u306E\u304B\u3002"
+      - "Non c'\xE8 abbastanza tempo.\nAltra terra sta scomparendo.\nSono circondato
+        dall'oceano.\nQuesta \xE8 la fine..."
+      - "No queda tiempo.\nCada vez desaparece m\xE1s tierra.\nMe rodea el agua.\nEs
+        el final..."
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: revolutionBook_0_4
+      TermType: 0
+      Description: 
+      Languages:
+      - 'I''ve finally finished building it.
+
+        The apocalypse is coming.
+
+        I
+        have no choice but to board it and wait until everything else sinks in water.'
+      - "\uB4DC\uB514\uC5B4 \uBC30\uAC00 \uC644\uC131\uB418\uC5C8\uB2E4.\n\uC9C0\uAD6C\uC758
+        \uC885\uB9D0\uC774 \uBA38\uC9C0\uC54A\uC558\uB2E4.\n\uC2B9\uC120\uD558\uACE0
+        \uC2F6\uC9C0 \uC54A\uC9C0\uB9CC \uB0B4\uAC00 \uD560 \uC218 \uC788\uB294 \uAC74\n\uBAA8\uB4E0
+        \uAC8C \uBB3C\uC5D0 \uC7A0\uAE38 \uB54C\uAE4C\uC9C0 \uAE30\uB2E4\uB9AC\uB294
+        \uAC83\uBFD0\uC774\uB2E4."
+      - "\u3064\u3044\u306B\u8239\u304C\u5B8C\u6210\u3057\u305F\u3002\n\u3057\u304B\u3057\u5730\u7403\u306E\u7D42\u672B\u3082\u9593\u3082\u306A\u3044\u3002\n\u4E57\u8239\u3057\u305F\u3044\u308F\u3051\u3067\u306F\u306A\u3044\u3002\u79C1\u306B\u3067\u304D\u308B\u3053\u3068\u306F\n\u5168\u3066\u304C\u6D77\u306E\u4E2D\u306B\u6C88\u3080\u6642\u3092\u5F85\u3064\u306E\u307F\u3002\n"
+      - 'Ho finalmente finito di costruirla.
+
+        L''apocalisse sta arrivando.
+
+        Non
+        ho altra scelta che salire a bordo e aspettare che tutto il resto venga inabissato'
+      - "Ya he terminado de construirlo.\nEl apocalipsis est\xE1 muy cerca.\nNo me
+        queda m\xE1s remedio que subirme y esperar a que todo se hunda."
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: revolutionBook_0_5
+      TermType: 0
+      Description: 
+      Languages:
+      - 'The day has finally come.
+
+        Today''s the day the ship departs to
+        hell.
+
+        Will all these people and I be able to survive?'
+      - "\uC0C1\uC0C1\uD558\uAE30 \uC2EB\uB358 \uADF8\uB0A0\uC774 \uC624\uACE0\uC57C
+        \uB9D0\uC558\uB2E4.\n\uC624\uB298\uC740 \uBC30\uAC00 \uC9C0\uC625 \uC18D\uC73C\uB85C
+        \uCD9C\uD56D\uD558\uB294 \uB0A0\uC774\uB2E4.\n\uACFC\uC5F0 \uB9CE\uC740 \uC0AC\uB78C\uB4E4\uACFC
+        \uB098\uB294 \uC0B4\uC544\uB0A8\uC744 \uC218 \uC788\uC744\uAE4C?"
+      - "\u60F3\u50CF\u3082\u3057\u305F\u304F\u306A\u304B\u3063\u305F\u305D\u306E\u65E5\u304C\u3084\u3063\u3066\u304D\u3066\u3057\u307E\u3063\u305F\u3002\n\u4ECA\u65E5\u306F\u5730\u7344\u306E\u4E2D\u3078\u3068\u51FA\u6E2F\u3059\u308B\u65E5\u3002\n\u305F\u304F\u3055\u3093\u306E\u4EBA\u3005\u3068\u79C1\u306F\u3001\u679C\u305F\u3057\u3066\u751F\u304D\u6B8B\u308B\u306E\u3060\u308D\u3046\u304B\u3002"
+      - "Il giorno \xE8 finalmente arrivato.\nOggi \xE8 il giorno in cui la nave
+        parte verso gli inferi.\nRiusciremo io e tutte queste persone a sopravvivere?"
+      - "El d\xEDa ha llegado.\nHoy el barco parte hacia su propio infierno.\n\xBFPodremos
+        sobrevivir?"
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: revolutionBook_1_0
+      TermType: 0
+      Description: 
+      Languages:
+      - 'Observed Info: Came across another ship.
+
+        Confirmed the existence
+        of another group of survivors apart from the ones in the ark.'
+      - "\uC815\uCC30 \uB0B4\uC6A9 : \uB2E4\uB978 \uBC30\uC640 \uB9C8\uC8FC\uCE68.\n\n\uBC29\uC8FC
+        \uC678\uC5D0 \uB2E4\uB978 \uC0DD\uC874\uC790 \uADF8\uB8F9 \uC874\uC7AC \uD655\uC778."
+      - "\u5075\u5BDF\u5185\u5BB9 : \u4ED6\u306E\u8239\u3068\u906D\u9047\n\n\u65B9\u821F\u4EE5\u5916\u306E\u751F\u5B58\u8005\u30B0\u30EB\u30FC\u30D7\u306E\u5B58\u5728\u78BA\u8A8D"
+      - 'Informazioni osservate: mi sono imbattuto in un''altra nave.
+
+        Confermata
+        l''esistenza di un altro gruppo di sopravvissuti oltre a quelli nell''arca.'
+      - "Observaci\xF3n: Me he cruzado con otro barco.\nHe confirmado la existencia
+        de otro grupo de supervivientes aparte de los del arca."
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: revolutionBook_1_1
+      TermType: 0
+      Description: 
+      Languages:
+      - 'Observed Info: Food supply, ship components have been obtained.
+
+        Brought
+        10 people who want to move to the ark.
+
+        They are currently living
+        in Lamp Town.'
+      - "\uC815\uCC30 \uB0B4\uC6A9 : \uC2DD\uB7C9, \uBC30\uC758 \uBD80\uC18D\uD488\uB4F1
+        \uD68D\uB4DD.\n10\uBA85\uC758 \uBC29\uC8FC\uB85C \uC774\uC8FC\uD558\uACE0
+        \uC2F6\uC740 \uC0AC\uB78C\uB4E4\uC744 \uB370\uB824\uC634.\n\uB7A8\uD504\uD0C0\uC6B4\uC5D0
+        \uAC70\uC8FC \uC2DC\uD0B4 ."
+      - "\u5075\u5BDF\u5185\u5BB9 : \u98DF\u6599\u3001\u8239\u306E\u90E8\u54C1\u7B49\u7372\u5F97\u3002\n\u65B9\u821F\u306B\u79FB\u4F4F\u3057\u305F\u3068\u3044\u304610\u540D\u306E\u4EBA\u3005\u304C\u4E57\u8239\u3002\n\u73FE\u5728\u30E9\u30F3\u30D7\u30BF\u30A6\u30F3\u306B\u5C45\u4F4F\u3002"
+      - 'Informazioni osservate: abbiamo ottenuto forniture di cibo, componenti della
+        nave.
+
+        Ha portato 10 persone che vogliono trasferirsi nell''arca.
+
+        Attualmente
+        vivono a Lamp Town.'
+      - "Observaci\xF3n: Hemos conseguido comida y componentes del barco.\nHemos
+        dado la bienvenida a 10 personas que quer\xEDan subir.\nEst\xE1n viviendo
+        en Ciudad Farol."
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: revolutionBook_1_2
+      TermType: 0
+      Description: 
+      Languages:
+      - 'Observed Info: A battle occurred.
+
+        Captured 52 people to send to
+        the Seaweed Workshop.'
+      - "\uC815\uCC30 \uB0B4\uC6A9 : \uC804\uD22C\uAC00 \uC77C\uC5B4\uB0A8.\n\uD574\uC870\uB958
+        \uC791\uC5C5\uC7A5\uC5D0 \uD22C\uC785\uD560 52\uBA85\uC744 \uD3EC\uD68D."
+      - "\u5075\u5BDF\u5185\u5BB9 : \u6226\u95D8\u52C3\u767A\n\u6D77\u85FB\u4F5C\u696D\u5834\u306B\u6295\u5165\u3059\u308B25\u540D\u6355\u7372"
+      - "Informazioni osservate: si \xE8 verificata una battaglia.\nAbbiamo catturato
+        52 persone da inviare al magazzino di alghe."
+      - "Observaci\xF3n: Ha habido una pelea.\nSe han capturado a 52 personas y se
+        les ha enviado a la granja de algas."
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: revolutionBook_1_3
+      TermType: 0
+      Description: 
+      Languages:
+      - "Observed Info: \nLoot: 70 slaves, 1 dead.\nA person who acted on impulse
+        while cleaning up everything after the battle, so he was shot dead."
+      - "\uC815\uCC30 \uB0B4\uC6A9 :\n\uC804\uB9AC\uD488 : \uB178\uC608 70\uBA85
+        \uC0B4\uD574 1\uBA85.\n\uC804\uD22C \uD6C4 \uC815\uB9AC \uACFC\uC815 \uC911
+        \uD55C \uBA85\uC774 \uB3CC\uBC1C \uD589\uB3D9\uC744 \uD558\uC5EC \uBD88\uAC00\uD53C\uD558\uAC8C
+        \uC0AC\uC0B4."
+      - "\u5075\u5BDF\u5185\u5BB9 : \n\u6226\u5229\u54C1 : \u5974\u96B7 70\u540D\u3001\u6BBA\u5BB3
+        1\u540D\n\u6226\u95D8\u5F8C\u306E\u7247\u4ED8\u3051\u4E2D\u306B1\u540D\u304C\u7A81\u767A\u884C\u52D5\u3092\u8D77\u3053\u3057\u3001\u3084\u3080\u3092\u5F97\u305A\u5C04\u6BBA\u3002"
+      - "Informazioni osservate:\nBottino: 70 schiavi, 1 morto.\nUna persona che
+        ha agito d'impulso mentre ripuliva il tutto dopo la battaglia, \xE8 stata
+        ucciso a colpi di arma da fuoco."
+      - "Observaci\xF3n: \nBot\xEDn: 70 esclavos, 1 muerto.\nLa persona se revel\xF3
+        tras limpiar los restos de la batalla, as\xED que se le dispar\xF3."
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: revolutionBook_1_4
+      TermType: 0
+      Description: 
+      Languages:
+      - 'Observed Info:
+
+        Loot: 110 slaves, 35 dead.
+
+        Ark damage:
+        14 casualties.
+
+        A battle occurred due to strong resistance, so the
+        ark was damaged.'
+      - "\uC815\uCC30 \uB0B4\uC6A9:\n\uC804\uB9AC\uD488 : \uB178\uC608 110\uBA85
+        \uC0B4\uD574 35\uBA85.\n\uBC29\uC8FC \uD53C\uD574 : \uC0AC\uC0C1\uC790 14\uBA85.\n\n\uC0C1\uB300\uC758
+        \uC800\uD56D\uC774 \uC2EC\uD574 \uD070 \uC804\uD22C\uAC00 \uC77C\uC5B4\uB098
+        \uBC29\uC8FC\uC758 \uD53C\uD574 \uBC1C\uC0DD."
+      - "\u5075\u5BDF\u5185\u5BB9 : \n\u6226\u5229\u54C1 : \u5974\u96B7 110\u540D\u3001\u6BBA\u5BB3
+        35\u540D\n\u65B9\u821F\u306E\u88AB\u5BB3 : \u6B7B\u50B7\u8005 14\u540D\n\n\u76F8\u624B\u306E\u62B5\u6297\u304C\u6FC0\u3057\u304F\u3001\u5927\u304D\u3044\u6226\u95D8\u306B\u3064\u306A\u304C\u3063\u305F\u305F\u3081\u3001\u65B9\u821F\u306E\u88AB\u5BB3\u767A\u751F"
+      - "Informazioni osservate:\nBottino: 110 schiavi, 35 morti.\nDanni dell'arca:
+        14 vittime.\nSi \xE8 verificata una battaglia a causa della forte resistenza,
+        cos\xEC l'arca \xE8 stata danneggiata."
+      - "Observaci\xF3n:\nBot\xEDn: 110 esclavos, 35 muertos.\nDa\xF1o del arca:
+        14 bajas.\nHa habido una pelea causada por una gran resistencia y el arca
+        ha sufrido da\xF1os en el proceso."
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: revolutionBook_1_5
+      TermType: 0
+      Description: 
+      Languages:
+      - 'Observed Info: 250 dead.
+
+        Caused a ship to sink and destroyed 200
+        people.'
+      - "\uC815\uCC30 \uB0B4\uC6A9 : \uC0B4\uD574 \uC57D250\uBA85.\n200\uBA85 \uAE09
+        \uBC30 \uACA9\uCE68\uD558\uC5EC \uC804\uBA78 \uC2DC\uD0B4."
+      - "\u5075\u5BDF\u5185\u5BB9 : \u6BBA\u5BB3 \u7D04250\u540D\n200\u540D\u7D1A\u306E\u8239\u6483\u6C88\u3055\u305B\u3001\u5168\u6EC5\u3002"
+      - 'Informazioni osservate: 250 morti.
+
+        Ha causato l''affondamento di
+        una nave e l''annientamento di 200 persone.'
+      - "Observaci\xF3n: 250 muertos.\nSe ha hundido un barco y han muerto 200 personas."
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: revolutionBook_2_0
+      TermType: 0
+      Description: 
+      Languages:
+      - 'Some members in the reconnaissance group rose up in revolt and caused damage.
+
+        The
+        TF team was created to take care of them.'
+      - "\uC815\uCC30\uB2E8 \uBA87\uBA87\uC758 \uC778\uC6D0\uB4E4\uC774 \uBC18\uB780\uC744
+        \uC77C\uC73C\uCF1C \uD53C\uD574 \uBC1C\uC0DD.\nTF\uD300\uC744 \uAFB8\uB824
+        \uB300\uC751."
+      - "\u5075\u5BDF\u968A\u306E\u6570\u4EBA\u304C\u53CD\u4E71\u3092\u8D77\u3053\u3057\u3066\u30C0\u30E1\u30FC\u30B8\u767A\u751F\u3002\nTF\u30C1\u30FC\u30E0\u7D50\u6210\u3067\u5BFE\u5FDC\u3002"
+      - "Alcuni membri del gruppo di ricognizione si sono ribellati e hanno causato
+        danni.\nIl team TF \xE8 stato creato per occuparsi di loro."
+      - "Algunos miembros del equipo de reconocimiento se han alzado en armas y han
+        provocado da\xF1os.\nEl grupo operativo que se cre\xF3 se ha ocupado de ellos."
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: revolutionBook_2_1
+      TermType: 0
+      Description: 
+      Languages:
+      - 'The TF team arrested the leader.
+
+        The rebels were annihilated, but
+        some managed to get away.'
+      - "TF\uD300\uC774 \uC8FC\uB3D9\uC790\uB97C \uCCB4\uD3EC.\n\uBC18\uB780\uAD70\uC740
+        \uAD34\uBA78\uD588\uC9C0\uB9CC \uBA87\uBA87\uC740 \uB193\uCE68."
+      - "Tf\u30C1\u30FC\u30E0\u304C\u30EA\u30FC\u30C0\u30FC\u3092\u902E\u6355\u3002\n\u53CD\u4E71\u8ECD\u306F\u58CA\u6EC5\u3002\u305F\u3060\u3057\u6570\u4EBA\u306F\u9003\u8D70\u4E2D\u3002"
+      - 'Il team TF ha arrestato il leader.
+
+        I ribelli sono stati annientati,
+        ma alcuni sono riusciti a scappare.'
+      - "El grupo operativo ha arrestado al l\xEDder.\nPero no todas las fuerzas
+        rebeldes se aniquilaron; algunos sobrevivieron."
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: revolutionBook_2_2
+      TermType: 0
+      Description: 
+      Languages:
+      - 'Analysis on how the rebel forces were able to take over Sky Town:
+
+
+        1.
+        Security status
+
+        2. Public opinion and popular sentiment of the ark
+
+        3.
+        Suspicious insider'
+      - "\uBC18\uB780\uAD70\uC774 \uB108\uBB34 \uC27D\uAC8C \uC2A4\uCE74\uC774 \uD0C0\uC6B4\uC744
+        \uC7A5\uC545\uD55C \uAC83\uC5D0 \uB300\uD55C \uBD84\uC11D.\n\n1. \uCE58\uC548
+        \uC0C1\uD0DC.\n2. \uBC29\uC8FC\uC758 \uC5EC\uB860\uACFC \uBBFC\uC2EC.\n3.
+        \uB0B4\uBD80\uC790 \uC758\uC2EC."
+      - "\u53CD\u4E71\u8ECD\u306B\u3088\u308B\u30B9\u30AB\u30A4\u30BF\u30A6\u30F3\u5360\u9818\u306B\u95A2\u3059\u308B\u5206\u6790\n\n\uFF11\uFF0E\u6CBB\u5B89\u72B6\u614B\n\uFF12\uFF0E\u65B9\u821F\u306E\u4E16\u8AD6\u3068\u6C11\u5FC3\n\uFF13\uFF0E\u5185\u90E8\u8005\u3078\u306E\u7591\u3044"
+      - 'Analisi su come le forze ribelli sono riuscite a conquistare Sky Town:
+
+
+        1.
+        Stato di sicurezza
+
+        2. Opinione pubblica e sentimento popolare dell''arca
+
+        3.
+        Sospetto infiltrato'
+      - "An\xE1lisis de c\xF3mo las fuerzas rebeldes se hicieron con Ciudad C\xE9lica:\n\n1.
+        Posici\xF3n de seguridad.\n2. Opini\xF3n p\xFAblica y sentimiento popular
+        del arca.\n3. Persona infiltrada desconocida."
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: revolutionBook_2_3
+      TermType: 0
+      Description: 
+      Languages:
+      - Senior figures have been accused of being involved in the mutiny.
+      - "\uCD08\uACE0\uC704\uAE09 \uC778\uC0AC\uC758 \uBC18\uB780 \uAC00\uB2F4 \uC758\uD639
+        \uBC1C\uACAC."
+      - "\u6700\u9AD8\u4F4D\u4EBA\u4E8B\u306B\u3088\u308B\u53CD\u4E71\u5354\u529B\u306E\u7591\u3044\u767A\u898B\u3002"
+      - Personaggi di spicco sono stati accusati di essere coinvolti nell'ammutinamento.
+      - "Hay figuras veteranas acusadas de ser parte del mot\xEDn."
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: revolutionBook_2_4
+      TermType: 0
+      Description: 
+      Languages:
+      - 'High-class insiders were removed from their positions.
+
+        They were
+        sent to a forced labor camp.
+
+        Their families were demoted from their
+        classes as well.'
+      - "\uCD08\uACE0\uC704\uAE09 \uB0B4\uBD80\uC790\uC758 \uC9C1\uC704\uC758 \uBC15\uD0C8.\n\uAC15\uC81C\uB178\uC5ED\uC18C\uB85C
+        \uBC30\uCE58.\n\uAC00\uC871\uB4E4\uB3C4 \uACC4\uAE09 \uAC15\uB4F1."
+      - "\u6700\u9AD8\u4F4D\u5185\u90E8\u8005\u306E\u5F79\u8077\u5265\u596A\u3002\n\u5F37\u5236\u52B4\u50CD\u6240\u914D\u7F6E\u3002\n\u5BB6\u65CF\u3082\u968E\u7D1A\u964D\u683C"
+      - 'Gli insider di classe alta sono stati rimossi dalle loro posizioni.
+
+        Sono
+        stati spediti in un campo di lavoro forzato.
+
+        Anche le loro famiglie
+        sono state retrocesse.'
+      - "Se quit\xF3 a los infiltrados de clase alta de sus puestos.\nSe enviaron
+        al campo de trabajos forzados.\nTambi\xE9n se degrad\xF3 a sus familias."
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: revolutionBook_3_0
+      TermType: 0
+      Description: 
+      Languages:
+      - Everyone's encouraging each other and being considerate of others. They hope
+        to see land again one day.
+      - "\uBAA8\uB450\uAC00 \uC11C\uB85C\uB97C \uACA9\uB824\uD558\uACE0 \uBC30\uB824\uD558\uBA70
+        \uC721\uC9C0\uAC00 \uACE7 \uC0DD\uACA8\uB098\uB9AC\uB77C\uB294 \uD76C\uB9DD\uC744
+        \uAC16\uACE0 \uC788\uB2E4."
+      - "\u7686\u52B1\u307E\u3057\u3042\u3063\u3066\u914D\u616E\u3057\u3042\u3044\u306A\u304C\u3089\u3001\u3082\u3046\u3059\u3050\u9678\u5730\u304C\u73FE\u308C\u308B\u3068\u3044\u3046\u5E0C\u671B\u3092\u3082\u3063\u3066\u3044\u308B\u3002"
+      - Tutti si incoraggiano a vicenda e rispettano gli altri. Sperano di rivedere
+        la terra un giorno.
+      - "Todo el mundo le dice al resto que sean considerados. Esperan ver tierra
+        firme alg\xFAn d\xEDa."
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: revolutionBook_3_1
+      TermType: 0
+      Description: 
+      Languages:
+      - 'No sign of land anywhere.
+
+        But people are still making an effort
+        to establish peace in the ark.'
+      - "\uC721\uC9C0\uAC00 \uC0DD\uACA8\uB0A0 \uAE30\uBBF8\uAC00 \uBCF4\uC774\uC9C0
+        \uC54A\uB294\uB2E4.\n\uADF8\uB798\uB3C4 \uBC29\uC8FC\uC5D0\uC11C\uB77C\uB3C4
+        \uD3C9\uD654\uB85C\uC6B4 \uC138\uC0C1\uC744 \uB9CC\uB4DC\uB824\uACE0 \uC0AC\uB78C\uB4E4\uC774
+        \uB178\uB825\uD55C\uB2E4."
+      - "\u9678\u5730\u304C\u51FA\u3066\u304F\u308B\u6C17\u914D\u304C\u3057\u306A\u3044\u3002\n\u3051\u308C\u3069\u3001\u65B9\u821F\u306E\u4E2D\u3060\u3051\u306F\u5E73\u548C\u306A\u4E16\u754C\u306B\u3057\u305F\u3044\u3068\u4EBA\u3005\u304C\u529B\u3092\u5408\u308F\u305B\u3066\u3044\u308B\u3002"
+      - 'Nessun segno di terraferma da nessuna parte.
+
+        Ma le persone stanno
+        ancora facendo uno sforzo per mantenere la pace nell''arca.'
+      - 'No hay tierra a la vista por ninguna parte.
+
+        Pero la gente sigue
+        luchando por instaurar la paz en el arca.'
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: revolutionBook_3_2
+      TermType: 0
+      Description: 
+      Languages:
+      - 'The orchard in the farm was looted.
+
+        Investigations took place and
+        the criminal was arrested.
+
+        He''s been punished. He now has to harvest
+        seaweed.'
+      - "\uB18D\uC7A5\uC5D0 \uACFC\uC218\uC6D0\uC774 \uD138\uB838\uB2E4.\n\uC218\uC0AC\uB97C
+        \uC9C4\uD589\uD574 \uBC94\uC778\uC744 \uC7A1\uC558\uB2E4.\n\uD574\uC870\uB958\uB97C
+        \uC218\uD655\uC2DC\uD0A4\uB294 \uD615\uBC8C\uC744 \uB0B4\uB838\uB2E4."
+      - "\u8FB2\u5834\u306E\u679C\u6A39\u5712\u306E\u679C\u7269\u304C\u76D7\u307E\u308C\u305F\u3002\n\u64CD\u4F5C\u3092\u884C\u3044\u3001\u72AF\u4EBA\u304C\u898B\u3064\u304B\u3063\u305F\u3002\n\u6D77\u85FB\u3092\u53CE\u7A6B\u3055\u305B\u308B\u5211\u7F70\u3092\u4E0B\u3057\u305F\u3002"
+      - "Il frutteto della fattoria \xE8 stato saccheggiato.\nSono scattate le indagini
+        e il criminale \xE8 stato arrestato.\n\xC8 stato punito. Ora deve raccogliere
+        le alghe."
+      - "El vergel de la granja ha sido objeto de un robo.\nSe ha arrestado al criminal
+        tras una investigaci\xF3n.\nSe le ha castigado y enviado a la granja de algas."
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: revolutionBook_3_3
+      TermType: 0
+      Description: 
+      Languages:
+      - 'Violence occurred.
+
+        More people are having trust issues as time
+        goes on.'
+      - "\uD3ED\uB825 \uC0AC\uAC74\uC774 \uC77C\uC5B4\uB0AC\uB2E4.\n\uC2DC\uAC04\uC774
+        \uC9C0\uB0A0\uC218\uB85D \uC0AC\uB78C\uB4E4\uC774 \uC11C\uB85C\uB97C \uBBFF\uC9C0
+        \uBABB\uD558\uACE0 \uC788\uB2E4."
+      - "\u66B4\u529B\u4E8B\u4EF6\u304C\u8D77\u304D\u305F\u3002\n\u6642\u304C\u7D4C\u3064\u3068\u3001\u4EBA\u3005\u306F\u4E92\u3044\u3092\u4FE1\u3058\u306A\u304F\u306A\u3063\u3066\u304D\u305F\u3002"
+      - "Si \xE8 verificato un incidente violenzo.\nSempre pi\xF9 persone iniziano
+        a perdere la fiducia col passare del tempo."
+      - "Ha habido un suceso violento.\nCada vez m\xE1s gente tiene crisis de fe."
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: revolutionBook_3_4
+      TermType: 0
+      Description: 
+      Languages:
+      - 'Cliques are forming.
+
+        Groups are uniting together based on their
+        wealth.'
+      - "\uD30C\uBC8C\uC774 \uC0DD\uAE30\uACE0 \uC788\uB2E4.\n\uBD80\uC5D0 \uB530\uB77C
+        \uC9D1\uB2E8\uB4E4\uC774 \uBB49\uCE58\uB294 \uC911\uC774\uB2E4."
+      - "\u6D3E\u95A5\u304C\u3067\u304D\u306F\u3058\u3081\u3066\u3044\u308B\u3002\n\u5BCC\u306E\u6C34\u6E96\u306B\u3088\u3063\u3066\u5F62\u6210\u3055\u308C\u305F\u8907\u6570\u306E\u96C6\u56E3\u304C\u3067\u304D\u3066\u3044\u308B\u3002\n"
+      - 'Si stanno formando cricche.
+
+        Questi gruppi si uniscono in base alla
+        loro ricchezza.'
+      - "Se est\xE1n formando grupos.\nEst\xE1n basados en su poder adquisitivo."
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: revolutionBook_3_5
+      TermType: 0
+      Description: 
+      Languages:
+      - 'It''s unofficial, but a hierarchy has been formed.
+
+        People are now
+        residing on each floor according to their social status. '
+      - "\uBE44\uACF5\uC2DD\uC801\uC73C\uB85C \uACC4\uAE09\uC774 \uB9CC\uB4E4\uC5B4\uC84C\uB2E4.\n\uACC4\uAE09\uBCC4\uB85C
+        \uBC29\uC8FC\uC758 \uAC01 \uCE35\uC5D0 \uC8FC\uAC70\uD558\uAC8C \uB418\uC5C8\uB2E4."
+      - "\u975E\u516C\u5F0F\u306E\u968E\u7D1A\u304C\u3067\u304D\u3066\u3044\u308B\u3002\n\u968E\u7D1A\u5225\u306B\u65B9\u821F\u306E\u5404\u968E\u306B\u5206\u304B\u308C\u3066\u66AE\u3089\u3059\u3088\u3046\u306B\u3063\u305F\u3002"
+      - "Non \xE8 ufficiale, ma si \xE8 formata una gerarchia.\nLe persone ora risiedono
+        su ciascun piano in base al loro status sociale. "
+      - "No es oficial, pero se ha creado una jerarqu\xEDa.\nLa gente reside en cada
+        piso seg\xFAn su estatus social. "
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: revolutionBook_3_6
+      TermType: 0
+      Description: 
+      Languages:
+      - The ark gained stability after the people settled down on each floor.
+      - "\uCE35\uBCC4\uB85C \uC0AC\uB78C\uB4E4\uC774 \uB098\uB258\uACE0 \uBC29\uC8FC\uAC00
+        \uB2E4\uC2DC \uC548\uC815\uB418\uAE30 \uC2DC\uC791\uD588\uB2E4."
+      - "\u5404\u968E\u306B\u5206\u304B\u308C\u3066\u66AE\u3089\u3059\u3088\u3046\u306B\u306A\u3063\u3066\u304B\u3089\u65B9\u821F\u306F\u518D\u3073\u5B89\u5B9A\u3092\u53D6\u308A\u623B\u3057\u305F\u3002"
+      - "L'arca \xE8 diventata pi\xF9 stabile dopo che le persone si sono suddivise
+        in ciascun piano."
+      - "El arca ha ganado estabilidad despu\xE9s de que la gente eche ra\xEDces
+        en sus respectivos pisos."
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: revolutionary_army
+      TermType: 0
+      Description: 
+      Languages:
+      - Revolutionary Army
+      - "\uD601\uBA85\uAD70"
+      - "\u9769\u547D\u8ECD"
+      - Esercito Rivoluzionario
+      - "Ej\xE9rcito revolucionario"
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: seaweed
+      TermType: 0
+      Description: 
+      Languages:
+      - Seaweed
+      - "\uD574\uC870\uB958"
+      - "\u6D77\u85FB"
+      - Alga marina
+      - Alga
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: sick
+      TermType: 0
+      Description: 
+      Languages:
+      - Sick
+      - "\uBAB8\uC0B4"
+      - "\u4F53\u8ABF\u4E0D\u826F"
+      - Malato
+      - Enfermo
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: sleeping_pills
+      TermType: 0
+      Description: 
+      Languages:
+      - Sleeping Pill
+      - "\uC218\uBA74\uC81C"
+      - "\u7761\u7720\u5264"
+      - Pillola di sonnifero
+      - "Somn\xEDfero"
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: sleepingpills
+      TermType: 0
+      Description: 
+      Languages:
+      - Drop a sleeping pill into the drink
+      - "\uC218\uBA74\uC81C \uD0C0\uAE30"
+      - "\u7761\u7720\u5264\u3092\u5165\u308C\u308B"
+      - Metti il sonnifero nella bevanda
+      - "Pon un somn\xEDfero en la bebida."
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: submarinekey
+      TermType: 0
+      Description: 
+      Languages:
+      - Submarine Key
+      - "\uC7A0\uC218\uD568 \uC5F4\uC1E0"
+      - "\u6F5C\u6C34\u8266\u306E\u9375"
+      - Chiave del sottomarino
+      - Llave del submarino
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: survival
+      TermType: 0
+      Description: 
+      Languages:
+      - Survival
+      - "\uC0DD\uC874"
+      - "\u751F\u5B58"
+      - Sopravvivenza
+      - Supervivencia
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: take_medicine
+      TermType: 0
+      Description: 
+      Languages:
+      - Make
+      - "\uC81C\uC870 \uD558\uAE30"
+      - "\u88FD\u9020\u3059\u308B"
+      - Prepara
+      - Crear
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: throw
+      TermType: 0
+      Description: 
+      Languages:
+      - Throw
+      - "\uD22C\uCC99"
+      - "\u6295\u64F2"
+      - Getta
+      - Lanzar
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: thud!
+      TermType: 0
+      Description: 
+      Languages:
+      - Thud!
+      - "\uCFF5 !"
+      - "\u30B4\u30FC\u30F3\uFF01"
+      - Poff!
+      - "\xA1Pam!"
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: tothefarm
+      TermType: 0
+      Description: 
+      Languages:
+      - Go to the Farm
+      - "\uB18D\uC7A5\uC73C\uB85C"
+      - "\u8FB2\u5834\u3078"
+      - Vai alla fattoria
+      - Ir a la granja
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: upper class society
+      TermType: 0
+      Description: 
+      Languages:
+      - High Society
+      - "\uC0C1\uB958\uC0AC\uD68C"
+      - "\u4E0A\u6D41\u793E\u4F1A"
+      - "Alta societ\xE0"
+      - Alta sociedad
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: verification_code
+      TermType: 0
+      Description: 
+      Languages:
+      - Authentication Code
+      - "\uC778\uC99D\uCF54\uB4DC"
+      - "\u8A8D\u8A3C\u30B3\u30FC\u30C9"
+      - Codice di autenticazione
+      - "C\xF3digo de autenticaci\xF3n"
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: verification_code_book
+      TermType: 0
+      Description: 
+      Languages:
+      - Authentication Code Book
+      - "\uC778\uC99D \uCF54\uB4DC \uCC45"
+      - "\u8A8D\u8A3C\u30B3\u30FC\u30C9\u306E\u672C"
+      - Libro dei codici di autenticazione
+      - "Libro de c\xF3digos de autenticaci\xF3n"
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: wagon
+      TermType: 0
+      Description: 
+      Languages:
+      - Wagon
+      - "\uC218\uB808"
+      - "\u53F0\u8ECA"
+      - Carrello
+      - Carro
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: "\uB0B4\uAC00 \uADF8\uAC83\uC744 \uAC00\uC9C0\uACE0 \uC788\uB2E4\uBA74
+        \uB098\uB294 \uADF8\uAC83\uC744 \uACF5\uC720\uD558\uC9C0 \uC54A\uC2B5\uB2C8\uB2E4.
+        \uB0B4\uAC00 \uADF8\uAC83\uC744 \uACF5\uC720\uD558\uBA74 \uB098\uB294 \uADF8\uAC83\uC744
+        \uAC00\uC9C0\uACE0 \uC788\uC9C0 \uC54A\uC2B5\uB2C8\uB2E4. \uB09C \uBB58\uAE4C"
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Cost_new
+      TermType: 0
+      Description: 
+      Languages:
+      - $0.99
+      - "\u20A91,200"
+      - "\xA5120"
+      - $0.99
+      - $0.99
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: newOffer
+      TermType: 0
+      Description: 
+      Languages:
+      - All Games Can Be Played Without Ads
+      - "\uAD11\uACE0 \uC5C6\uC774 \uBAA8\uB4E0 \uAC8C\uC784 \uC9C4\uD589 \uAC00\uB2A5"
+      - "\u5E83\u544A\u306A\u3057\u3067\u3059\u3079\u3066\u306E\u30B2\u30FC\u30E0\u304C\u9032\u884C\u53EF\u80FD"
+      - "Tutti I Giochi Possono Essere Giocati Senza Pubblicit\xE0"
+      - Todos Los Juegos Se Pueden Jugar Sin Anuncios.
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: newOffer_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Limited Time Specials
+      - "\uC2DC\uAC04\uD55C\uC815 \uD2B9\uAC00"
+      - "\u6642\u9593\u9650\u5B9A\u7279\u4FA1"
+      - Speciali A Tempo Limitato
+      - Especiales Por Tiempo Limitado
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Offer
+      TermType: 0
+      Description: 
+      Languages:
+      - Special Price
+      - "\uD2B9\uAC00"
+      - "\u304A\u5F97"
+      - Prezzo Speciale
+      - Precio Especial
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: MemoryCard_Collection
+      TermType: 0
+      Description: 
+      Languages:
+      - Memory Card
+      - "\uAE30\uC5B5\uCE74\uB4DC"
+      - "\u30E1\u30E2\u30EA\u30AB\u30FC\u30C9"
+      - Scheda Di Memoria
+      - Tarjeta De Memoria
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Shop_info_1
+      TermType: 0
+      Description: 
+      Languages:
+      - 'From now on, your decision is very important '
+      - "\uC774\uC81C\uBD80\uD130 \uB2F9\uC2E0\uC758 \uC120\uD0DD\uC774 \uC911\uC694\uD569\uB2C8\uB2E4."
+      - "\u4ECA\u304B\u3089\u306F\u3042\u306A\u305F\u306E\u9078\u629E\u304C\u91CD\u8981\u3067\u3059\u3002"
+      - "D'ora in poi, la tua decisione \xE8 molto importante"
+      - "A partir de ahora, tu decisi\xF3n es muy importante."
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Shop_info_2
+      TermType: 0
+      Description: 
+      Languages:
+      - 'Your destiny is up to your decision. '
+      - "\uB2F9\uC2E0\uC758 \uC120\uD0DD\uC5D0 \uB530\uB77C \uACB0\uB9D0\uC774 \uC815\uD574
+        \uC9D1\uB2C8\uB2E4."
+      - "\u9078\u629E\u306B\u3088\u3063\u3066\u7D50\u672B\u304C\u5909\u308F\u308A\u307E\u3059\u3002"
+      - Il tuo destino dipende dalla tua decisione.
+      - "Tu destino depende de tu decisi\xF3n."
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Shop_Title
+      TermType: 0
+      Description: 
+      Languages:
+      - Shop
+      - "\uC0C1\uC810"
+      - "\u30B7\u30E7\u30C3\u30D7"
+      - Negozio
+      - Comercio
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: How_far
+      TermType: 0
+      Description: 
+      Languages:
+      - How far your game go
+      - "\uAC8C\uC784 \uC9C4\uD589\uB960"
+      - "\u30B2\u30FC\u30E0\u9032\u884C\u5EA6"
+      - Fino a che punto arriva il tuo gioco
+      - "Hasta d\xF3nde llega tu juego"
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: inappInfoMain
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u2022 \u26AB\u26AB\u26AB\u26AB\u26AB\u26AB\u26AB\u26AB\u26AB\u26AB\u26AB\u26ABYou
+        are able to collect 8 endings \n\n\u2022 You keep proceeding various puzzle
+        \n\n\u2022 It's possible to use unlimited hint for puzzle \n\n\u2022 All
+        ads will be removed."
+      - "\u2022 \u26AB\u26AB\u26AB\u26AB\u26AB\u26AB\u26AB\u26AB\u26AB\u26AB\u26AB\u26AB\uC5D4\uB529\uCE74\uB4DC
+        8\uAC1C\uB97C \uC218\uC9D1 \uD560 \uC218 \uC788\uC2B5\uB2C8\uB2E4.\n\n\u2022
+        \uC55E\uC73C\uB85C 25\uAC1C\uC758 \uD018\uC2A4\uD2B8\uB97C \uC9C4\uD589 \uD560
+        \uC218 \uC788\uC2B5\uB2C8\uB2E4.\n\n\u2022 \uD37C\uC990\uC758 \uD78C\uD2B8\uB97C
+        \uBB34\uC81C\uD55C \uC0AC\uC6A9 \uAC00\uB2A5 \uD569\uB2C8\uB2E4.\n\n\u2022
+        \uBAA8\uB4E0 \uAD11\uACE0\uAC00 \uC81C\uAC70 \uB429\uB2C8\uB2E4."
+      - "\u2022\u26AB\u26AB\u26AB\u26AB\u26AB\u26AB\u26AB\u26AB\u26AB\u26AB\u26AB\u26AB\u30A8\u30F3\u30C7\u30A3\u30F3\u30B0\u30AB\u30FC\u30C9\u306F8\u500B\u96C6\u3081\u308B\u3053\u3068\u304C\u51FA\u6765\u307E\u3059\u3002\n\n\u2022\u3053\u308C\u304B\u308925\u500B\u306E\u30AF\u30A8\u30B9\u30C8\u304C\u59CB\u307E\u308A\u307E\u3059\u3002\n\n\u2022\u30D1\u30BA\u30EB\u306E\u30D2\u30F3\u30C8\u306F\u7121\u5236\u9650\u306B\u4F7F\u7528\u51FA\u6765\u307E\u3059\u3002\n\n\u2022\u5168\u3066\u306E\u5E83\u544A\u3092\u524A\u9664\u51FA\u6765\u307E\u3059\u3002"
+      - "\u2022\u26AB\u26AB\u26AB\u26AB\u26AB\u26AB\u26AB\u26AB\u26AB\u26AB\u26ABSei
+        in grado di raccogliere 8 finali\n\n\u2022Continui a procedere con vari enigmi\n\n\u2022\xC8
+        possibile utilizzare suggerimenti illimitati per i puzzle\n\n\u2022Tutti
+        gli annunci verranno rimossi."
+      - "\u2022\u26AB\u26AB\u26AB\u26AB\u26ABPuedes coleccionar 8 finales\n\n\u2022Sigues
+        procesando varios rompecabezas.\n\n\u2022Es posible usar pistas ilimitadas
+        para rompecabezas\n\n\u2022Se eliminar\xE1n todos los anuncios."
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: DroneTutorial_1
+      TermType: 0
+      Description: 
+      Languages:
+      - You can check the progress of the game.
+      - "\uAC8C\uC784\uC758 \uC9C4\uD589 \uC0C1\uD669\uC744 \uD655\uC778 \uD560 \uC218
+        \uC788\uC2B5\uB2C8\uB2E4."
+      - "\u30B2\u30FC\u30E0\u306E\u9032\u884C\u72B6\u6CC1\u3092\u78BA\u8A8D\u3067\u304D\u307E\u3059\u3002"
+      - Puoi controllare l'avanzamento del gioco.
+      - Puedes comprobar el progreso del juego.
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: TimeLine
+      TermType: 0
+      Description: 
+      Languages:
+      - TimeLine
+      - "\uD0C0\uC784\uB77C\uC778"
+      - "\u30BF\u30A4\u30E0\u30E9\u30A4\u30F3"
+      - Sequenza temporale
+      - "l\xEDnea de tiempo"
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Move
+      TermType: 0
+      Description: 
+      Languages:
+      - Move
+      - "\uC774\uB3D9"
+      - "\u52D5\u304F"
+      - Mossa
+      - Mover
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: travel_1
+      TermType: 0
+      Description: 
+      Languages:
+      - '[First Day Of Accommodation]'
+      - "[\uC219\uC18C \uCCAB\uB0A0]"
+      - "\u3010\u5BBF\u820E\u521D\u65E5\u3011"
+      - '[Primo Giorno Di Alloggio]'
+      - "[Primer D\xEDa De Alojamiento]"
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: travel_2
+      TermType: 0
+      Description: 
+      Languages:
+      - '[Grandpa''s Request]'
+      - "[\uD560\uC544\uBC84\uC9C0\uC758 \uC694\uCCAD]"
+      - "\u3010\u304A\u3058\u3044\u3061\u3083\u3093\u306E\u304A\u9858\u3044\u3011"
+      - '[Richiesta Del Nonno]'
+      - '[Solicitud Del Abuelo]'
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: travel_3
+      TermType: 0
+      Description: 
+      Languages:
+      - '[Ventilator]'
+      - "[\uD658\uD48D\uAD6C]"
+      - "\u3010\u63DB\u6C17\u53E3\u3011"
+      - '[Ventilatore]'
+      - '[Ventilador]'
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: travel_4
+      TermType: 0
+      Description: 
+      Languages:
+      - '[High Quality Seaweed]'
+      - "[\uACE0\uAE09 \uD574\uC870\uB958]"
+      - "\u3010\u9AD8\u7D1A\u6D77\u85FB\u985E\u3011"
+      - "[Alghe Di Alta Qualit\xE0]"
+      - '[Algas Marinas De Alta Calidad]'
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: travel_5
+      TermType: 0
+      Description: 
+      Languages:
+      - '[Steel Gate]'
+      - "[\uAC15\uCCA0\uBB38]"
+      - "[\u92FC\u9244\u6249]"
+      - '[Cancello D''acciaio]'
+      - '[Puerta De Acero]'
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: travel_6
+      TermType: 0
+      Description: 
+      Languages:
+      - '[Password]'
+      - "[\uBE44\uBC00\uBC88\uD638]"
+      - "[\u30D1\u30B9\u30EF\u30FC\u30C9]"
+      - '[Parola D''ordine]'
+      - "[Contrase\xF1a]"
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: travel_7
+      TermType: 0
+      Description: 
+      Languages:
+      - '[Apprentice Farmer]'
+      - "[\uC218\uC2B5 \uB18D\uBD80]"
+      - "\u3010\u53CE\u62FE\u8FB2\u5BB6\u3011"
+      - '[Apprendista Contadino]'
+      - '[Aprendiz De Granjero]'
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: travel_8
+      TermType: 0
+      Description: 
+      Languages:
+      - '[Regular Farmer]'
+      - "[\uC815\uC2DD \uB18D\uBD80]"
+      - "\u3010\u6B63\u5F0F\u8FB2\u5BB6\u3011"
+      - '[Agricoltore Normale]'
+      - '[Agricultor Habitual]'
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: travel_9
+      TermType: 0
+      Description: 
+      Languages:
+      - '[Arson]'
+      - "[\uBC29\uD654]"
+      - "[\u9632\u706B]"
+      - '[Incendio Doloso]'
+      - '[Incendio Provocado]'
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: travel_10
+      TermType: 0
+      Description: 
+      Languages:
+      - '[Factory]'
+      - "[\uACF5\uC7A5]"
+      - "[\u5DE5\u5834]"
+      - '[Fabbrica]'
+      - "[F\xE1brica]"
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: travel_11
+      TermType: 0
+      Description: 
+      Languages:
+      - '[Factory Manager''s Request]'
+      - "[\uACF5\uC7A5\uC7A5\uC758 \uBD80\uD0C1]"
+      - "\u3010\u5DE5\u5834\u306E\u304A\u9858\u3044\u3011"
+      - '[Richiesta Del Direttore Della Fabbrica]'
+      - "[Solicitud Del Gerente De F\xE1brica]"
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: travel_12
+      TermType: 0
+      Description: 
+      Languages:
+      - '[Meet The Anchor Manager]'
+      - "[\uB2FB \uAD00\uB9AC\uC778\uACFC \uB9CC\uB0A8]"
+      - "[\u30A2\u30F3\u30AB\u30FC\u7BA1\u7406\u4EBA\u3068\u51FA\u4F1A\u3046]"
+      - '[Incontra Il Gestore Dell''ancora]'
+      - '[Conozca Al Gerente Ancla]'
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: travel_13_1
+      TermType: 0
+      Description: 
+      Languages:
+      - '[With A Farmer''s Colleague]'
+      - "[\uB18D\uBD80 \uB3D9\uB8CC\uC640]"
+      - "\u3010\u8FB2\u6C11\u540C\u50DA\u3068\u3011"
+      - '[Con Il Collega Di Un Agricoltore]'
+      - '[Con El Colega De Un Agricultor]'
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: travel_13_2
+      TermType: 0
+      Description: 
+      Languages:
+      - '[With Manager Executive]'
+      - "[\uAD00\uB9AC\uC790 \uAC04\uBD80\uC640]"
+      - "\u3010\u7BA1\u7406\u8005\u5E79\u90E8\u3068\u3011"
+      - '[Con Dirigente Dirigente]'
+      - '[Con Gerente Ejecutivo]'
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: travel_14_1
+      TermType: 0
+      Description: 
+      Languages:
+      - '[Search Stand]'
+      - "[\uAC80\uC0C9\uB300]"
+      - "[\u691C\u7D22\u53F0]"
+      - '[Stand Di Ricerca]'
+      - "[Puesto De B\xFAsqueda]"
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: travel_15_1
+      TermType: 0
+      Description: 
+      Languages:
+      - '[Secret Prison]'
+      - "[\uBE44\uBC00 \uAC10\uC625]"
+      - "[\u79D8\u5BC6\u5211\u52D9\u6240]"
+      - '[Prigione Segreta]'
+      - "[Prisi\xF3n Secreta]"
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: travel_16_1
+      TermType: 0
+      Description: 
+      Languages:
+      - '[Residential Area]'
+      - "[\uC8FC\uAC70 \uC9C0\uC5ED]"
+      - "\u3010\u4F4F\u5B85\u5730\u3011"
+      - '[Zona Residenziale]'
+      - '[Barrio Residencial]'
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: travel_17_1
+      TermType: 0
+      Description: 
+      Languages:
+      - '[Wheelroom Hallway]'
+      - "[\uC870\uD0C0\uC2E4 \uBCF5\uB3C4]"
+      - "\u3010\u64CD\u8235\u5BA4\u5ECA\u4E0B\u3011"
+      - '[Corridoio Della Timoneria]'
+      - '[Pasillo De La Sala De Ruedas]'
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: travel_18_1
+      TermType: 0
+      Description: 
+      Languages:
+      - '[Leadership Corridor]'
+      - "[\uC9C0\uB3C4\uC790\uCE35 \uBCF5\uB3C4]"
+      - "[\u6307\u5C0E\u8005\u5C64\u5ECA\u4E0B]"
+      - '[Corridoio Della Direzione]'
+      - '[Corredor De Liderazgo]'
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: travel_19_1
+      TermType: 0
+      Description: 
+      Languages:
+      - '[Leader Room]'
+      - "[\uC9C0\uB3C4\uC790 \uBC29]"
+      - "[\u30EA\u30FC\u30C0\u30FC\u30EB\u30FC\u30E0]"
+      - '[Stanza Del Capo]'
+      - "[Sala Del L\xEDder]"
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: travel_info_title
+      TermType: 0
+      Description: 
+      Languages:
+      - Would You Like To Go To That Story?
+      - "\uD574\uB2F9 \uC2A4\uD1A0\uB9AC\uB85C \uC774\uB3D9\uD558\uC2DC\uACA0\uC2B5\uB2C8\uAE4C?"
+      - "\u305D\u306E\u30B9\u30C8\u30FC\u30EA\u30FC\u306B\u79FB\u52D5\u3057\u307E\u3059\u304B\uFF1F"
+      - Ti Piacerebbe Andare A Quella Storia?
+      - "\xBFTe Gustar\xEDa Ir A Esa Historia?"
+      Flags: 0000000000
+      Languages_Touch: []
+    CaseInsensitiveTerms: 0
+    OnMissingTranslation: 1
+    mTerm_AppName: App_Name
+    mLanguages:
+    - Name: English
+      Code: en
+      Flags: 0
+    - Name: Korean
+      Code: ko
+      Flags: 0
+    - Name: Japanese
+      Code: ja
+      Flags: 0
+    - Name: Italian
+      Code: it
+      Flags: 0
+    - Name: Spanish
+      Code: es
+      Flags: 0
+    IgnoreDeviceLanguage: 0
+    _AllowUnloadingLanguages: 0
+    Google_WebServiceURL: https://script.google.com/macros/s/AKfycbytO43wLKBY9NQA7UQctXpiWKWnAHq-Q9Bks7YR2ORWavt1a0DkbjieCKMlbhr9L_8T/exec
+    Google_SpreadsheetKey: 
+    Google_SpreadsheetName: 
+    Google_LastUpdatedVersion: 
+    Google_Password: change_this
+    GoogleUpdateFrequency: 3
+    GoogleInEditorCheckFrequency: 2
+    GoogleUpdateSynchronization: 1
+    GoogleUpdateDelay: 0
+    Assets: []
+    Spreadsheet_LocalFileName: "C:/Users/ADMIN/Desktop/Styx_Localization/\uC5B8\uC5B4
+      3\uAC1C \uCD94\uAC00/\uAE30\uBCF8/Localization.csv"
+    Spreadsheet_LocalCSVSeparator: ','
+    Spreadsheet_LocalCSVEncoding: utf-8
+    Spreadsheet_SpecializationAsRows: 1

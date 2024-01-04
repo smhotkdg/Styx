@@ -1,0 +1,402 @@
+﻿Key,Type,Desc,Korean,English,Japanese
+ActionCount,Text,,+ 20 행동력,,
++ 20 action,,,,,
+Ads,Text,,광고,ADS,ADS
+All_story_progression,Text,,모든 이야기 진행,,
+All story progression.,,,,,
+BGM,Text,,배경음,BGM,
+Bag,Text,,가방,Bag,
+Book_1_1,Text,,"기억은 종교랬지.
+자꾸만 기대고 싶으니까,
+우리는 자신의 몸 안에서 길을 잃었고,
+걷고 걸었다. 몽유병 환자처럼.","Memory was religion.
+Because I keep wanting to lean on you,
+We are lost in our own body,
+walked and walked like a sleepwalker.",
+BoxHint,Text,,"이전에 일하던 친구가 물건을 반대로 정리했다고 한다.
+왼쪽 물건을 오른쪽으로,
+오른쪽 물건을 모두 왼쪽으로 옮겨야 한다.","It is said that a friend who worked previously organized things the other way around.
+Left object to right,
+All items on the right must be moved to the left.",
+Close,Text,,닫기,Close,
+Confirm,Text,,확인,Confirm,
+Cost,Text,,"₩5,900",$4.99 ,¥ 610
+Delete,Text,,삭제,Delete,
+DeleteHistory,Text,,기록 삭제,delete history,
+DragBook,Text,,드래그 하여 넘기기,Drag to flip the book,
+DroneCheck,Text,,스카이 타운 시민이 맞습니까?,Are you a Skytown citizen?,
+DrugMake,Text,,독약 타기,poisoning,
+Emergencyareaactivation,Text,,비상구역 활성화,Emergency area activation,
+Enter,Text,,입력,Enter,
+EnterCode,Text,,코드 입력,,
+Enter code,,,,,
+Event,Text,,이벤트,Event,
+Execution,Text,,집행,Execution,
+Farm,Text,,농장,Farm,
+Find_Search,Text,,수색,Search,
+Fire_event_1,Text,,무슨 일이야!,what's the matter!,
+Fire_event_2,Text,,창고에 불이 났어!,,
+The warehouse is on fire!,,,,,
+Fire_event_3,Text,,불이야!!,,
+fire!!,,,,,
+Fx,Text,,효과음,FX,
+GetDrink,Text,,음료수 획득,,
+get a drink,,,,,
+GetSeaweed,Text,,해초류 채집,Get Seaweed,
+GetSleepingPill,Text,,수면제 획득,,
+get sleeping pills,,,,,
+Get_Touch,Text,,터치하여 채집....,"Get Touch,,,,,",
+Getfruit,Text,,과일 수확,Get fruit,
+GrandFatherBook_1,Text,,"이대로 가다간 오래 버티지 못할 것 같다.
+대대적인 변화가 필요하다.
+쉽지 않겠지만 인류를 위해서 해야만 한다.","I don't think it will last long if it goes on like this.
+A major change is needed.
+It will not be easy, but it must be done for the sake of mankind.",
+GrandFatherBook_2,Text,,"사람들이 다 너무 이기적이다.
+자신의 이익만 챙기려고 한다.
+조금씩 양보하면 좋으련만...","All people are so selfish
+They are only trying to take care of their own interests.
+It would be nice to give a little bit, but...",
+GrandFatherBook_3,Text,,"내 잘못으로 가족들이 뿔뿔이 흩어졌다.
+내 잘못이다.. 너무 슬프다...
+살아갈 자신이 없다...","My family was torn apart because of my fault.
+It's my fault... so sad...
+I can't afford to live...",
+GrandFatherBook_4,Text,,"이곳에서는 하루 종일 일만한다.
+이렇게 힘들게 살고 있을줄 몰랐다....
+죄책감이 든다.","I work here all day.
+I didn't know it was going to be this hard...
+I feel guilty.",
+GrandFatherBook_5,Text,,"가족들이 너무 보고 싶다.
+죽을 만큼 힘들지만 언젠가 만날 수 있다는
+희망을 갖고 버틴다.","I miss my family so much.
+It's hard enough to die, but I hope we can meet someday
+hold on to hope",
+GrandFatherBook_6,Text,,"너무 오랜 시간이 흘렀다.
+이젠 적응이 되어 이곳 일도 그다지 힘들지 않다.
+우리 가족들은 무사할까....","Too long time has passed.
+Now that I'm used to it, the work here isn't too difficult.
+Will my family be okay?",
+GrandFatherBook_7,Text,,"오랜만에 일기를 쓴다.
+가족과 만날 수 있다는 희망은 버린 지 오래다.
+부디 잘 살고 있기만을 바랄 뿐이다..","I write a diary after a long time.
+The hope of meeting with family has long since been abandoned.
+I just want you to live well.",
+GrandFatherBook_8,Text,,"젊은 친구가 내 숙소로 배정받았다.
+무슨 일을 당한 건지 기억을 잃어버린 것 같다.
+빨리 건강해질 수 있도록 도와줘야겠다.","A young friend was assigned to my accommodation.
+He seems to have lost his memory of what happened.
+I need to help you get healthy quickly.",
+IappInfo,Text,,#NAME?,"- Remove all ads
+- All story progress
+- New story progression at any point in time",
+Juice,Text,,음료,Juice,
+JuiceHint,Text,,제조법,recipe,
+Kill,Text,,사살,,
+kill,,,,,
+MachineRoom,Text,,기계실,MachineRoom,
+Make_Drone,Text,,드론 제작,Make Drone,
+Manufactured,Text,,제조 완료,Manufactured,
+Map,Text,,지도,Map,
+MemoryCard,Text,,기억카드,MemoryCard,
+MemoryCardClose,Text,,"기억 카드 획득 !
+탭하여 닫기 ....","Get a memory card!
+Tap to close....",
+Menu,Text,,메뉴,Menu,
+MoveBox,Text,,상자 이동,MoveBox,
+NaverMake,Text,,위험 절대 제조하지 말것,,
+DANGER Never make,,,,,
+NotReady,Text,,"아직 준비가 안됐어,","I'm not ready yet,",
+PartyEvent_1,Text,,이러면 안되는거잖아,You shouldn't be like this,
+PartyEvent_2,Text,,사람이 죽었잖아 ,someone is dead,
+PartyEvent_3,Text,,뭐야 갑자기!,what suddenly!,
+PartyEvent_4,Text,,윽...으윽...,Ugh... Ugh...,
+PartyRoom,Text,,파티장,PartyRoom,
+Picture,Text,,그림,Picture,
+Pull_the_trigger,Text,,방아쇠를 당긴다., Pull the trigger,
+Quest_Chess,Text,,체스 말,,
+chess piece,,,,,
+Quest_Coin,Text,,코인,Coin,
+Quest_Computer,Text,,컴퓨터,Computer,
+Quest_DeliveryMan,Text,,이송,Delivery,
+Quest_Doctor,Text,,의사,Doctor,
+Quest_Door_lock,Text,,차단,Lock,
+Quest_GetCard,Text,,카드획득,GetCard,
+Quest_LamptownManager,Text,,관리자,Manager,
+Quest_Machine,Text,,기계제어,Machine,
+Quest_Machine_2,Text,,기계 제어,Machine,
+Quest_Oldman,Text,,할아버지,Oldman,
+Quest_SleepingPill,Text,,수면제,SleepingPill,
+Quest_code,Text,,코드,code,
+Quest_copperwire,Text,,구리 선,copper wire,
+Quest_deadman,Text,,시체운반,Deadman,
+Quest_drugf,Text,,독약,drug,
+Quest_escape,Text,,탈출,escape,
+Quest_fire,Text,,방화,fire,
+Quest_fix,Text,,수리,fix,
+Quest_full-timefarmer,Text,,정식농부,full-time farmer,
+Quest_hide,Text,,숨기기,hide,
+Quest_move,Text,,이동,move,
+Quest_orchard,Text,,과수원,orchard,
+Quest_password,Text,,비밀번호,password,
+Quest_pill,Text,,알약,pill,
+Quest_remove,Text,,기록삭제,Remove,
+Quest_select,Text,,선택,select,
+Quest_steeldoor,Text,,강철문,steel door,
+Quset_Accesscard,Text,,출입카드,Accesscard,
+Quset_PupOwner,Text,,펍주인,PupOwner,
+Remove_Some,Text,,제거한다.,Remove.,
+Save_Some,Text,,살려준다.,save.,
+Saved,Text,,저장 완료,,
+Saved,,,,,
+Search,Text,,탐색,Search,
+Seaweed_Expansion,Text,,해조류 수확장,Seaweed Expansion,
+SelectStory,Text,,이야기 시작점을 선택 하세요.,,
+Choose a starting point for the story.,,,,,
+Shoot,Text,,발사,Shoot,
+Sit,Text,,앉기,Sit,
+SkyTown,Text,,스카이 타운,SkyTown,
+SleepManager,Text,,관리자 재우기,put the manager to sleep,
+SleepingQeust,Text,,잠재우기,,
+put to sleep,,,,,
+Sowing,Text,,씨 뿌리기,Sowing,
+Start_Machine,Text,,기계 작동,start_Machine,
+StopKilling,Text,,살인은 이제 그만....,stop killing,
+TabClose,Text,,탭하여 닫기...,,
+Tap to close...,,,,,
+Time_Hint,Text,,<color=red>시간</color>은 누구에게나 평등하다.,,
+<color=red>time</color> is equal for everyone.,,,,,
+Watering,Text,,물 주기,Watering,
+anchor_office,Text,,닻 관리실,anchor office,
+book1_4,Text,,도중에 포기하지 말라. 망설이지 말라. 최후의 성공을 거둘 때까지 밀고 나가자,,
+Don't give up on the way. Do not hesitate. Let's keep pushing until we reach the final success,,,,,
+book_1_2,Text,,고통이 남기고 간 뒤를 보라! 고난이 지나면 반드시 기쁨이 스며든다.,"See what the pain left behind! After suffering, joy always permeates.",
+book_1_3,Text,,신의 본성이 어떤것이든 그에 충실하라 . 자신이 가진 재능의 끈을 놓아 버리지 마라. 본성이 이끄는 대로 따르면 성공할것이다.,"Whatever God's nature is, be faithful to it. Don't let go of the strings of your talents. If you follow your nature's guidance, you will succeed.",
+book_1_4,Text,,도중에 포기하지 말라. 망설이지 말라. 최후의 성공을 거둘 때까지 밀고 나가자,,
+book_1_5,Text,,"마음대로 좋은 나뭇잎을 골라 뜯어먹는
+목이 긴 기린의 행복을 생각할 때, 
+목이 짧아 굶어 죽은 기린의 고통을 잊어서는 안된다.","Picking and plucking good leaves
+When thinking of the happiness of a giraffe with a long neck,
+We must not forget the suffering of a giraffe who died of starvation due to its short neck.",
+book_1_6,Text,,"만일 사회가 많은 가난한 사람을 도울 수 없다면 
+부유한 소수의 사람도 구해 줄 수 없다.","If society cannot help many poor people
+It cannot save even a few wealthy people.",
+book_1_7,Text,,금전은 비료와 같은 것으로 뿌리지 않으면 쓸모가 없다.,,
+,Money is useless unless it is sprinkled with fertilizer.,,,,
+book_1_8,Text,,"숫자가 알려주는 지혜
+모든 것이 중요한 것은 아니다.","Wisdom from numbers
+Not everything is important.",
+cancel,Text,,취소,cancel,
+cctvGame_1,Text,,,,
+내가 그것을 가지고 있다면 나는 그것을 공유하지 않습니다. 내가 그것을 공유하면 나는 그것을 가지고 있지 않습니다. 난 뭘까,If I have it I don't share it. If I share it I don't have it. what am i,,,,
+cold,Text,,감기,,
+cold,,,,,
+conversation,Text,,대화하기,conversation,
+escape,Text,,탈출,escape,
+explosion,Text,,폭발,,
+explosion,,,,,
+factory,Text,,공장,,
+factory,,,,,
+family,Text,,가족,family,
+farmers routine,Text,,농부의 일과,farmer's routine,
+headache,Text,,두통,headache,
+hunger,Text,,굶주림,hunger,
+iCant,Text,,아니 난 못하겠어.,no i can't,
+lamptown,Text,,램프타운,,
+lamp town,,,,,
+lift,Text,,승강기,lift,
+m_event_1,Text,,여러분이 우리의 희망이고 미래입니다.,You are our hope and our future.,
+m_event_10,Text,,감사합니다! 열심히 할게요!,thank you! I'll work hard!,
+m_event_11,Text,,"죽으러 가는 것도 아니고
+지금까지 벌써 몇 번이나 다녀온 건데 뭘","I'm not going to die
+How many times have you already been there?",
+m_event_12,Text,,이놈은 제가 잘 챙길게요 하하하,I'll take good care of this guy,
+m_event_13,Text,,죽으면 안돼!!,Don't die!!,
+m_event_2,Text,,"새로운 육지는 분명히 있을 것이라 믿고
+다시 한번 인류의 부흥을 위해 힘써주세요!","Believe that there will be a new land for sure
+Please work hard for the revival of mankind once again!",
+m_event_3,Text,,우리는 분명 더 도약할 것입니다.,We will definitely take a further leap forward.,
+m_event_4,Text,,꼭 다른 인류들을 찾아 서로 공생하며 살아갑시다!,Let's find other human beings and live in symbiosis with each other!,
+m_event_5,Text,,꼭 신대륙을 찾아 낼거에요!,I will definitely find a new continent!,
+m_event_6,Text,,엄마 다녀올게요,I'm going mom,
+m_event_7,Text,,그래 이번에도 몸 건강히 다녀오거라,"Yes, go back in good health again",
+m_event_8,Text,,자네에게 아주 기대가 크네!,I have high expectations for you!,
+m_event_9,Text,,나 다음은 자네가 이 탐험단을 이끌어야돼,"After me, you have to lead this expedition.",
+marina,Text,,선착장,,
+marina,,,,,
+motherfucker,Text,,이 개자식,motherfucker,
+needInapp,Text,,모든 스토리 구매 후 이용 가능합니다.,Available after purchasing all Stories.,
+one who believes in god,Text,,신을 믿는자,one who believes in god,
+pacemaker,Text,,심박동기,pacemaker,
+penance,Text,,참회,penance,
+poisoning,Text,,독약 타기,poisoning,
+purchase,Text,,구매,purchase,
+purchase_complete,Text,,구매 완료,purchase complete,
+recipe,Text,,제조법,,
+recipe,,,,,
+restore_purchase,Text,,구매 복원,,
+restore purchase,,,,,
+revenge,Text,,동료들의 복수다!,,
+It's the revenge of your colleagues!,,,,,
+,,,,,
+revolution,Text,,혁명,revolution,
+revolutionary_army,Text,,혁명군,revolutionary army,
+seaweed,Text,,해조류,Seaweed,
+sick,Text,,몸살,sick,
+sleeping_pills,Text,,수면제,,
+sleeping pills,,,,,
+sleepingpills,Text,,수면제 타기,sleeping pills,
+submarinekey,Text,,잠수함 열쇠,,
+submarine key,,,,,
+survival,Text,,생존,survival,
+take_medicine,Text,,제조 하기,take medicine,
+throw,Text,,투척,throw,
+thud!,Text,,쿵 !,thud!,
+tothefarm,Text,,농장으로,,
+to the farm,,,,,
+upper class society,Text,,상류사회,upper class society,
+verification_code,Text,,인증코드,verification code,
+verification_code_book,Text,,인증 코드 책,verification code book,
+HeadMasterBook_1_0,Text,,"정찰단 몇몇의 인원들이 반란을 일으켜 피해 발생.
+TF팀을 꾸려 대응.","Several members of the reconnaissance team revolted, causing damage.
+Form a TF team to respond.",
+HeadMasterBook_1_1,Text,,"TF팀이 주동자를 체포.
+반란군은 괴멸했지만 몇몇은 놓침.","The TF team arrested the instigator.
+The rebels were destroyed, but some were missed.",
+HeadMasterBook_1_2,Text,,"반란군이 너무 쉽게 스카이 타운을 장악한 것에 대한 분석.
+1. 치안 상태.
+2. 방주의 여론과 민심.
+3. 내부자 의심.","An analysis of how the rebels took over Skytown so easily.
+1. Security.
+2. Public opinion and public opinion on the ark.
+3. Insider Suspicion.",
+HeadMasterBook_1_3,Text,,초고위급 인사의 반란 가담 의혹 발견.,Suspicion of a high-ranking person participating in a rebellion was discovered.,
+HeadMasterBook_1_4,Text,,"초고위급 내부자의 직위의 박탈.
+강제노역소로 배치.
+가족들도 계급 강등.","Removal of an ultra-high-level insider's position.
+placed in forced labor camps.",
+HeadMasterBook_2_0,Text,,램프 타운의 사람들을 관리하기 위해 종교를 탄생 시켰다.,Religion was born to manage the people of Lamp Town.,
+HeadMasterBook_2_1,Text,,램프 타운 사람들의 불만이 많이 줄어들기 시작했다.,Complaints from the people of Lamp Town have started to diminish a lot.,
+HeadMasterBook_2_2,Text,,한세대가 지나고 나면 램프타운은 종교로 완전히 통제가 가능 할것이다.,"After a generation, Lamptown will be completely under the control of religion.",
+HeadMasterBook_2_3,Text,,램프 타운의 통제가 쉬워졌다.,Control of Lamp Town has become easier.,
+HeadMasterBook_2_4,Text,,종교의 수상한 움직임이 보인다.,A suspicious movement of religion is seen.,
+HeadMasterBook_2_5,Text,,램프타운의 사람들이 광적으로 종교를 믿는 모습이 종종 보인다.,It is often seen that the people of Lamp Town are religious fanatics.,
+HeadMasterBook_3_0,Text,,해조류 수확장 설치.,Seaweed water expansion installation.,
+HeadMasterBook_3_1,Text,,해조류 수확장에는 방주의 시민들이 교대로 근무를 들어가게 규칙을 정함.,"For the expansion of the seaweed count, rules were established to require the citizens of the ark to work in shifts.",
+HeadMasterBook_3_2,Text,,해조류 수확장의 노동 강도가 강하여 교대 근무 일수를 줄임.,Reduced shift work days due to strong labor intensity at the seaweed harvesting plant.,
+HeadMasterBook_3_3,Text,,해조류 수확장의 근무를 거부하는 시민들이 발생.,Citizens refused to work at the seaweed harvesting plant.,
+HeadMasterBook_3_4,Text,,"해조류 수확장 휴업.
+인력 부족.","Seaweed expansion closed.
+shortage of manpower.",
+HeadMasterBook_3_5,Text,,해조류 수확장 강제 노역소로 변경.,Changed to a forced labor camp for seaweed expansion.,
+revolutionBook_0_0,Text,,"기온 상승으로 지구 온난화가 가속화되고 있다.
+이렇게 가다간 빙하가 전부 녹아 해수면이 상승하여
+사람들이 살아갈 곳이 사라질 것이다.
+그 대비책으로 지금부터 내 전 재산을 들여 모두가 살 수 있는
+거대한 배 개발에 착수한다.","Global warming is accelerating due to rising temperature.
+All the glaciers would melt and sea levels would rise.
+There will be no place for people to live.
+As a precautionary measure, from now on, everyone can afford to spend all of my fortune.
+Start developing a giant ship.",
+revolutionBook_0_1,Text,,"많은 사람들은 날 미쳤다고 생각한다.
+하지만 그럼에도 나는 배를 준비해야 한다.
+멀지 않은 미래에 바다는 땅을 짚어 삼키고 말 것이다.
+배를 준비하기 위해 높은 지대를 선택했다.
+이제부터 작업을 시작한다.","A lot of people think I'm crazy.
+But nevertheless, I have to prepare the boat.
+In the not-too-distant future, the sea will swallow the land.
+High ground was chosen to prepare the ship.
+Start working from now on.",
+revolutionBook_0_2,Text,,"시간이 너무 지체되고 있다.
+배는 현재 80% 개발되었다.
+해수면은 굉장히 상승했고 벌써 지대가 낮은 지역은 바닷속으로 사라지고 있다.","Time is too late.
+The ship is now 80% developed.
+Sea levels have risen significantly and already low-lying areas are disappearing into the sea.",
+revolutionBook_0_3,Text,,"시간이 부족하다.
+육지가 더 사라졌다.
+이제는 주위를 둘러봐도 바다밖에 보이지 않는다.
+이대로 끝인 건가.","I don't have enough time.
+More land disappeared.
+Now when I look around, I can only see the sea.
+Is it over like this?",
+revolutionBook_0_4,Text,,"드디어 배가 완성되었다.
+지구의 종말이 머지않았다.
+승선하고 싶지 않지만 내가 할 수 있는 건
+모든 게 물에 잠길 때까지 기다리는 것뿐이다.","Finally, the boat was complete.
+The end of the earth is not far away.
+I don't want to board but all I can do is
+All you have to do is wait until everything is submerged.",
+revolutionBook_0_5,Text,,"상상하기 싫던 그날이 오고야 말았다.
+오늘은 배가 지옥 속으로 출항하는 날이다.
+과연 많은 사람들과 나는 살아남을 수 있을까?","The day I did not want to imagine has come.
+Today is the day the ship sails into Hell.
+Will so many people and I be able to survive?",
+revolutionBook_1_0,Text,,"정찰 내용 : 다른 배와 마주침.
+
+방주 외에 다른 생존자 그룹 존재 확인.","Reconnaissance Contents: Encountering another ship.
+Confirmation of the existence of other groups of survivors besides the ark.",
+revolutionBook_1_1,Text,,"정찰 내용 : 식량, 배의 부속품등 획득.
+10명의 방주로 이주하고 싶은 사람들을 데려옴.
+램프타운에 거주 시킴 .","Reconnaissance Details: Acquisition of food, ship accessories, etc.
+Bringing those who want to migrate to the Ark of 10.
+Living in Lamptown.",
+revolutionBook_1_2,Text,,"정찰 내용 : 전투가 일어남.
+해조류 작업장에 투입할 52명을 포획.","Reconnaissance Description: A battle takes place.
+Caught 52 people to be put into the seaweed workshop.",
+revolutionBook_1_3,Text,,"정찰 내용 :
+전리품 : 노예 70명 살해 1명.
+전투 후 정리 과정 중 한 명이 돌발 행동을 하여 불가피하게 사살.","Scouting says:
+Loot: 1 killed 70 slaves.
+During the post-battle cleanup process, one of the people took a sudden action and was inevitably killed.",
+revolutionBook_1_4,Text,,"정찰 내용:
+전리품 : 노예 110명 살해 35명.
+방주 피해 : 사상자 14명.
+
+상대의 저항이 심해 큰 전투가 일어나 방주의 피해 발생.","Scouting includes:
+Loot: 110 slaves killed 35.
+Ark damage: 14 casualties.
+
+Due to the high resistance of the opponent, a big battle occurs, causing damage to the ark.",
+revolutionBook_1_5,Text,,"정찰 내용 : 살해 약250명.
+200명 급 배 격침하여 전멸 시킴.","Scouting Details: About 250 killed.
+Destroyed by sinking 200-class ships.",
+revolutionBook_2_0,Text,,"정찰단 몇몇의 인원들이 반란을 일으켜 피해 발생.
+TF팀을 꾸려 대응.","Several members of the reconnaissance team revolted, causing damage.
+Form a TF team to respond.",
+revolutionBook_2_1,Text,,"TF팀이 주동자를 체포.
+반란군은 괴멸했지만 몇몇은 놓침.","The TF team arrested the instigator.
+The rebels were destroyed, but some were missed.",
+revolutionBook_2_2,Text,,"반란군이 너무 쉽게 스카이 타운을 장악한 것에 대한 분석.
+
+1. 치안 상태.
+2. 방주의 여론과 민심.
+3. 내부자 의심.","An analysis of how the rebels took over Skytown so easily.
+
+1. Security.
+2. Public opinion and public opinion on the ark.
+3. Insider Suspicion.",
+revolutionBook_2_3,Text,,초고위급 인사의 반란 가담 의혹 발견.,Suspicion of a high-ranking person participating in a rebellion was discovered.,
+revolutionBook_2_4,Text,,"초고위급 내부자의 직위의 박탈.
+강제노역소로 배치.
+가족들도 계급 강등.","Removal of an ultra-high-level insider's position.
+placed in forced labor camps.
+Families were also demoted.",
+revolutionBook_3_0,Text,,모두가 서로를 격려하고 배려하며 육지가 곧 생겨나리라는 희망을 갖고 있다.,"Everyone is encouraging and caring for each other, and there is hope that the land will soon be established.",
+revolutionBook_3_1,Text,,"육지가 생겨날 기미가 보이지 않는다.
+그래도 방주에서라도 평화로운 세상을 만드려고 사람들이 노력한다.","There is no sign of land being created.
+Still, people try to make a peaceful world even on the ark.",
+revolutionBook_3_2,Text,,"농장에 과수원이 털렸다.
+수사를 진행해 범인을 잡았다.
+해조류를 수확시키는 형벌을 내렸다.","The orchard was stolen from the farm.
+An investigation was carried out and the culprit was caught.
+The penalty for harvesting seaweed was imposed.",
+revolutionBook_3_3,Text,,"폭력 사건이 일어났다.
+시간이 지날수록 사람들이 서로를 믿지 못하고 있다.","A violent incident occurred.
+As time goes by, people start to lose faith in each other.",
+revolutionBook_3_4,Text,,"파벌이 생기고 있다.
+부에 따라 집단들이 뭉치는 중이다.","Factions are forming
+Groups are coming together according to wealth.",
+revolutionBook_3_5,Text,,"비공식적으로 계급이 만들어졌다.
+계급별로 방주의 각 층에 주거하게 되었다.","The ranks were created informally.
+They were to live on each floor of the ark by rank.",
+revolutionBook_3_6,Text,,층별로 사람들이 나뉘고 방주가 다시 안정되기 시작했다.,"The people were divided into floors, and the ark began to stabilize again.",

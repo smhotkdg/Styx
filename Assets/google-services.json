@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "898719718717",
+    "firebase_url": "https://styx-1fcb2-default-rtdb.firebaseio.com",
+    "project_id": "styx-1fcb2",
+    "storage_bucket": "styx-1fcb2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898719718717:android:f713156ccd782d991cb954",
+        "android_client_info": {
+          "package_name": "com.hoitstudio.styx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "898719718717-hjm508u464bf2ms9u6lmo01m086gnm0r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANFNARjYxG-GB-P4oWDoY9sUpAUrA1cyA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "898719718717-hjm508u464bf2ms9u6lmo01m086gnm0r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "898719718717-000kq8t653s8sm317j86trgd0fv83nr9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hoitstudio.Styx",
+                "app_store_id": "1602798571"
+              }
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-7939215518934371~7204156303"
+    }
+  ],
+  "configuration_version": "1"
+}

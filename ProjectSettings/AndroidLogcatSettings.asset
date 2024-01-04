@@ -1,0 +1,203 @@
+{
+    "m_SelectedDeviceId": "ce0916090b184f3d04",
+    "m_SelectedPackage": {
+        "deviceId": "ce0916090b184f3d04",
+        "name": "com.hoitstudio.styx",
+        "processId": 15199,
+        "exited": false
+    },
+    "m_SelectedPriority": 0,
+    "m_KnownPackagesForSerialization": [
+        {
+            "deviceId": "ce0916090b184f3d04",
+            "name": "com.sec.android.app.launcher",
+            "processId": 5012,
+            "exited": false
+        },
+        {
+            "deviceId": "ce0916090b184f3d04",
+            "name": "com.hoitstudio.stroygametest",
+            "processId": 18082,
+            "exited": false
+        },
+        {
+            "deviceId": "ce0916090b184f3d04",
+            "name": "com.hoitstudio.stroygametest",
+            "processId": 31196,
+            "exited": true
+        },
+        {
+            "deviceId": "ce0916090b184f3d04",
+            "name": "com.hoitstudio.stroygametest",
+            "processId": 32235,
+            "exited": false
+        },
+        {
+            "deviceId": "ce0916090b184f3d04",
+            "name": "com.hoitstudio.stroygametest",
+            "processId": 1344,
+            "exited": true
+        },
+        {
+            "deviceId": "ce0916090b184f3d04",
+            "name": "com.hoitstudio.stroygametest",
+            "processId": 2636,
+            "exited": true
+        },
+        {
+            "deviceId": "ce0916090b184f3d04",
+            "name": "com.hoitstudio.stroygametest",
+            "processId": 4040,
+            "exited": true
+        },
+        {
+            "deviceId": "ce0916090b184f3d04",
+            "name": "com.hoitstudio.stroygametest",
+            "processId": 28955,
+            "exited": true
+        },
+        {
+            "deviceId": "ce0916090b184f3d04",
+            "name": "com.hitcode.blockout",
+            "processId": 25471,
+            "exited": false
+        },
+        {
+            "deviceId": "ce0916090b184f3d04",
+            "name": "com.hitcode.blockout",
+            "processId": 27014,
+            "exited": true
+        },
+        {
+            "deviceId": "ce0916090b184f3d04",
+            "name": "com.hitcode.blockout",
+            "processId": 29093,
+            "exited": true
+        },
+        {
+            "deviceId": "ce0916090b184f3d04",
+            "name": "com.hitcode.blockout",
+            "processId": 4139,
+            "exited": false
+        },
+        {
+            "deviceId": "ce0916090b184f3d04",
+            "name": "com.hitcode.blockout",
+            "processId": 21514,
+            "exited": true
+        },
+        {
+            "deviceId": "ce0916090b184f3d04",
+            "name": "com.hitcode.blockout",
+            "processId": 8917,
+            "exited": true
+        },
+        {
+            "deviceId": "ce0916090b184f3d04",
+            "name": "com.hitcode.blockout",
+            "processId": 10662,
+            "exited": true
+        },
+        {
+            "deviceId": "ce0916090b184f3d04",
+            "name": "com.hitcode.blockout",
+            "processId": 12530,
+            "exited": true
+        },
+        {
+            "deviceId": "ce0916090b184f3d04",
+            "name": "com.hitcode.blockout",
+            "processId": 14142,
+            "exited": true
+        },
+        {
+            "deviceId": "ce0916090b184f3d04",
+            "name": "com.hitcode.blockout",
+            "processId": 15563,
+            "exited": true
+        },
+        {
+            "deviceId": "ce0916090b184f3d04",
+            "name": "com.hitcode.blockout",
+            "processId": 16909,
+            "exited": true
+        },
+        {
+            "deviceId": "ce0916090b184f3d04",
+            "name": "com.hitcode.blockout",
+            "processId": 14509,
+            "exited": true
+        },
+        {
+            "deviceId": "ce0916090b184f3d04",
+            "name": "com.hitcode.blockout",
+            "processId": 5477,
+            "exited": true
+        },
+        {
+            "deviceId": "ce0916090b184f3d04",
+            "name": "com.hitcode.blockout",
+            "processId": 27500,
+            "exited": false
+        },
+        {
+            "deviceId": "ce0916090b184f3d04",
+            "name": "com.hoitstudio.styx",
+            "processId": 15199,
+            "exited": false
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": false
+            }
+        ]
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowHeight": 300.0,
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 1,
+        "Behavior": 1
+    },
+    "m_Filter": "",
+    "m_FilterIsRegularExpression": false,
+    "m_SymbolPaths": []
+}

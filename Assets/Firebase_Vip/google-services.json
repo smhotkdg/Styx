@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "526493370558",
+    "project_id": "styx-vip",
+    "storage_bucket": "styx-vip.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526493370558:android:dacbc2a0f92b0fbb87f6ef",
+        "android_client_info": {
+          "package_name": "com.hoitstudio.styxvip"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526493370558-mm918tfm5oqbebhh65p9pjr361i3nlu2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYFqfBQooTihSlX38_w1R4zbb3Yqa3zow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526493370558-mm918tfm5oqbebhh65p9pjr361i3nlu2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
